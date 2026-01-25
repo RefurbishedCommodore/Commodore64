@@ -2,4 +2,4 @@
 
 This is a test
 
-! [hello] (testimage.png)
+![hello](testimage.png)
