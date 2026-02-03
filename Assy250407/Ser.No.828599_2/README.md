@@ -31,7 +31,7 @@
 
 # Refurbishment plan
 
-The refurbishment plan for this C64 breadbin (several of them in parallell): [^1].
+The * *refurbishment plan for this C64 breadbin (several of them in parallell): [^1].
 
 - [x] Refurbish the casing (cleaning, repairing and retrobrighting)
 - [ ] Refurbish the casing (cleaning, repairing and retrobrighting)
@@ -45,17 +45,24 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 [^1] hello
 Here is some inline code```
 
-| Chip | Version | Date code | Socket | Note |
-|:----------:|:----------:|:----------:|:----------:|:----------:|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 | Row 1 Col 4 | Row 1 Col 4 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 | Row 2 Col 4 | Row 2 Col 4 |
+| Chip | Version | Date code | Position | Socketed | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| CPU | MOS 6510 | W27 Y1985 | Ux | No |  |
+| SID | MOS 6581AR4 | W27 Y1985 | Ux | Yes |  The best |
+| VIC | MOS 6567AR8 | W27 Y1985 | Ux | Yes | |
+| PLA | MOS 906114-01	 | W27 Y1985 | Ux | No |  |
+| CIA#1 | MOS 6526	 | W27 Y1985 | Ux | No |  |
+| CIA#2 | MOS 6526	 | W27 Y1985 | Ux |  No |  |
+| ROM - Character | MOS 901225-01	 | W27 Y1985 | Ux | No |   |
+| ROM - Kernal | MOS 901227-03	 | W27 Y1985 | Ux | No |  |
+| ROM - BASIC | MOS 901226-01	 | W27 Y1985 | Ux | No |  |
 
 
 
-| Header 1 | Header 2 | Header 3 |
-|:----------:|:----------:|:----------:|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+| MOS Glue logic chips |
+|:----------:|
+| No MOS glue logic |
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
