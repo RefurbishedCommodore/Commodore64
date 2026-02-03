@@ -11,7 +11,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#refurbishment-plan">Refurbishment plan</a>
+      <a href="#refurbishment-plan">Refurbishment helo plan</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
