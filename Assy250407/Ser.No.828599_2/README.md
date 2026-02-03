@@ -6,17 +6,20 @@
 ![Name](https://img.shields.io/badge/Serial_No.-12345678-white?style=plastic)
 
 
+# Table of contents
+
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
+<summary>TOC - Click to enlarge</summary>
+
+  <ul>
     <li>
       <a href="#starting-point">Starting point</a>
     </li>
     <li>
       <a href="#refurbishment-plan">Refurbishment plan</a>
     </li>
-  </ol>
+  </ul>
 </details>
 
 
