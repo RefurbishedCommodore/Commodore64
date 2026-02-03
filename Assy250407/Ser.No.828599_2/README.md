@@ -1,9 +1,10 @@
+![Name](https://img.shields.io/badge/Serial_No.-12345678-white?style=plastic)
+<br>
 ![Name](https://img.shields.io/badge/Assy-250407-white?style=plastic)
 ![Name](https://img.shields.io/badge/Artwork-251137-white?style=plastic)
 ![Name](https://img.shields.io/badge/Revision-B-white?style=plastic)
 ![Name](https://img.shields.io/badge/Video_format-PAL-white?style=plastic)
-<br>
-![Name](https://img.shields.io/badge/Serial_No.-12345678-white?style=plastic)
+
 
 # Table of contents
 
@@ -43,6 +44,13 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 [^1] hello
 Here is some inline code```
+
+| Chip | Version | Date code | Socket | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 | Row 1 Col 4 | Row 1 Col 4 |
+| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 | Row 2 Col 4 | Row 2 Col 4 |
+
+
 
 | Header 1 | Header 2 | Header 3 |
 |:----------:|:----------:|:----------:|
