@@ -10,7 +10,6 @@
 <!-- TABLE OF CONTENTS -->
 <details>
 <summary>TOC - Click to enlarge</summary>
-
   <ul>
     <li>
       <a href="#starting-point">Starting point</a>
