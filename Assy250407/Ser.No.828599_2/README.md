@@ -1,5 +1,7 @@
 # Starting point
 
+![hello](Images/testimage.png)
+
 # Refurbishment plan
 
 The refurbishment plan for this C64 breadbin (several of them in parallell): [^1].
