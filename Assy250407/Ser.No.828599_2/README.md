@@ -80,6 +80,4 @@ You can also use words, to fit your writing style more closely[^note].
 
 
 
-
-
 ![Name](https://img.shields.io/badge/Serial_No.-12345678-white?style=plastic)(#starting-point)
