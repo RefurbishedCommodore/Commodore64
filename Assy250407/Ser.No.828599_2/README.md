@@ -54,6 +54,8 @@ Here is some inline code```
 
 
 
+# ⌨️ Keyboard
+
 
 
 Here is a simple footnote[^1].
