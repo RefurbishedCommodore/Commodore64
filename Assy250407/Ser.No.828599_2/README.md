@@ -5,7 +5,7 @@
 <br>
 ![Name](https://img.shields.io/badge/Serial_No.-12345678-white?style=plastic)
 
-[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](href="#refurbishment-plan")
 
 # Table of contents
 
