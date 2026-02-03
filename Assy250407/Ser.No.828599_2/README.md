@@ -56,7 +56,7 @@ Here is some inline code```
 
 
 
-[![Testing](https://img.shields.io/badge/Serial_No.-12345678-white?style=plastic)](#table-of-contents)
+[![Testing](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 Here is a simple footnote[^1].
 
