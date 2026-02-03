@@ -5,8 +5,6 @@
 <br>
 ![Name](https://img.shields.io/badge/Serial_No.-12345678-white?style=plastic)
 
-[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](href="#refurbishment-plan")
-
 # Table of contents
 
 <!-- TABLE OF CONTENTS -->
@@ -58,7 +56,7 @@ Here is some inline code```
 
 
 
-[Testing](#table-of-contents)
+[![Testing](https://img.shields.io/badge/Serial_No.-12345678-white?style=plastic)](#table-of-contents)
 
 Here is a simple footnote[^1].
 
