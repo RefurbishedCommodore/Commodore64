@@ -27,7 +27,7 @@
 # Starting point
 
 <p align="center">
-    <img src="Images/testimage.png" alt="Description" width="300">
+    <img src="Images/testimage.png" alt="Description" width="300" href="#refurbishment-plan">
 </p>
 
 
