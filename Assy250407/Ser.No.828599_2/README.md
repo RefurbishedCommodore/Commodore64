@@ -58,6 +58,8 @@ Here is some inline code```
 
 
 
+[Testing](#table-of-contents)
+
 Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].  
