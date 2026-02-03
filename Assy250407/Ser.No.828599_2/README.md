@@ -1,6 +1,6 @@
 # Starting point
 
-![hello](Images/testimage.png)
+![hello](Images/testimage.png | width=100)
 
 # Refurbishment plan
 
