@@ -1,6 +1,9 @@
 # Starting point
 
-![hello](Images/testimage.png | width=100)
+<p align="center">
+    <img src="Images/testimage.png" alt="Description" width="300">
+</p>
+
 
 # Refurbishment plan
 
