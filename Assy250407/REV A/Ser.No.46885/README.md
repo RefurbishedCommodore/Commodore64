@@ -75,8 +75,11 @@ The results are shown in the table below:
   
 | Test area | Test criteria | Result | Comment |
 |:----------|:----------|:----------:|:----------|
-| Boot up | Default blue screen showing 38911 BASIC Bytes Free | FAILED | Garbled screen <br> The garbled screen varies on each power on |
-| DeadTest | Passing all tests | FAILED | Garbled screen | 
-| DesTestMAX | Passing all memory tests | FAILED | Garbled screen - but appears to be running|
+| Boot up | Default blue screen showing 38911 BASIC Bytes Free | FAILED | Garbled screen <br>Screen varies on each power on |
+| DeadTest | Passing all tests | FAILED | Garbled screen |
+| Diagostics Cartridge| Passing all tests | FAILED | Garbled screen <br>Screen varies on each power on|
+| DesTestMAX | Passing all memory tests | FAILED | Garbled screen <br>Appears to be running|
+| DesTestFULL | Passing all memory tests | FAILED | Garbled screen <br>Appears to be running|
+
 
 </div>
