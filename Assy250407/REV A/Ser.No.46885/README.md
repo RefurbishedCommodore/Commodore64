@@ -81,5 +81,36 @@ The results are shown in the table below:
 | DesTestMAX | Passing all memory tests | FAILED | Garbled screen <br>Appears to be running|
 | DesTestFULL | Passing all memory tests | FAILED | Garbled screen <br>Appears to be running|
 
-
 </div>
+
+Below are some pictures from the initial testing (click to enlarge).
+
+**Boot up:**
+
+<p align="center" float="left">
+    <img src="Images/Init01.jpeg" alt="Description" width="300">
+    <img src="Images/Init02.jpeg" alt="Description" width="300">
+    <img src="Images/Init02.jpeg" alt="Description" width="300">
+</p>
+
+**Dead test:**
+
+<p align="center" float="left">
+    <img src="Images/Init05.jpeg" alt="Description" width="300">
+</p>
+
+**Diagnostics cartridge:**
+
+<p align="center" float="left">
+    <img src="Images/Init04.jpeg" alt="Description" width="300">
+</p>
+
+**DesTestMAX:**
+
+A video from the DesTestMAX test: https://youtu.be/WOMNB_J3-R4
+
+**DesTestFULL:**
+
+<p align="center" float="left">
+    <img src="Images/Init06.jpeg" alt="Description" width="300">
+</p>
