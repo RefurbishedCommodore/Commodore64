@@ -23,7 +23,7 @@
 
 # Starting point
 
-This breadbin Commodore 64 have been sleeping in its original cardboard box for many years. But (luckily) it was found and will be taken care of by a fellow retro enthusiast. It is known to be not working, but hey, that´s just a challenge?
+This breadbin Commodore 64 has been sleeping in its original cardboard box for many years. But (luckily) it was found and will be taken care of by a fellow retro enthusiast. It is known to be not working, but hey, that´s just a challenge?
 
 From the outside it appears to be complete without any damage. Yes, the "Commodore 64" metal badge is missing, but that should be easy to fix by sourcing a new one. All the keys seems to be fine, from a mechanical point of view. There is quite some dust and grease between, and below, the keycaps but that is to be expected from a machine which has been stored away several years.
 
