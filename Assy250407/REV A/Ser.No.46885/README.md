@@ -35,7 +35,7 @@ The yellowing is quite severe, and varying in intensity in different areas on th
 
 Also, there is something I notice. There is a small "N" sticker at the bottom cover. This may of course be placed on the machine by the original owner, but could also be that Commodore placed this during manufacturing? This "N" sticker represents the Norwegian organisation "Nemko" which is a notified body for national electrical compliance. 
 
-Below are some pictures of the machine beforer refurbish (click to enlarge).
+Below are some pictures of the machine before refurbish (click to enlarge).
 
 <p align="center">
     <img src="Images/Start07.jpeg" alt="Description" width="600">
