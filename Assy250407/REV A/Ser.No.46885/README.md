@@ -1,8 +1,7 @@
-![Name](https://img.shields.io/badge/Serial_No.-12345678-white?style=plastic)
+![Name](https://img.shields.io/badge/Serial_No.-46885-white?style=plastic)
 <br>
 ![Name](https://img.shields.io/badge/Assy-250407-white?style=plastic)
-![Name](https://img.shields.io/badge/Artwork-251137-white?style=plastic)
-![Name](https://img.shields.io/badge/Revision-B-white?style=plastic)
+![Name](https://img.shields.io/badge/Revision-A-white?style=plastic)
 ![Name](https://img.shields.io/badge/Video_format-PAL-white?style=plastic)
 
 
@@ -16,7 +15,7 @@
       <a href="#starting-point">Starting point</a>
     </li>
     <li>
-      <a href="#refurbishment-plan">Refurbishment plan</a>
+      <a href="#refurbish-activities">Refurbish activities</a>
     </li>
   </ul>
 </details>
@@ -29,62 +28,17 @@
 </p>
 
 
-# Refurbishment plan
+# Refurbish activities
 
-The * *refurbishment plan for this C64 breadbin (several of them in parallell): [^1].
+The planned refurbishment activites for this Amiga 500 (Order may vary. Several of them in parallell):
 
-- [x] Refurbish the casing (cleaning, repairing and retrobrighting)
-- [ ] Refurbish the casing (cleaning, repairing and retrobrighting)
-- [ ] Refurbish the keyboard (cleaning, reviving the plungers and retrobrighting)
-- [ ] Refurbish main board (cleaning, checking, repairing, replacing capacitors and voltage regulators, adding heat sinks etc.)
-- [ ] Recap RF-modulator
-- [ ] Verify operation by testing
+- [ ] Refurbish the casing
+- [ ] Refurbish the keyboard
+- [ ] Refurbish mainboard
+- [ ] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
-
-[^1] hello
-Here is some inline code```
-
-| Chip | Version | Date code | Position | Socketed | Note |
-|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| CPU | MOS 6510 | W27 Y1985 | Ux | No |  |
-| SID | MOS 6581AR4 | W27 Y1985 | Ux | Yes |  The best |
-| VIC | MOS 6567AR8 | W27 Y1985 | Ux | Yes | |
-| PLA | MOS 906114-01	 | W27 Y1985 | Ux | No |  |
-| CIA#1 | MOS 6526	 | W27 Y1985 | Ux | No |  |
-| CIA#2 | MOS 6526	 | W27 Y1985 | Ux |  No |  |
-| ROM - Character | MOS 901225-01	 | W27 Y1985 | Ux | No |   |
-| ROM - Kernal | MOS 901227-03	 | W27 Y1985 | Ux | No |  |
-| ROM - BASIC | MOS 901226-01	 | W27 Y1985 | Ux | No |  |
-
-
-
-| MOS Glue logic chips |
-|:----------:|
-| No MOS glue logic |
-
+<br>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-# ⌨️ Keyboard
-
-
-
-[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
-
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].  
-
-You can also use words, to fit your writing style more closely[^note].
-
-[^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
-[^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
-
-
-
-![Name](https://img.shields.io/badge/Serial_No.-12345678-white?style=plastic)(#starting-point)
