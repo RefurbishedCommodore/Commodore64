@@ -17,6 +17,9 @@
     <li>
       <a href="#refurbish-activities">Refurbish activities</a>
     </li>
+    <li>
+      <a href="#initial-testing">Initial testing</a>
+    </li>
   </ul>
 </details>
 
