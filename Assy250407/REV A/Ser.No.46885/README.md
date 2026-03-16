@@ -48,7 +48,6 @@ Below are some pictures of the machine before refurbish (click to enlarge).
     <img src="Images/Start03.jpeg" alt="Description" width="600">
     <img src="Images/Start02.jpeg" alt="Description" width="600">
     <img src="Images/Start01.jpeg" alt="Description" width="600">
-  
 </p>
 
 
@@ -65,8 +64,6 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 <br>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
-
-
 
 # Initial testing
 
@@ -117,3 +114,30 @@ A video from the DesTestMAX test: https://youtu.be/WOMNB_J3-R4
 <p align="center" float="left">
     <img src="Images/Init06.jpeg" alt="Description" width="300">
 </p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Disassembly
+
+Disassembling the Commodore 64 starts with removing the three Phillips screws from the bottom cover[^1].
+
+<p align="center">
+    <img src="Images/Dis01.jpeg" alt="Description" width="800">
+</p>
+
+The machine is flipped back to upright position, and the top cover is tilted/lifted about 30 degrees while wiggling it off from the bottom cover. It is important to do this carefully to avoid breaking the brittle plastic clips at the rear.
+
+With the top cover lifted away the interior is revealed. As can be seen from the picture below the mainboard is covered with a cardboard RF-shield. The RF-shield seems to be in very good condition. This shield does not have any real function anymore - quite the opposite - it will only accumulate heat. So this shield will be removed during refurbish. But to see that the RF-shield is not damaged by moist is a good sign. This machine has probably been stored in a dry place with quite stable temperature.
+
+<p align="center">
+    <img src="Images/Dis02.jpeg" alt="Description" width="800">
+</p>
+
+Oh my... this warms my heart! None of the brittle plastic clips are broken! That is something I don´t see often. That said, I will try my best to be very, VERY, careful, but it is likely that some of these clips will break during cleaning since they are so brittle.
+
+<p align="center">
+    <img src="Images/Dis03.jpeg" alt="Description" width="800">
+</p>
+
+**Footnotes**
+[^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
