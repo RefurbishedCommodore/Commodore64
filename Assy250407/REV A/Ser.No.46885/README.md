@@ -96,13 +96,13 @@ Below are some pictures from the initial testing (click to enlarge).
 **Dead test:**
 
 <p align="center" float="left">
-    <img src="Images/Init05.jpeg" alt="Description" width="300">
+    <img src="Images/Init05.jpeg" alt="Description" width="500">
 </p>
 
 **Diagnostics cartridge:**
 
 <p align="center" float="left">
-    <img src="Images/Init04.jpeg" alt="Description" width="300">
+    <img src="Images/Init04.jpeg" alt="Description" width="500">
 </p>
 
 **DesTestMAX:**
@@ -112,7 +112,7 @@ A video from the DesTestMAX test: https://youtu.be/WOMNB_J3-R4
 **DesTestFULL:**
 
 <p align="center" float="left">
-    <img src="Images/Init06.jpeg" alt="Description" width="300">
+    <img src="Images/Init06.jpeg" alt="Description" width="500">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
@@ -138,6 +138,15 @@ Oh my... this warms my heart! None of the brittle plastic clips are broken! That
 <p align="center">
     <img src="Images/Dis03.jpeg" alt="Description" width="800">
 </p>
+
+Look at that! The RF-shield is lifted, and the mainboard is revealed in all its glory. And this looks very nice! There are some dust and grease, which is to be expected, but other than that is looks in great condition. The RF-modulator, VIC-II shield and the cartridge port shield show almost no sign of corrosion. There is something I notice though: the ROM ICs (U3, U4, U5) have some kind of coating on the top of chips.
+
+Another thing I see immediately is that all the customs ICs are socketed. This is something which is not common in the Commdore64, unless it is previously repaired which I highly doubt. I will find out later, but I think that the 250407 Rev A board was equipped with sockets when manufactured.
+
+<p align="center">
+    <img src="Images/Dis04.jpeg" alt="Description" width="800">
+</p>
+
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
