@@ -21,6 +21,14 @@
     <li>
       <a href="#initial-testing">Initial testing</a>
     </li>
+    <li>
+      <a href="#mainboard">Mainboard</a>
+      <ul>
+        <li>
+          <a href="#visual-inspection">Visual inspection</a>
+        </li>
+      </ul>
+    </li>    
   </ul>
 </details>
 
@@ -148,6 +156,32 @@ Another thing I see immediately is that all the customs ICs are socketed. This i
     <img src="Images/Dis04.jpeg" alt="Description" width="800">
 </p>
 
+
+# Mainboard
+
+The mainboard is the Assy 250407/Fab 250406 Rev A. Also marked with "H.E.C. GEA 94HB". This is one of the early revisions of the mainboard which is characterised by having the full PLL clock circuitry and the VIC-II positioned vertically. It is not the earliest revision though, so the A/V connector is full eight pin with LUMA and CHROMA output.
+
+## Visual inspection
+
+The mainboard appears to be in very good condition. I can not see any signs of either damage or repair. There is of course the normal amount of dust laying around on the mainboard, but that is to be expected after so many years. On the backside of the mainboard there is very little flux residue, which is not so common. Commodore mainboards often contain quite some flux residue - likely a sign that Commodore were in a hurry when manufacturing and not had time to clean properly. 
+
+I can not see any obvious signs of rework. I can not see any obvious reason why the mainboard should be faulty.
+
+In the table below all the major custom IC found on the mainboard are listed. As can be seen from the table the custom MOS chips were produced during a time interval from week 09 in 1983 to week 17 in 1983. I think it is a fair guess that this Commodore 64 were manufactured sometime during spring 1983 - and that the workers prodcuing this were listening to Michael Jacksons "Billie Jean".
+
+| Chip/Area | Manufactor | Version | Date code | Socket | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| CPU | MOS | 6510 | W17 Y1983 | Yes |  |
+| SID | MOS | 6581 | W12 Y1983 | Yes |  |
+| VIC-II | MOS | 6589R1 | W09 Y1983 | Yes | First revision. Ceramic. Gold plated pins. |
+| PLA | SIGNETICS | N82S100N | W07 Y1983 | Yes | Acclaimed to be more reliable than MOS |
+| CIA #1 | MOS | 6526 | W09 Y1983 | Yes | |
+| CIA #2 | MOS | 6526 | W09 Y1983 | Yes | |
+| ROM - BASIC | MOS | 901226-01 | Unknown | Yes | |
+| ROM - Kernal | MOS | 901227-02 | Unknown | Yes | 2nd revision - Known to be buggy |
+| ROM - Character | MOS | 901225-01 | W13 Y1983 | Yes | |
+| RAM | HITATCHI | HM4864P-3 | Unknown | No | |
+| Glue logic | No MOS glue logic<br> Fairchild, OKI, Texas Instruments, Hitatchi, Fujitsu, Motorola|  |  |  | |
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
