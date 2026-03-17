@@ -27,10 +27,14 @@
         <li>
           <a href="#visual-inspection">Visual inspection</a>
         </li>
+        <li>
+          <a href="#troubleshooting-and-repair">Troubleshooting and repair</a>
+        </li>
       </ul>
     </li>    
   </ul>
 </details>
+
 
 
 # Starting point
@@ -156,6 +160,12 @@ Another thing I see immediately is that all the customs ICs are socketed. This i
     <img src="Images/Dis04.jpeg" alt="Description" width="800">
 </p>
 
+The seven Phillips screws holding the mainboard PCB to the bottom cover are removed carefully[^2]. It is good practice to use a low torque screwdriver when removing these to reduce the risk of breaking the plastic stand-offs below. Now the mainboard is lifted away exposing the bottom cover. As can be seen from the picture below the bottom cover appears to be in fine condition (ignoring the dust and grease).
+
+<p align="center">
+    <img src="Images/Dis05.jpeg" alt="Description" width="800">
+</p>
+
 
 # Mainboard
 
@@ -183,5 +193,12 @@ In the table below all the major custom IC found on the mainboard are listed. As
 | RAM | HITATCHI | HM4864P-3 | Unknown | No | |
 | Glue logic | No MOS glue logic<br> Fairchild, OKI, Texas Instruments, Hitatchi, Fujitsu, Motorola|  |  |  | |
 
+## Troubleshooting and repair
+
+*** What could cause this fault? ***
+
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
+[^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.5 mm
+
