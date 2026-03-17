@@ -218,6 +218,19 @@ Based on the initial testing it is fair to assume:
 
 - Most of the glue logic is working. Since we can see that the DesTestMAX does seem to run, this can only happen if most of the glue logic is functional.
 
+***Removing socketed custom ICs***
+
+Having all the custom MOS ICs in sockets is of great help when troubleshooting. The following ICs can be removed and the DeadTest cartridge can still operate if the rest of the ICs are working:
+
+- CIA #1 (MOS 6526) [U1]
+- CIA #2 (MOS 6526) [U2]
+- ROM: BASIC (MOS 901226-01) [U3]
+- ROM: Kernal (MOS 901227-02) [U4]
+- ROM: Character (MOS 901225-01) [U5]
+- SID (MOS 6581) [U18]
+
+These ICs are removed before the machine is powered back on again with the DeadTest cartridge installed.
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.5 mm
