@@ -198,6 +198,7 @@ Below are some pictures of the mainboard before refurbish.
 <p align="center">
     <img src="Images/Main01.jpeg" alt="Description" width="1000">
     <img src="Images/Main02.jpeg" alt="Description" width="1000">
+    <img src="Images/Main04.jpeg" alt="Description" width="800">
 </p>
 
 The red paint/coating can be (partially) removed with some isopropanol. These ICs will be cleaned during the refurbish.
@@ -230,6 +231,10 @@ Having all the custom MOS ICs in sockets is of great help when troubleshooting. 
 - SID (MOS 6581) [U18]
 
 These ICs are removed before the machine is powered back on again with the DeadTest cartridge installed.
+
+<p align="center">
+    <img src="Images/Main05.jpeg" alt="Description" width="500">
+</p>
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
