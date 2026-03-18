@@ -268,8 +268,19 @@ This result should mean that:
 
 There is (obviously) no sound since the SID chip is removed. And the both CIA #1 and CIA #2 are showing corrupt timings since they are also not installed yet.
 
-To confirm that the first 4k of RAM actually are OK the DesTestMAX cartridge is installed. This cartridge will utilise the March B memory check which is way more powerful when it comes to identifying RAM faults.
-  
+To confirm that the first 4k of RAM actually are OK the DesTestMAX cartridge is installed. This cartridge will utilise the March B memory check which is way more powerful when it comes to identifying RAM faults. As can be seen from the picture below all of the 4k RAM is tested OK.
+
+<p align="center">
+    <img src="Images/Main07.jpeg" alt="Description" width="600">
+</p>
+
+***Re-inserting the custom ICs***
+
+The custom ICs previously removed are now re-inserted one-by-one. And there are two faults identified:
+
+- The CIA #2 (MOS 6526) [U2] is causing the machine to show the corrupt screen
+- The SID (MOS 6581) [U18] is not causing the machine to crash, but it produce a corrupt noise
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.5 mm
