@@ -28,14 +28,15 @@
           <a href="#visual-inspection">Visual inspection</a>
         </li>
         <li>
+          <a href="#checking-the-voltages">Checking the voltages</a>
+        </li>
+        <li>
           <a href="#troubleshooting-and-repair">Troubleshooting and repair</a>
         </li>
       </ul>
     </li>    
   </ul>
 </details>
-
-
 
 # Starting point
 
@@ -206,6 +207,25 @@ The red paint/coating can be (partially) removed with some isopropanol. These IC
 <p align="center">
     <img src="Images/Main03.jpeg" alt="Description" width="600">
 </p>
+
+## Checking the voltages
+
+Voltages are measured before - and after - refurbishment. This is to make sure that all voltages are within acceptable levels. This table is updated after refurbishment is completed. All voltages are measured according to the article Checking C64 voltages. 
+
+As seen in the table below all voltages are within acceptable levels, but I think PSU (9V AC) is a bit on the low side. It is normal to see this voltage about 9.5 - 10 V AC. An AC voltage measuring 8.3 V does not directly mean that there is something wrong, but it could be an indicator. It will be interesting to see if this voltage will increase slightly after refurbishment.
+
+<div align="center">
+  
+| Measure point | Target voltage | Measured voltage<br>Before refurbish| Measured voltage<br>After refurbish | Note |
+|:----------:|:----------:|:----------:|:----------|:----------|
+| PSU (5V) | 5 V DC | 5.042 V |  | User port |
+| PSU (9V) | 9 V AC | 8.350 V |  | User port |
+| Vvid (+5 CAN)| 5 V DC | 4.948 V | | Pin #40 VIC-II |
+| Vc (+5 CAN) | 5 V DC | F4.943 V | | Pin #14 4044 |
+| Regulated (12V) | 12 V DC | 11.88 V | | Pin #28 SID |
+| Unregulated (9V) | 9 V DC | 8.852 V | | R2 |
+
+</div>
 
 ## Troubleshooting and repair
 
