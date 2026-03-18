@@ -236,6 +236,20 @@ These ICs are removed before the machine is powered back on again with the DeadT
     <img src="Images/Main05.jpeg" alt="Description" width="500">
 </p>
 
+The result is very promising, and strengthen the assumptions made during initial testing. Below is a picture of the screen with the Dead Test cartridige running without the custom ICs listed above.
+
+<p align="center">
+    <img src="Images/Main06.jpeg" alt="Description" width="600">
+</p>
+
+This result should mean that:
+
+- The CPU, VIC-II, PLA, most glue logic and at least the first 4k of RAM are all OK
+
+There is (obviously) no sound since the SID chip is removed. And the both CIA #1 and CIA #2 are showing corrupt timings since they are also not installed yet.
+
+To confirm that the first 4k of RAM actually are OK the DesTestMAX cartridge is installed. This cartridge will utilise the March B memory check which is way more powerful when it comes to identifying RAM faults.
+  
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.5 mm
