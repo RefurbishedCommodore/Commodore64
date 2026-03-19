@@ -278,8 +278,26 @@ To confirm that the first 4k of RAM actually are OK the DesTestMAX cartridge is 
 
 The custom ICs previously removed are now re-inserted one-by-one. And there are two faults identified:
 
-- The CIA #2 (MOS 6526) [U2] is causing the machine to show the corrupt screen
-- The SID (MOS 6581) [U18] is not causing the machine to crash, but it produce a corrupt noise
+- The **CIA #2 (MOS 6526) [U2]** is causing the machine to show the corrupt screen
+- The **SID (MOS 6581) [U18]** is not causing the machine to crash, but it produce a corrupt noise
+
+When the faulty CIA #2 is installed, this is the picture produced by the DeadTest cartridge.
+
+<p align="center">
+    <img src="Images/Main08.jpeg" alt="Description" width="600">
+</p>
+
+A video showing the cracking noise (or more loss of noise) when the SID is installed can be seen here: https://youtu.be/fPaUDTOdJpM
+
+When the machine is powered on without the Dead Test cartridge - and both CIA #2 and SID removed - a familiar screen appears:
+
+<p align="center">
+    <img src="Images/Main09.jpeg" alt="Description" width="600">
+</p>
+
+Even if this is very nice to see again, the machine is still not fully working. Without the CIA #2 no serial devices (such as floppy drive and printer) would work, and without the SID no audio obviously.
+
+
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
