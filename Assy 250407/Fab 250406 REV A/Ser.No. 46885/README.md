@@ -297,6 +297,12 @@ When the machine is powered on without the Dead Test cartridge - and both CIA #2
 
 Even if this is very nice to see again, the machine is still not fully working. Without the CIA #2 no serial devices (such as floppy drive and printer) would work, and without the SID no audio obviously.
 
+***Gå over bekken etter vann***
+
+"Gå over bekken etter vann" is a Norwegian proverb that means to do something unnecessarily complicated. It describes a situation where one looks far away for solutions that are right in front of you, or chooses a cumbersome procedure when a simple one is available.
+
+When I checked The Pictorial C64 Fault Guide I found an image which is almost identical to what this machine produced at initial testing. And this image is pointing straight to a CIS #2 fault. So, in retrospect, I could have checked this website also for troubleshooting:-) Link to The Pictorial C64 Fault Guide page: https://www.pictorial64.com/fault.htm?id=u2_3
+
 
 
 **Footnotes**
