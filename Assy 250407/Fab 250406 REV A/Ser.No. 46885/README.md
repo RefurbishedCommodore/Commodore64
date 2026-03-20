@@ -34,6 +34,9 @@
           <a href="#troubleshooting-and-repair">Troubleshooting and repair</a>
         </li>
       </ul>
+    <li>
+      <a href="#keyboard">Keyboard</a>
+    </li>
     </li>    
   </ul>
 </details>
@@ -69,9 +72,9 @@ Below are some pictures of the machine before refurbish (click to enlarge).
 
 The planned refurbishment activites for this Commodore 64 (Order may vary. Several of them in parallell):
 
-- [ ] Refurbish the casing
-- [ ] Refurbish the keyboard
 - [ ] Refurbish mainboard
+- [ ] Refurbish the keyboard
+- [ ] Refurbish the casing
 - [ ] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
@@ -166,7 +169,6 @@ The seven Phillips screws holding the mainboard PCB to the bottom cover are remo
 <p align="center">
     <img src="Images/Dis05.jpeg" alt="Description" width="800">
 </p>
-
 
 # Mainboard
 
@@ -278,10 +280,38 @@ To confirm that the first 4k of RAM actually are OK the DesTestMAX cartridge is 
 
 The custom ICs previously removed are now re-inserted one-by-one. And there are two faults identified:
 
-- The CIA #2 (MOS 6526) [U2] is causing the machine to show the corrupt screen
-- The SID (MOS 6581) [U18] is not causing the machine to crash, but it produce a corrupt noise
+- The **CIA #2 (MOS 6526) [U2]** is causing the machine to show the corrupt screen
+- The **SID (MOS 6581) [U18]** is not causing the machine to crash, but it produce a corrupt noise
+
+When the faulty CIA #2 is installed, this is the picture produced by the DeadTest cartridge.
+
+<p align="center">
+    <img src="Images/Main08.jpeg" alt="Description" width="600">
+</p>
+
+A video showing the cracking noise (or more loss of noise) when the SID is installed can be seen here: https://youtu.be/fPaUDTOdJpM
+
+When the machine is powered on without the Dead Test cartridge - and both CIA #2 and SID removed - a familiar screen appears:
+
+<p align="center">
+    <img src="Images/Main09.jpeg" alt="Description" width="600">
+</p>
+
+Even if this is very nice to see again, the machine is still not fully working. Without the CIA #2 no serial devices (such as floppy drive and printer) would work, and without the SID no audio obviously.
+
+***Gå over bekken etter vann***
+
+"Gå over bekken etter vann" is a Norwegian proverb that means to do something unnecessarily complicated. It describes a situation where one looks far away for solutions that are right in front of you, or chooses a cumbersome procedure when a simple one is available.
+
+When I checked The Pictorial C64 Fault Guide I found an image which is almost identical to what this machine produced at initial testing. And this image is pointing straight to a CIS #2 fault. So, in retrospect, I could have checked this website also for troubleshooting:-) Link to The Pictorial C64 Fault Guide page: https://www.pictorial64.com/fault.htm?id=u2_3
+
+
+# Keyboard
+
+To start refurbishing the keyboard it is disassembled from the front cover first. There are eight screws[^3] attaching the keyboard to the front cover. Note that care must be taken when removing these. The screws have been sitting there for 43 years and the standoffs can eaily crack.
+
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.5 mm
-
+[^3]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
