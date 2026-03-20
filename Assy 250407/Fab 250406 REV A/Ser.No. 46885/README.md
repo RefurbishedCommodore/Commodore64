@@ -310,6 +310,11 @@ When I checked The Pictorial C64 Fault Guide I found an image which is almost id
 
 To start refurbishing the keyboard it is disassembled from the front cover first. There are eight screws[^3] attaching the keyboard to the front cover. Note that care must be taken when removing these. The screws have been sitting there for 43 years and the standoffs can eaily crack.
 
+<p align="center">
+    <img src="Images/Keyb01.jpeg" alt="Description" width="600">
+</p>
+
+The keyboard is in very good mechanical shape. Yes, there is quite some dust and grease beneath the keycaps, but I would not expect anything else. And all the printed symbols on the front of the keycaps appear to have minimal wear and tear. Speaking of printed symbols: even if the keycaps are somewhat yellowed I do not plan to retrobright the keycaps. The reason is that this process is quite hard, and embrasive, which can easily tear off these fine printings.
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
