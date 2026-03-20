@@ -320,6 +320,10 @@ The keyboard is in very good mechanical shape. Yes, there is quite some dust and
     <img src="Images/Keyb02.jpeg" alt="Description" width="1000">
 </p>
 
+Holy moly! Removing the keycaps is hard! These keycaps are sitting "blegg fast" (Stavanger term) on the plugers. But with the keycap puller all the keycaps are removed [(Tools)](https://refurbished-commodore.com/tools). Note that there is a spring beneath all the keycaps (except for the SHIFT-LOCK), and that the spring beneath the spacebar is larger than the rest.
+
+
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.5 mm
