@@ -322,6 +322,9 @@ The keyboard is in very good mechanical shape. Yes, there is quite some dust and
 
 Holy moly! Removing the keycaps is hard! These keycaps are sitting "blegg fast" (Stavanger term) on the plugers. But with the keycap puller all the keycaps are removed [(Tools)](https://refurbished-commodore.com/tools). Note that there is a spring beneath all the keycaps (except for the SHIFT-LOCK), and that the spring beneath the spacebar is larger than the rest.
 
+<p align="center">
+    <img src="Images/Keyb03.jpeg" alt="Description" width="800">
+</p>
 
 
 **Footnotes**
