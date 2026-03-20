@@ -316,6 +316,10 @@ To start refurbishing the keyboard it is disassembled from the front cover first
 
 The keyboard is in very good mechanical shape. Yes, there is quite some dust and grease beneath the keycaps, but I would not expect anything else. And all the printed symbols on the front of the keycaps appear to have minimal wear and tear. Speaking of printed symbols: even if the keycaps are somewhat yellowed I do not plan to retrobright the keycaps. The reason is that this process is quite hard, and embrasive, which can easily tear off these fine printings.
 
+<p align="center">
+    <img src="Images/Keyb02.jpeg" alt="Description" width="600">
+</p>
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.5 mm
