@@ -343,7 +343,7 @@ Removing the SHIFT-LOCK key is straightforward. The two wires are desoldered, an
 
 Probably a less known feature of the Commodore 64 keyboard is that there are two versions of the keyboard PCB. One, which is the most common, that have carbon pads contacts and the other, less common, with gold plated contacts. Even if the carbon pads are usually quite ok, they are way more fragile than the gold plated.
 
-> Gold plated PCB: Mitsumi KSR-A66YF 56 4021**A**
+> Gold plated PCB: Mitsumi KSR-A66YF 56 4021**A**<br>
 > Carbon pads PCB: Mitsumi KSR-A66YF 56 4021**B**-01
 
 I think that older Commodore 64s have the **"A"** variant of the keyboard. It is fair to assume that the gold plated PCB was more expensive to produce, and that he **B** version with carbon pads came as a cost-cut initiative.
@@ -354,7 +354,7 @@ So, we are lucky! This is a Mitsumi KSR-A66YF 56 4021**A** with gold plated cont
     <img src="Images/Keyb07.jpeg" alt="Description" width="1200">
 </p>
 
-
+A gentle, but effective, way to revive the plungers is to carefully drag them over a clean sheet of paper. This will remove most of the contamination on the conductive rubber.
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.5 mm
