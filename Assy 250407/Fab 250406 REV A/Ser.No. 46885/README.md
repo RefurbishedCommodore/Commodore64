@@ -354,6 +354,8 @@ So, we are lucky! This is a Mitsumi KSR-A66YF 56 4021**A** with gold plated cont
     <img src="Images/Keyb07.jpeg" alt="Description" width="1200">
 </p>
 
+***Reviving the plungers***
+
 A gentle, but effective, way to revive the plungers[^5]: is to carefully drag them over a clean sheet of paper. This will remove most of the contamination on the conductive rubber.
 
 <p align="center">
@@ -366,6 +368,13 @@ The plastic bracket is cleaned with some mild soap water and a clean paint brush
     <img src="Images/Keyb09.jpeg" alt="Description" width="1200">
 </p>
 
+***Re-assembling the keyboard***
+
+Finally the keyboard is re-assembled. It is a bit yellowed on the top of the keycaps, but I think that is OK. It is quite a risk to retrobright the brown keycaps, so I will stop here. Below is a picture of the refurbished keyboard.
+
+<p align="center">
+    <img src="Images/Keyb10.jpeg" alt="Description" width="1200">
+</p>
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
