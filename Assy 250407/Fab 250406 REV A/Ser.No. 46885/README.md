@@ -355,6 +355,11 @@ So, we are lucky! This is a Mitsumi KSR-A66YF 56 4021**A** with gold plated cont
 </p>
 
 A gentle, but effective, way to revive the plungers is to carefully drag them over a clean sheet of paper. This will remove most of the contamination on the conductive rubber.
+
+<p align="center">
+    <img src="Images/Keyb08.jpeg" alt="Description" width="1200">
+</p>
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.5 mm
