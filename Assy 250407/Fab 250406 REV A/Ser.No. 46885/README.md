@@ -334,6 +334,11 @@ All the keycaps are placed in a plastic boc filled with cold water and mild soap
 
 Removing the SHIFT-LOCK key is straightforward. The two wires are desoldered, and the SHIFT-LOCK key is pushed from the backside of the keyboard towards the front. It will then pop out with minimal force.
 
+<p align="center" float="left">
+    <img src="Images/Keyb05.jpeg" alt="Description" width="500">
+    <img src="Images/Keyb06.jpeg" alt="Description" width="419">
+</p>
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.5 mm
