@@ -73,7 +73,7 @@ Below are some pictures of the machine before refurbish (click to enlarge).
 The planned refurbishment activites for this Commodore 64 (Order may vary. Several of them in parallell):
 
 - [ ] Refurbish mainboard
-- [ ] Refurbish the keyboard
+- [x] Refurbish the keyboard
 - [ ] Refurbish the casing
 - [ ] Testing and validation
 
