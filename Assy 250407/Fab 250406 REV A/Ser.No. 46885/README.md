@@ -354,14 +354,23 @@ So, we are lucky! This is a Mitsumi KSR-A66YF 56 4021**A** with gold plated cont
     <img src="Images/Keyb07.jpeg" alt="Description" width="1200">
 </p>
 
-A gentle, but effective, way to revive the plungers is to carefully drag them over a clean sheet of paper. This will remove most of the contamination on the conductive rubber.
+A gentle, but effective, way to revive the plungers[^5]: is to carefully drag them over a clean sheet of paper. This will remove most of the contamination on the conductive rubber.
 
 <p align="center">
     <img src="Images/Keyb08.jpeg" alt="Description" width="1200">
 </p>
+
+The plastic bracket is cleaned with some mild soap water and a clean paint brush. After cleaning the plastic bracket look good as new.
+
+<p align="center">
+    <img src="Images/Keyb09.jpeg" alt="Description" width="1200">
+</p>
+
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.5 mm
 [^3]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
 [^4]: Phillips pan head (3.5mm), Sheet metal screw, Partially threaded, Thread diameter: 2.0 mm, Fastener length: 6.0 mm
+[^5]: Plungers with 5.0 mm tip
+
