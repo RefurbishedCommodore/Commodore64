@@ -1,5 +1,15 @@
 # Commodore 64
 
+# Statistics
+
+***Faulty ICs***
+
+
+| Chip description | Chip version | Chip Location | Number of registered defective | Comment |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| CIA #2 | MOS 6526  | U2 | 1 | |
+| SID | MOS 6581  | U18 | 1 | |
+
 # Loading - in progress
 
 
