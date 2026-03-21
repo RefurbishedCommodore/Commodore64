@@ -350,7 +350,9 @@ I think that older Commodore 64s have the **"A"** variant of the keyboard. It is
 
 So, we are lucky! This is a Mitsumi KSR-A66YF 56 4021**A** with gold plated contacts! This PCB can be cleaned thoroughly with isopropanol (in stark contrast to the **B** version). Below is a picture of the PCB after cleaning. Look good as new!
 
-
+<p align="center">
+    <img src="Images/Keyb07.jpeg" alt="Description" width="1200">
+</p>
 
 
 **Footnotes**
