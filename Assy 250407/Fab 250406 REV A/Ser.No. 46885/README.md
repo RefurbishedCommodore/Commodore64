@@ -328,7 +328,11 @@ Holy moly! Removing the keycaps is hard! These keycaps are sitting "blegg fast" 
 
 All the keycaps are placed in a plastic boc filled with cold water and mild soap for about 24 hours. This will remove most of the dust and grease from the keycaps. While the keycaps are taking a well deserved bath the keyboard PCB is removed from the plastic bracket. There are 23 small Phillips screws[^4] holding the PCB. Use a small low-torque screwdriver when removing the screws to avoid damage.
 
+<p align="center">
+    <img src="Images/Keyb04.jpeg" alt="Description" width="800">
+</p>
 
+Removing the SHIFT-LOCK key is straightforward. The two wires are desoldered, and the SHIFT-LOCK key is pushed from the backside of the keyboard towards the front. It will then pop out with minimal force.
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
