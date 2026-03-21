@@ -326,8 +326,12 @@ Holy moly! Removing the keycaps is hard! These keycaps are sitting "blegg fast" 
     <img src="Images/Keyb03.jpeg" alt="Description" width="800">
 </p>
 
+All the keycaps are placed in a plastic boc filled with cold water and mild soap for about 24 hours. This will remove most of the dust and grease from the keycaps. While the keycaps are taking a well deserved bath the keyboard PCB is removed from the plastic bracket. There are 23 small Phillips screws[^4] holding the PCB. Use a small low-torque screwdriver when removing the screws to avoid damage.
+
+
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.5 mm
 [^3]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
+[^4]: Phillips pan head (3.5mm), Sheet metal screw, Partially threaded, Thread diameter: 2.0 mm, Fastener length: 6.0 mm
