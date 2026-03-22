@@ -33,6 +33,9 @@
         <li>
           <a href="#troubleshooting-and-repair">Troubleshooting and repair</a>
         </li>
+        <li>
+          <a href="#reviving-the-user--and-datasette-port">Reviving the user- and datasette port</a>
+        </li>
       </ul>
     <li>
       <a href="#keyboard">Keyboard</a>
@@ -305,6 +308,11 @@ Even if this is very nice to see again, the machine is still not fully working. 
 
 When I checked The Pictorial C64 Fault Guide I found an image which is almost identical to what this machine produced at initial testing. And this image is pointing straight to a CIS #2 fault. So, in retrospect, I could have checked this website also for troubleshooting:-) Link to The Pictorial C64 Fault Guide page: https://www.pictorial64.com/fault.htm?id=u2_3
 
+## Reviving the user- and datasette port
+
+Something that is often overlooked is to clean, and revive, the user- and datasette port. These ports are often heavily used, especially in Norway the datasette port was used extensively when the Commodore 64 was in operation back in the day. Dirty, and worn, user- and datasette ports will easily result in "?LOAD ERROR" when loading tapes and floppy speeders using parallell data transfer will struggle.
+
+Reviving the ports is not comlicated at all, but care must be taken to not damage the gold plating. Do **NOT** use abrasive tools such as glass fiber pen unless you have no other choice. The way to clean, and revive, these ports is to first clean them with isopropanol. When the ports are properly cleaned the gold plates are revived using an old school rubber ersaser. The process of cleaning and rubbing needs to be repeated several times.
 
 # Keyboard
 
