@@ -33,6 +33,9 @@
         <li>
           <a href="#troubleshooting-and-repair">Troubleshooting and repair</a>
         </li>
+        <li>
+          <a href="#reviving-the-user--and-datasette-port">Reviving the user- and datasette port</a>
+        </li>
       </ul>
     <li>
       <a href="#keyboard">Keyboard</a>
@@ -305,6 +308,7 @@ Even if this is very nice to see again, the machine is still not fully working. 
 
 When I checked The Pictorial C64 Fault Guide I found an image which is almost identical to what this machine produced at initial testing. And this image is pointing straight to a CIS #2 fault. So, in retrospect, I could have checked this website also for troubleshooting:-) Link to The Pictorial C64 Fault Guide page: https://www.pictorial64.com/fault.htm?id=u2_3
 
+## Reviving the user- and datasette port
 
 # Keyboard
 
