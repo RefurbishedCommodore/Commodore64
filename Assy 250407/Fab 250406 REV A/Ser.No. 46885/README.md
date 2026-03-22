@@ -314,6 +314,17 @@ Something that is often overlooked is to clean, and revive, the user- and datase
 
 Reviving the ports is not comlicated at all, but care must be taken to not damage the gold plating. Do **NOT** use abrasive tools such as glass fiber pen unless you have no other choice. The way to clean, and revive, these ports is to first clean them with isopropanol. When the ports are properly cleaned the gold plates are revived using an old school rubber ersaser. The process of cleaning and rubbing needs to be repeated several times.
 
+<p align="center" float="left">
+    <img src="Images/Main11.jpeg" alt="Description" width="490">
+    <img src="Images/Main10.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Main13.jpeg" alt="Description" width="406">
+    <img src="Images/Main12.jpeg" alt="Description" width="450">
+</p>
+
+
 # Keyboard
 
 To start refurbishing the keyboard it is disassembled from the front cover first. There are eight screws[^3] attaching the keyboard to the front cover. Note that care must be taken when removing these. The screws have been sitting there for 43 years and the standoffs can eaily crack.
