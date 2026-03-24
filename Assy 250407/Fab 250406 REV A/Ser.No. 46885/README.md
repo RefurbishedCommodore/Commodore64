@@ -326,6 +326,12 @@ At the same time a MOS 6581 SID chip is installed for testing purposes (this SID
     <img src="Images/Main15.jpeg" alt="Description" width="1000">
 </p>
 
+When running the Diagnostic Cartridge all tests pass with flying colours.
+
+<p align="center">
+    <img src="Images/Main16.jpeg" alt="Description" width="800">
+</p>
+
 ## Reviving the user- and datasette port
 
 Something that is often overlooked is to clean, and revive, the user- and datasette port. These ports are often heavily used, especially in Norway the datasette port was used extensively when the Commodore 64 was in operation back in the day. Dirty, and worn, user- and datasette ports will easily result in "?LOAD ERROR" when loading tapes and floppy speeders using parallell data transfer will struggle.
