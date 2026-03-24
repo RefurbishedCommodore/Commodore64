@@ -311,6 +311,17 @@ Even if this is very nice to see again, the machine is still not fully working. 
 
 When I checked The Pictorial C64 Fault Guide I found an image which is almost identical to what this machine produced at initial testing. And this image is pointing straight to a CIS #2 fault. So, in retrospect, I could have checked this website also for troubleshooting:-) Link to The Pictorial C64 Fault Guide page: https://www.pictorial64.com/fault.htm?id=u2_3
 
+
+***Replacing the CIA #2***
+
+A "new" MOS 6526A CIA chip with date code of week 20 / 1988 is installed.
+
+<p align="center">
+    <img src="Images/Main14.jpeg" alt="Description" width="600">
+</p>
+
+At the same time a MOS 6581 SID chip is installed for testing purposes (this SID chip is marginal, but OK for testing). To test the functionality of the machine the Diagnostics Cartridge, together with the test harness, is used [(Tools)](https://refurbished-commodore.com/tools).
+
 ## Reviving the user- and datasette port
 
 Something that is often overlooked is to clean, and revive, the user- and datasette port. These ports are often heavily used, especially in Norway the datasette port was used extensively when the Commodore 64 was in operation back in the day. Dirty, and worn, user- and datasette ports will easily result in "?LOAD ERROR" when loading tapes and floppy speeders using parallell data transfer will struggle.
