@@ -37,10 +37,13 @@
           <a href="#reviving-the-user--and-datasette-port">Reviving the user- and datasette port</a>
         </li>
       </ul>
+    </li>  
     <li>
       <a href="#keyboard">Keyboard</a>
     </li>
-    </li>    
+    <li>
+      <a href="#casing">Casing</a>
+    </li>   
   </ul>
 </details>
 
@@ -393,6 +396,22 @@ Finally the keyboard is re-assembled. It is a bit yellowed on the top of the key
 
 <p align="center">
     <img src="Images/Keyb10.jpeg" alt="Description" width="1200">
+</p>
+
+# Casing
+
+Before the top- and bottom cover is cleaned properly the LED, metal badge and rubber feet are removed. To remove the LED the inner plastic ring is removed first. Then the LED is pressed firmly from the outside (by pressing it towards a flat area) until it pops out. Finally, the last plastic clip is pried outwards.
+
+<p align="center" float="left">
+    <img src="Images/Case02.jpeg" alt="Description" width="260">
+    <img src="Images/Case01.jpeg" alt="Description" width="300">
+    <img src="Images/Case03.jpeg" alt="Description" width="306">  
+</p>
+
+The "POWER" metal badge is removed carefully by first applying some hot air from a hair dryer. This will make the glue slip. With a sharp scalpel the badge is carefully pried off the top cover. To remove the four rubber feet from the bottom cover a flat thin screwdriver is used to peel them off. Below is a picture of the parts removed from the covers before cleaning.
+
+<p align="center">
+    <img src="Images/Case04.jpeg" alt="Description" width="800">
 </p>
 
 **Footnotes**
