@@ -435,6 +435,26 @@ The "POWER" metal badge is removed carefully by first applying some hot air from
     <img src="Images/Case04.jpeg" alt="Description" width="800">
 </p>
 
+**Cleaning the covers**
+
+Both the top- and bottom covers are soaked in mild soap water for about 24 hours. This will dissolve most of the surface dust and grease on the covers. After drying, the covers are then cleaned with some isopropanol and a Q-tip to remove the more stubborn marks.
+
+After cleaning the top- and bottom covers looks way better. They are still quite yellowed, but now they are free from old dust and spots.
+
+<p align="center">
+    <img src="Images/Case05.jpeg" alt="Description" width="800">
+</p>
+
+**Retrobrighting the covers**
+
+There are different opinions regarding retrobrigting. From my point of view it is a good thing: even if the retrobright can leave some streaks and stress the plastic, I still think that a retrobrighted cover looks better than the yellowed.
+
+Both covers are retrobrighted for about 12 hours straight. During this period the covers are "painted" with 12 % hydrogen perioxide cream regularly. Also, the covers are wrapped in plastic film. The regular "painting" and wrapping in plastic film should prevent the covers from drying out during retrobright. The covers are placed in a plastic box covered with aluminuim foil and exposed to UV light. Note that the "N" sticker is now removed from the bottom cover. And the same goes for the rubber feet - these will be destroyed if not removed before retrobright).
+
+<p align="center">
+    <img src="Images/Case06.jpeg" alt="Description" width="800">
+</p>
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.5 mm
