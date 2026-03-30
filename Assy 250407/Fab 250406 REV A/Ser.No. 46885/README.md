@@ -455,6 +455,12 @@ Both covers are retrobrighted for about 12 hours straight. During this period th
     <img src="Images/Case06.jpeg" alt="Description" width="800">
 </p>
 
+After the 12 hours retrorbrighting the covers are cleaned thoroughly again. It is crucial to clean them after retrobrighting, otherwise the process will continue. I am quite happy with the result. It looks way better than before, and most of the yellowing is gone.
+
+<p align="center">
+    <img src="Images/Case07.jpeg" alt="Description" width="800">
+</p>
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.5 mm
