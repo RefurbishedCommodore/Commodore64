@@ -80,7 +80,7 @@ The planned refurbishment activites for this Commodore 64 (Order may vary. Sever
 
 - [ ] Refurbish mainboard
 - [x] Refurbish the keyboard
-- [ ] Refurbish the casing
+- [x] Refurbish the casing
 - [ ] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
@@ -175,6 +175,8 @@ The seven Phillips screws holding the mainboard PCB to the bottom cover are remo
 <p align="center">
     <img src="Images/Dis05.jpeg" alt="Description" width="800">
 </p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Mainboard
 
@@ -348,6 +350,7 @@ Reviving the ports is not comlicated at all, but care must be taken to not damag
     <img src="Images/Main12.jpeg" alt="Description" width="450">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Keyboard
 
@@ -419,6 +422,8 @@ Finally the keyboard is re-assembled. It is a bit yellowed on the top of the key
     <img src="Images/Keyb10.jpeg" alt="Description" width="1200">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 # Casing
 
 Before the top- and bottom cover is cleaned properly the LED, metal badge and rubber feet are removed. To remove the LED the inner plastic ring is removed first. Then the LED is pressed firmly from the outside (by pressing it towards a flat area) until it pops out. Finally, the last plastic clip is pried outwards.
@@ -471,6 +476,8 @@ After cleaning and retrobrighting I notice somethat that I did not notice at the
 </p>
 
 What could have caused these bulges? I am not completely sure, but my guess is that this is a flaw in the molding process. It is only cosmetic, and does not impact the function of the covers in any way.
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
