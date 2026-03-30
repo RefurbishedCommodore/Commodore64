@@ -218,7 +218,7 @@ The red paint/coating can be (partially) removed with some isopropanol. These IC
 
 ## Checking the voltages
 
-Voltages are measured before - and after - refurbishment. This is to make sure that all voltages are within acceptable levels. This table is updated after refurbishment is completed. All voltages are measured according to the article Checking C64 voltages. 
+Voltages are measured before - and after - refurbishment. This is to make sure that all voltages are within acceptable levels. This table is updated after refurbishment is completed. All voltages are measured according to the article Checking C64 voltages [(HOWTO-Checking the Commodore 64 voltages)](https://refurbished-commodore.com/checking-c64-voltages).
 
 As seen in the table below all voltages are within acceptable levels, but I think PSU (9V AC) is a bit on the low side. It is normal to see this voltage about 9.5 - 10 V AC. An AC voltage measuring 8.3 V does not directly mean that there is something wrong, but it could be an indicator. It will be interesting to see if this voltage will increase slightly after refurbishment.
 
@@ -463,7 +463,7 @@ After the 12 hours retrorbrighting the covers are cleaned thoroughly again. It i
 
 **A small bulge?**
 
-After cleaning and retrobrighting I notice somethat that I did not notice at the starting point. There are two bulging spots on the outside of the bottom cover (and one on the inside). These two bulges were present before refurbish (can be seen in the pictures in the "Starting Point" chapter). [(Starting Point)](#starting-point).
+After cleaning and retrobrighting I notice somethat that I did not notice at the starting point. There are two bulging spots on the outside of the bottom cover (and one on the inside). These two bulges were present before refurbish (can be seen in the pictures in the [Starting Point](#starting-point) chapter).
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
