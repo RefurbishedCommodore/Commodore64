@@ -463,7 +463,14 @@ After the 12 hours retrorbrighting the covers are cleaned thoroughly again. It i
 
 **A small bulge?**
 
-After cleaning and retrobrighting I notice somethat that I did not notice at the starting point. There are two bulging spots on the outside of the bottom cover (and one on the inside). These two bulges were present before refurbish (can be seen in the pictures in the [Starting Point](#starting-point) chapter).
+After cleaning and retrobrighting I notice somethat that I did not notice at the starting point. There are two bulging spots on the outside of the bottom cover (and one on the inside). These two bulges were present before refurbish (can be seen in the pictures in the [Starting Point](#starting-point) chapter). Below are some close-ups of the bulges (click to enlarge)
+
+<p align="center" float="left">
+    <img src="Images/Case08.jpeg" alt="Description" width="318">
+    <img src="Images/Case09.jpeg" alt="Description" width="300">
+</p>
+
+What could have caused these bulges? I am not completely sure, but my guess is that this is a flaw in the molding process. It is only cosmetic, and does not impact the function of the covers in any way.
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
