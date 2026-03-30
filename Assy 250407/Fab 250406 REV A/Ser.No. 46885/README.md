@@ -461,6 +461,10 @@ After the 12 hours retrorbrighting the covers are cleaned thoroughly again. It i
     <img src="Images/Case07.jpeg" alt="Description" width="800">
 </p>
 
+**A small bulge?**
+
+After cleaning and retrobrighting I notice somethat that I did not notice at the starting point. There are two bulging spots on the outside of the bottom cover (and one on the inside). These two bulges were present before refurbish (can be seen in the pictures in the "Starting Point" chapter). [(Starting Point)](#starting-point).
+
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.5 mm
