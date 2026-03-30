@@ -361,6 +361,10 @@ It is very common that the metal encapsulating the RF-modulator, VIC-II area and
 2) A few drops of thin sewing machine oil on a q-tips is carefully smeared on the metal parts
 3) All parts are wiped with a clean cotton pad
 
+<p align="center" float="left">
+    <img src="Images/Main17.jpeg" alt="Description" width="554">
+    <img src="Images/Main18.jpeg" alt="Description" width="425">
+</p>
    
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
