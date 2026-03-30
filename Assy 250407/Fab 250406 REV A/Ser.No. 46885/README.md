@@ -36,6 +36,9 @@
         <li>
           <a href="#reviving-the-user--and-datasette-port">Reviving the user- and datasette port</a>
         </li>
+        <li>
+          <a href="#preventing-corrosion">Preventing corrosion</a>
+        </li>
       </ul>
     </li>  
     <li>
@@ -349,6 +352,16 @@ Reviving the ports is not comlicated at all, but care must be taken to not damag
     <img src="Images/Main13.jpeg" alt="Description" width="406">
     <img src="Images/Main12.jpeg" alt="Description" width="450">
 </p>
+
+## Preventing corrosion
+
+It is very common that the metal encapsulating the RF-modulator, VIC-II area and cartridge port begin to corrode. In this Commodore 64 it is (luckily) very little corrosion, but as a preventive measure the metal parts are treated with some oil. This is done in the following way:
+
+1) A few drops of WD40 multispray oil on a q-tips is carefully smeared on the metal parts
+2) A few drops of thin sewing machine oil on a q-tips is carefully smeared on the metal parts
+3) All parts are wiped with a clean cotton pad
+
+   
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
