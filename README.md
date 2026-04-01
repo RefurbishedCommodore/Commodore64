@@ -1,3 +1,5 @@
+![Header-logo](https://github.com/RefurbishedCommodore/RefurbishedCommodore/blob/main/Images/LogoNew.png)
+
 # Commodore 64
 
 # Statistics
