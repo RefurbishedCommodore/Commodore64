@@ -234,11 +234,11 @@ As seen in the table below all voltages are within acceptable levels, but I thin
 <div align="center">
   
 | Measure point | Target voltage | Measured voltage<br>Before refurbish| Measured voltage<br>After refurbish | Note |
-|:----------:|:----------:|:----------:|:----------|:----------|
+|:----------:|:----------:|:----------:|:----------:|:----------:|
 | PSU (5V) | 5 V DC | 5.042 V |  | User port |
 | PSU (9V) | 9 V AC | 8.350 V |  | User port |
 | Vvid (+5 CAN)| 5 V DC | 4.948 V | | Pin #40 VIC-II |
-| Vc (+5 CAN) | 5 V DC | F4.943 V | | Pin #14 4044 |
+| Vc (+5 CAN) | 5 V DC | 4.943 V | | Pin #14 4044 |
 | Regulated (12V) | 12 V DC | 11.88 V | | Pin #28 SID |
 | Unregulated (9V) | 9 V DC | 8.852 V | | R2 |
 
