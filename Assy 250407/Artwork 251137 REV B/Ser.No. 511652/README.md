@@ -68,11 +68,14 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 # Disassembly
 
-First step in the disassembly is to remove the three Phillips screws[^1] on the underside. These are the most common type for the breadbin model. 
+First step in the disassembly is to remove the three Phillips screws[^1] on the underside. These are the most common type for the breadbin model. I notice a fine "cracking" sound when the screws are removed (with a low torque screwdriver). This is a good sign - it can be that this machine is not opened before. Not guaranteed though, but that "cracking" sound is often an indication that these screws have been sitting there for many years.
 
 <p align="center">
     <img src="Images/Dis01.jpeg" alt="Description" width="800">
 </p>
+
+With the screws out of the way the machine is flipped over again, and the top cover is carefully lifted 30 degrees and wiggled off. Now the interior is exposed. It looks to be in very good condition. I can not see any signs of moisture on the cardboard RF-shield. I think it is fair to assume that his Commodore 64 has been stored in a dry storage with quite stable temperatures.
+
 
 
 **Footnotes**
