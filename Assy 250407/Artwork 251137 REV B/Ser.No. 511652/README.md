@@ -68,9 +68,9 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 # Disassembly
 
-First step in the disassembly is to remove the three Phillips screw on the underside. 
+First step in the disassembly is to remove the three Phillips screws[^1] on the underside. These are the most common type for the breadbin model. 
 
 
 **Footnotes**
-[^1]: Phillips pan head (7.0mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
+[^1]: Phillips pan head (6.8mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
 
