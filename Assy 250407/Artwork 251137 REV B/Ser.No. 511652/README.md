@@ -27,6 +27,18 @@
 
 # Starting point
 
+This breadbin Commodore 64 is in for some refurbish. I do not know if it works or not, but from the outside it looks to be in quite good condition. I can not see any real damage to it at all. There are some minor "burn marks" on the casing which is a result of cables which probably have been wrapped around the machine at some point.
+
+At the underside there are some scratches, but this is also quite minor. Also, since this is on the underside of the machine no one will notice anyway. The keycaps are a bit dirty, but I would not expect otherwise after so many years. And both the top- and bottom cover are quite yellowed. 
+
+The "Commodore 64" metal badge is a bit loose at the left hand side. And the serial sticker has fallen off the bottom cover.
+
+All in all this machine seems to have been taken good care of!
+
+Below are some pictures of the breadbin Commodore 64 before refurbish.
+
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Refurbish activities
