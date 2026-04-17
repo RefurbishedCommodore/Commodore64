@@ -71,7 +71,7 @@ Also, there is something I notice. There is a small "N" sticker at the bottom co
 Below are some pictures of the machine before refurbish (click to enlarge).
 
 <p align="center">
-    <img src="Images/Start07.jpeg" alt="Description" width="600">
+    <img src="Images/Start07.jpeg" alt="Description" width="800">
     <img src="Images/Start05.jpeg" alt="Description" width="600">
     <img src="Images/Start06.jpeg" alt="Description" width="600">
     <img src="Images/Start04.jpeg" alt="Description" width="600">
