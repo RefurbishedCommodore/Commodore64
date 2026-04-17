@@ -37,7 +37,15 @@ All in all this machine seems to have been taken good care of!
 
 Below are some pictures of the breadbin Commodore 64 before refurbish.
 
-
+<p align="center">
+    <img src="Images/Start07.jpeg" alt="Description" width="800">
+    <img src="Images/Start06.jpeg" alt="Description" width="600">
+    <img src="Images/Start05.jpeg" alt="Description" width="600">
+    <img src="Images/Start03.jpeg" alt="Description" width="600">
+    <img src="Images/Start04.jpeg" alt="Description" width="600">
+    <img src="Images/Start02.jpeg" alt="Description" width="600">
+    <img src="Images/Start01.jpeg" alt="Description" width="600">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
