@@ -74,9 +74,11 @@ First step in the disassembly is to remove the three Phillips screws[^1] on the 
     <img src="Images/Dis01.jpeg" alt="Description" width="800">
 </p>
 
-With the screws out of the way the machine is flipped over again, and the top cover is carefully lifted 30 degrees and wiggled off. Now the interior is exposed. It looks to be in very good condition. I can not see any signs of moisture on the cardboard RF-shield. I think it is fair to assume that his Commodore 64 has been stored in a dry storage with quite stable temperatures.
+With the screws out of the way the machine is flipped over again, and the top cover is carefully lifted 30 degrees and wiggled off. Now the interior is exposed. It looks to be in very good condition. I can not see any signs of moisture on the cardboard RF-shield (the RF-shield is wrinkled, but I do not think this is caused by moisture). I think it is fair to assume that his Commodore 64 has been stored in a dry storage with quite stable temperatures.
 
-
+<p align="center">
+    <img src="Images/Dis02.jpeg" alt="Description" width="800">
+</p>
 
 **Footnotes**
 [^1]: Phillips pan head (6.8mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
