@@ -34,7 +34,7 @@ This breadbin Commodore 64 is in for some refurbish. I do not know if it works o
 
 At the underside there are some scratches, but this is also quite minor. Also, since this is on the underside of the machine no one will notice anyway. The keycaps are a bit dirty, but I would not expect otherwise after so many years. And both the top- and bottom cover are quite yellowed. The keyboards feels good also. The topside of the keycaps are a bit yellowed.
 
-The "Commodore 64" metal badge is a bit loose at the left hand side. And the serial sticker has fallen off the bottom cover.
+The "Commodore 64" metal badge is a bit loose at the left hand side. And the serial sticker has fallen off the bottom cover. All of the four rubber feet are intact.
 
 All in all this machine seems to have been taken good care of!
 
