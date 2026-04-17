@@ -31,7 +31,7 @@
 
 # Refurbish activities
 
-The planned refurbishment activites for this Commodore 64C (Order may vary. Several of them in parallell):
+The planned refurbishment activites for this Commodore 64 (Order may vary. Several of them in parallell):
 
 - [ ] Refurbish mainboard
 - [ ] Refurbish the keyboard
