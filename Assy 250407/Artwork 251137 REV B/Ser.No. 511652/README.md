@@ -192,6 +192,10 @@ Some initial tests are performed to check the health of the machine. This is to 
 
 When running the Diagnostic Cartridge the full test harness is installed. 
 
+<p align="center">
+    <img src="Images/Main07.jpeg" alt="Description" width="1000">
+</p>
+
 The results on the initial testing is shown in the table below:
 
 <div align="center">
