@@ -127,7 +127,7 @@ Below are some pictures of the mainboard before refurbish.
     <img src="Images/Main02.jpeg" alt="Description" width="1000">
 </p>
 
-There are some things to notice from the visual inspection which will be taken care of:
+There are some things to notice from the visual inspection which will be inspected further and taken care of:
 
 > **Noticeable areas:**
 >
@@ -138,6 +138,18 @@ There are some things to notice from the visual inspection which will be taken c
 > * Ceramic capacitor and thermal paste - The ceramic capacitor C54 is leaning towards the VIC-II chip. Also the thermal paste on the VIC-II is dried out and is spilled over the pins
 >
 > * Datasette port - The datasette port (CN3) is heavily oxidized
+
+Below are some pictures of these noticeable areas. Click to enlarge.
+
+<p align="center">
+    <img src="Images/Main03.JPG" alt="Description" width="500">
+    <img src="Images/Main04.JPG" alt="Description" width="500">
+</p>
+
+<p align="center">
+    <img src="Images/Main06.JPG" alt="Description" width="500">
+    <img src="Images/Main05.JPG" alt="Description" width="500">
+</p>
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
