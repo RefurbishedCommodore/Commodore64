@@ -498,6 +498,13 @@ After cleaning and retrobrighting I notice somethat that I did not notice at the
 
 What could have caused these bulges? I am not completely sure, but my guess is that this is a flaw in the molding process. It is only cosmetic, and does not impact the function of the covers in any way.
 
+**Installing the Commodore 64 badge**
+
+Yes, it is only a aesthetic detail, but without the "Commodore 64" metal badge something important is missing. Luckily, it turns out that the owner has the original old metal badge. When it is received, it is soaked in water and soap for about 24 hours. After this initial cleaning the old glue residue is removed mechanically by scraping most of the old glue off. Then another round of 12 hours long bath in water and soap. Finally the backside of metal badge is sanded with some fine sandpaper and cleaned with isopropanol.
+
+Some double sided tape is added to the backside of the badge, and the metal badge is installed back on the top cover. Nice!
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
