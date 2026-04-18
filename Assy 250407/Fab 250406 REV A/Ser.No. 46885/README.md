@@ -504,6 +504,9 @@ Yes, it is only a aesthetic detail, but without the "Commodore 64" metal badge s
 
 Some double sided tape is added to the backside of the badge, and the metal badge is installed back on the top cover. Nice!
 
+<p align="center">
+    <img src="Images/Case10.jpeg" alt="Description" width="1000">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
