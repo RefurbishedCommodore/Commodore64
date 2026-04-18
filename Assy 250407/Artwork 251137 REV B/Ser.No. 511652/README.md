@@ -34,6 +34,9 @@
         <li>
           <a href="#initial-testing">Initial testing</a>
         </li>
+        <li>
+          <a href="#checking-the-voltages">Checking the voltages</a>
+        </li>
       </ul>
     </li>     
   </ul>
@@ -198,6 +201,25 @@ The results are shown in the table below:
 | Diagostics Cartridge| Passing all tests | PASSED | |
 | DesTestMAX | Passing all memory tests | PASSED | |
 | DesTestFULL | Passing all memory tests | TBD | |
+
+</div>
+
+## Checking the voltages
+
+Voltages are measured before - and after - refurbishment. This is to make sure that all voltages are within acceptable levels. This table is updated after refurbishment is completed. All voltages are measured according to the article Checking C64 voltages [(HOWTO-Checking the Commodore 64 voltages)](https://refurbished-commodore.com/checking-c64-voltages).
+
+As seen in the table below all voltages are within acceptable levels.
+
+<div align="center">
+  
+| Measure point | Target voltage | Measured voltage<br>Before refurbish| Measured voltage<br>After refurbish | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| PSU (5V) | 5 V DC | 5.0372 V |  | User port |
+| PSU (9V) | 9 V AC | 8.227 V |  | User port |
+| Vvid (+5 CAN)| 5 V DC | 5.030 V | | Pin #40 VIC-II |
+| Vc (+5 CAN) | 5 V DC | 5.029 V | | Pin #14 4044 |
+| Regulated (12V) | 12 V DC | 11.96 V | | Pin #28 SID |
+| Unregulated (9V) | 9 V DC | 8.604 V | | R2 |
 
 </div>
 
