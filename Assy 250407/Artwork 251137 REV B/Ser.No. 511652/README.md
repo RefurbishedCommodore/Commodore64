@@ -178,9 +178,14 @@ In the table below all the major custom IC found on the mainboard are listed. As
 | RAM | OKI | M3764-15RS | Unknown | No | |
 | Glue logic | Fairchild, Texas Instruments, Fujitsu, Motorola, Toshiba, Hitachi, OKI, National Semiconductor|  |  |  | No MOS glue logic |
 
+## Remediation of noticeable areas
+
+**Emerging corrosion** 
+
+
 ## Initial testing
 
-Some initial tests are performed to check the health of the machine. This is to see if the basic functions work as they should, and if they don´t see if any useful can be gathered from these diagnostic tools. 
+Some initial tests are performed to check the health of the machine. This is to see if the basic functions work as they should, and if they do not, see if any useful can be gathered from these diagnostic tools. 
 
 The results are shown in the table below:
 
