@@ -80,6 +80,12 @@ With the screws out of the way the machine is flipped over again, and the top co
     <img src="Images/Dis02.jpeg" alt="Description" width="800">
 </p>
 
+I notice something during disassembly: the LED connector is not properly attached to the three pins on the PCB. The three pins seems to be slighly bent actully which could make the installation of the connector difficult. Does this mean that the hypothesis that no one has opened this Commodore 64 before fail? No, I don´t think so. It is possible that the LED connector was installed this way during assembly sometime during assembly. Neverheless, this should be easy to fix.
+
+<p align="center">
+    <img src="Images/Dis03.jpeg" alt="Description" width="400">
+</p>
+
 **Footnotes**
 [^1]: Phillips pan head (6.8mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
 
