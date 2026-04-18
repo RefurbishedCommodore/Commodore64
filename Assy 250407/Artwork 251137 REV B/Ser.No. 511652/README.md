@@ -183,7 +183,7 @@ In the table below all the major custom IC found on the mainboard are listed. As
 
 ## Remediation of noticeable areas
 
-**Emerging corrosion** 
+**Emerging corrosion U14/U16** 
 
 
 ## Initial testing
