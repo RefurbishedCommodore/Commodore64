@@ -137,7 +137,7 @@ There are some things to notice from the visual inspection which will be inspect
 > 
 > * Ceramic capacitor and thermal paste - The ceramic capacitor C54 is leaning towards the VIC-II chip. Also the thermal paste on the VIC-II is dried out and is spilled over the pins
 >
-> * Datasette port - The datasette port (CN3) is heavily oxidized
+> * Datasette port - The datasette port (CN3) is heavily oxidized and there is a broken trace
 
 Below are some pictures of these noticeable areas. Click to enlarge.
 
