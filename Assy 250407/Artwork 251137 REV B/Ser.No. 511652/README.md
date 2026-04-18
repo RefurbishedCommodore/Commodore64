@@ -92,6 +92,16 @@ The rear plastic clips are in good condition - none of them are partly broken or
     <img src="Images/Dis04.jpeg" alt="Description" width="800">
 </p>
 
+The cardboard RF-shield is lifted away, and the PCB is exposed in all its glory. And this is a very good sight. The PCB looks to be in really good condition! There is very - VERY - little dust and grease inside here. Something I notice: there is a lighter squared area on the cartridge port. This is an area where it is quite common that a sticker from the assemly is placed. It is likely that this sticker has dried and fallen out - or it being removed during a repair inspection many years later. Nevertheless, this is a sign that someone might have been here before.
+
+There are no sign of corrosion, neither on the PCB itsef nor the metal parts (VIC-II shield, cartridge connector and RF-modulator). Another indication that this Commodore 64 has been stored in a dry and tempered room.
+
+<p align="center">
+    <img src="Images/Dis05.jpeg" alt="Description" width="1000">
+</p>
+
+
+
 **Footnotes**
 [^1]: Phillips pan head (6.8mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
 
