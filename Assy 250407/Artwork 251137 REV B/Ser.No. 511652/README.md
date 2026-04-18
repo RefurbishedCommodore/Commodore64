@@ -86,6 +86,9 @@ I notice something during disassembly: the LED connector is not properly attache
     <img src="Images/Dis03.jpeg" alt="Description" width="400">
 </p>
 
+The rear plastic clips are in good condition - none of them are partly broken or missing. This kind of plastic clips are also way more robust than the small, thin clips found in (earlier) case versions.
+
+
 **Footnotes**
 [^1]: Phillips pan head (6.8mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
 
