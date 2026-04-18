@@ -151,6 +151,21 @@ Below are some pictures of these noticeable areas. Click to enlarge.
     <img src="Images/Main05.JPG" alt="Description" width="500">
 </p>
 
+In the table below all the major custom IC found on the mainboard are listed. As can be seen from the table the custom MOS chips were produced during a time interval from week 03 in 1983 to week 04 in 1984. I think it is a fair guess that this Commodore 64 were manufactured sometime during winter of 1984.
+
+| Chip/Area | Manufactor | Version | Date code | Socket | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| CPU | MOS | 6510 | W49 Y1983 | Yes |  |
+| SID | MOS | 6581 | W03 Y1983 | Yes |  | 
+| VIC-II | MOS | 6589R3 | 30 Y1983 | Yes | Third revision. Ceramic. Gold plated pins. |
+| PLA | COMMODORE | 251064-01 | W45 Y1983 | Yes | |
+| CIA #1 | MOS | 6526R4 | W32 Y1983 | Yes | |
+| CIA #2 | MOS | 6526R4 | W32 Y1983 | Yes | |
+| ROM - BASIC | MOS | 901226-01 | W27 Y1983 | Yes | |
+| ROM - Kernal | MOS | 901227-03 | W04 Y1984 | Yes | 3nd revision - Latest version |
+| ROM - Character | MOS | 901225-01 | Unknown | No | |
+| RAM | OKI | M3764-15RS | Unknown | No | |
+| Glue logic | Fairchild, Texas Instruments, Fujitsu, Motorola, Toshiba, Hitachi, OKI, National Semiconductor|  |  |  | No MOS glue logic |
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
