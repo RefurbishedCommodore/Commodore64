@@ -120,15 +120,17 @@ The mainboard appears to be in very good condition. And I can not see any signs 
 
 Notice that most of the custom MOS ICs are in socket. But for some reason the character ROM (MOS 901225-01) is not socketed. Why? Not sure, but I think it is fair to assume that Commodore we running low on stock on sockets - or would like to save a little bit of money.
 
+Below are some pictures of the mainboard before refurbish.
+
 There are some things to notice from the visual inspection which will be taken care of:
 
 > **Noticeable areas:**
 >
-> Emerging corrosion - On the backside of the PCB there seems to be some emerging corrosion between U14 and U16
+> * Emerging corrosion - On the backside of the PCB there seems to be some emerging corrosion between U14 and U16
 > 
-> Flux residue - On the backside of the PCB there are some old flux residue from a hand soldering of R27
+> * Flux residue - On the backside of the PCB there are some old flux residue from a hand soldering of R27
 > 
-> Ceramic capacitor and thermal paste - 
+> * Ceramic capacitor and thermal paste - The ceramic capacitor C54 is leaning towards the VIC-II chip. Also the thermal paste on the VIC-II is dried out and is spilled over the pins
 
 
 
