@@ -122,6 +122,11 @@ Notice that most of the custom MOS ICs are in socket. But for some reason the ch
 
 Below are some pictures of the mainboard before refurbish.
 
+<p align="center">
+    <img src="Images/Main01.jpeg" alt="Description" width="1000">
+    <img src="Images/Main02.jpeg" alt="Description" width="1000">
+</p>
+
 There are some things to notice from the visual inspection which will be taken care of:
 
 > **Noticeable areas:**
@@ -131,7 +136,8 @@ There are some things to notice from the visual inspection which will be taken c
 > * Flux residue - On the backside of the PCB there are some old flux residue from a hand soldering of R27
 > 
 > * Ceramic capacitor and thermal paste - The ceramic capacitor C54 is leaning towards the VIC-II chip. Also the thermal paste on the VIC-II is dried out and is spilled over the pins
-
+>
+> * Datasette port - The datasette port is heavily oxidized
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
