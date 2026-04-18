@@ -139,6 +139,7 @@ Below are some pictures of the mainboard before refurbish.
 <p align="center">
     <img src="Images/Main01.jpeg" alt="Description" width="1000">
     <img src="Images/Main02.jpeg" alt="Description" width="1000">
+    <img src="Images/Main08.jpeg" alt="Description" width="600">
 </p>
 
 There are some things to notice from the visual inspection which will be inspected further and taken care of:
