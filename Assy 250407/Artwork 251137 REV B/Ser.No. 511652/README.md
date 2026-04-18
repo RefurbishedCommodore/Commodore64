@@ -102,6 +102,13 @@ All the seven Phillips screws are in place holding the PCB to the bottom cover. 
     <img src="Images/Dis05.jpeg" alt="Description" width="1000">
 </p>
 
+With the PCB out of the way the inside of bottom cover is visible. It seems to be in fine condition. There are some slightly yellowing around the port- and cartridge areas, but that is to be expected.
+
+<p align="center">
+    <img src="Images/Dis06.jpeg" alt="Description" width="1000">
+</p>
+
+
 **Footnotes**
 [^1]: Phillips pan head (6.8mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.0 mm
