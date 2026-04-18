@@ -146,6 +146,7 @@ There are some things to notice from the visual inspection which will be inspect
 
 > **Noticeable areas:**
 >
+> * LED connector 
 > * Emerging corrosion - On the backside of the PCB there seems to be some emerging corrosion between U14 and U16
 > 
 > * Flux residue - On the backside of the PCB there are some old flux residue from a hand soldering of R27
