@@ -108,6 +108,28 @@ With the PCB out of the way the inside of bottom cover is visible. It seems to b
     <img src="Images/Dis06.jpeg" alt="Description" width="1000">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Mainboard
+
+The mainboard is the Assy 250407/Artwork 251137 Rev B. Also marked with "W-18 94HB". This is one of the early revisions of the mainboard which is characterised by having the full PLL clock circuitry and the VIC-II positioned vertically. It is not the earliest revision though, so the A/V connector is full eight pin with LUMA and CHROMA output.
+
+## Visual inspection
+
+The mainboard appears to be in very good condition. And I can not see any signs of rework from previous repair(s). There are some dust and grease on the PCB close to the port openings, but this to be expected.
+
+Notice that most of the custom MOS ICs are in socket. But for some reason the character ROM (MOS 901225-01) is not socketed. Why? Not sure, but I think it is fair to assume that Commodore we running low on stock on sockets - or would like to save a little bit of money.
+
+There are some things to notice from the visual inspection which will be taken care of:
+
+> **Noticeable areas:**
+>
+> Emerging corrosion - On the backside of the PCB there seems to be some emerging corrosion between U14 and U16
+> Flux residue - On the backside of the PCB there are some old flux residue from a hand soldering of R27
+
+
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
 [^1]: Phillips pan head (6.8mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
