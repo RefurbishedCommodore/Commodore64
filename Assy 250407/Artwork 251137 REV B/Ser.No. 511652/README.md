@@ -86,7 +86,7 @@ I notice something during disassembly: the LED connector is not properly attache
     <img src="Images/Dis03.jpeg" alt="Description" width="400">
 </p>
 
-The rear plastic clips are in good condition - none of them are partly broken or missing. This kind of plastic clips are also way more robust than the small, thin clips found in (earlier) case versions.
+The rear plastic clips are in good condition - none of them are partly broken or missing. This kind of plastic clips are also way more robust than the small, thin clips found in (earlier) case versions. The top cover has an embossed number on it: "326113".
 
 <p align="center">
     <img src="Images/Dis04.jpeg" alt="Description" width="800">
@@ -102,7 +102,7 @@ All the seven Phillips screws are in place holding the PCB to the bottom cover. 
     <img src="Images/Dis05.jpeg" alt="Description" width="1000">
 </p>
 
-With the PCB out of the way the inside of bottom cover is visible. It seems to be in fine condition. There are some slightly yellowing around the port- and cartridge areas, but that is to be expected.
+With the PCB out of the way the inside of bottom cover is visible. It seems to be in fine condition. There are some slightly yellowing around the port- and cartridge areas, but that is to be expected. The bottom cover has an embossed number on it: "326114".
 
 <p align="center">
     <img src="Images/Dis06.jpeg" alt="Description" width="1000">
