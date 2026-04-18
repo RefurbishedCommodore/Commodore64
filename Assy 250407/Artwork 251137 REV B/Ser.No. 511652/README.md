@@ -89,7 +89,7 @@ I notice something during disassembly: the LED connector is not properly attache
 The rear plastic clips are in good condition - none of them are partly broken or missing. This kind of plastic clips are also way more robust than the small, thin clips found in (earlier) case versions.
 
 <p align="center">
-    <img src="Images/Dis04.jpeg" alt="Description" width="400">
+    <img src="Images/Dis04.jpeg" alt="Description" width="800">
 </p>
 
 **Footnotes**
