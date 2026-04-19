@@ -271,6 +271,16 @@ The ceramic capacitor C54 is leaning towards the VIC-II IC. That itself is not c
     <img src="Images/Main15.jpeg" alt="Description" width="500">
 </p>
 
+**Datasette port**
+
+The datasette (CN3) port is heavily oxidized and there is some corrosion which might have caused a broken trace. It is very common that the datasette port is oxidized (and dirty) since the Commodore 64 was often used together with the datasette in Europe.
+
+First, the port is cleaned with some isopropanol. Then a rubber eraser is used to carefully rub away the stuck grease. Note that these ports are gold plated so DO NOT USE a glassfiber pen unless strictly required. Most of the oxidation is gone after this cleaning operation.
+
+Removing the corrosion is done by first applying some vineager. This will stop the on-going corrosion. Some scraping with a sharp picking tool and a glassfibre pen is required around the solder pad. Note that the glassfiber pen is not used on the gold plated area. The old solder is removed and the via is replenished with new solder. Luckily, it turns out that the trace was not completely broken. The cleaning, and repair, should now have fixed this and prevent it from any further corrosion. Finally, some transparent nail-polish is applied to function as a solder mask.
+
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
