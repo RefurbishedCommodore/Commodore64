@@ -215,6 +215,10 @@ Flux is usually non-corrosive. But the issue with old flux is that it can get "s
     <img src="Images/Main14.jpeg" alt="Description" width="500">
 </p>
 
+**Ceramic capacitor and thermal paste**
+
+The ceramic capacitor C54 is leaning towards the VIC-II IC. That itself is not causing any issue with e.g. short circuits, but the VIC-II is one of the hottest ICs on the mainboard. And all components, such as capacitors, can derate faster is extraordinary heat is applied. Also, thermal paste can be conductive. When old and crusty thermal paste are spilled over the pins on the VIC-II this can cause problems.
+
 ## Initial testing
 
 Some initial tests are performed to check the health of the machine. This is to see if the basic functions work as they should, and if they do not, see if any useful can be gathered from these diagnostic tools.
