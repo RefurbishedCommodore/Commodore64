@@ -41,7 +41,9 @@
           <a href="#remediation-of-problem-areas">Remediation of problem areas</a>
         </li>
       </ul>
-    </li>     
+    <li>
+      <a href="#keyboard">Keyboard</a>
+    </li>
   </ul>
 </details>
 
@@ -290,9 +292,20 @@ The user port (CN2) is also cleaned with some isopropanol and a rubber eraser.
     <img src="Images/Main19.jpeg" alt="Description" width="800">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
+# Keyboard
+
+To start refurbishing the keyboard it is disassembled from the front cover first. There are eight Pozidrive screws[^3] attaching the keyboard to the front cover. Note that care must be taken when removing these. The screws have been sitting there for 43 years and the standoffs can eaily crack.
+
+<p align="center">
+    <img src="Images/Keyb01.jpeg" alt="Description" width="600">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
-[^1]: Phillips pan head (6.8mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
-[^2]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.0 mm
+[^1]: Phillips pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
+[^2]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.0 mm
+[^3]: Pozidrive pah head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.5 mm
