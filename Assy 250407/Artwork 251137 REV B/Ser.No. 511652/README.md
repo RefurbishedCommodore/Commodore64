@@ -144,9 +144,10 @@ Below are some pictures of the mainboard before refurbish.
 
 There are some things to notice from the visual inspection which will be inspected further and taken care of:
 
-> **Noticeable areas:**
+> **Areas:**
 >
-> * LED connector 
+> * LED connector - The LED connector CN10 is bent
+>   
 > * Emerging corrosion - On the backside of the PCB there seems to be some emerging corrosion between U14 and U16
 > 
 > * Flux residue - On the backside of the PCB there are some old flux residue from a hand soldering of R27
@@ -184,6 +185,10 @@ In the table below all the major custom IC found on the mainboard are listed. As
 | Glue logic | Fairchild, Texas Instruments, Fujitsu, Motorola, Toshiba, Hitachi, OKI, National Semiconductor|  |  |  | No MOS glue logic |
 
 ## Remediation of noticeable areas
+
+**LED connector CN10** 
+
+The LED connector (CN10) pins are bent. It seems like the pins have been forcefully bent when the connector housing was installed. With a pair of needle-nose pliers the pins are straightened.
 
 **Emerging corrosion U14/U16** 
 
