@@ -279,7 +279,10 @@ First, the port is cleaned with some isopropanol. Then a rubber eraser is used t
 
 Removing the corrosion is done by first applying some vineager. This will stop the on-going corrosion. Some scraping with a sharp picking tool and a glassfibre pen is required around the solder pad. Note that the glassfiber pen is not used on the gold plated area. The old solder is removed and the via is replenished with new solder. Luckily, it turns out that the trace was not completely broken. The cleaning, and repair, should now have fixed this and prevent it from any further corrosion. Finally, some transparent nail-polish is applied to function as a solder mask.
 
-
+<p align="center" float="left">
+    <img src="Images/Main17.jpeg" alt="Description" width="500">
+    <img src="Images/Main18.jpeg" alt="Description" width="500">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
