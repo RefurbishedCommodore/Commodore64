@@ -207,7 +207,7 @@ The results on the initial testing is shown in the table below:
 | DeadTest | Passing all tests | PASSED |  |
 | Diagostics Cartridge| Passing all tests | PASSED | |
 | DesTestMAX | Passing all memory tests | PASSED | |
-| DesTestFULL | Passing all memory tests | TBD | |
+| DesTestFULL | Passing all memory tests | PASSED | |
 
 </div>
 
@@ -283,6 +283,13 @@ Removing the corrosion is done by first applying some vineager. This will stop t
     <img src="Images/Main17.jpeg" alt="Description" width="500">
     <img src="Images/Main18.jpeg" alt="Description" width="500">
 </p>
+
+The user port (CN2) is also cleaned with some isopropanol and a rubber eraser.
+
+<p align="center">
+    <img src="Images/Main19.jpeg" alt="Description" width="800">
+</p>
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
