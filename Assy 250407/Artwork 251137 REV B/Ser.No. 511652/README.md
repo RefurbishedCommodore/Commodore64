@@ -187,46 +187,6 @@ In the table below all the major custom IC found on the mainboard are listed. As
 | RAM | OKI | M3764-15RS | Unknown | No | |
 | Glue logic | Fairchild, Texas Instruments, Fujitsu, Motorola, Toshiba, Hitachi, OKI, National Semiconductor|  |  |  | No MOS glue logic |
 
-## Remediation of problem areas
-
-**LED connector CN10** 
-
-The LED connector (CN10) pins are bent. It seems like the pins have been forcefully bent when the connector housing was installed. With a pair of needle-nose pliers the pins are straightened.
-
-<p align="center" float="left">
-    <img src="Images/Main09.jpeg" alt="Description" width="450">
-    <img src="Images/Main10.jpeg" alt="Description" width="508">
-</p>
-
-**Emerging corrosion U14/U16** 
-
-There are some odd-looking residue seeping around the backside of the PCB (in the area of U14/U16). Not sure what this is really, but it does seem to be corrosive. The area is cleaned with some vinegar which will prevent any further corrosion. Finally the area is cleaned with properly with isopropanol.
-
-As can be seen from the "after" picture some of the solder mask is gone, but all the metal traces and pads seems to be ok. The missing solder mask is repaired by applying some transparent nail polish.
-
-<p align="center" float="left">
-    <img src="Images/Main12.jpeg" alt="Description" width="500">
-    <img src="Images/Main11.jpeg" alt="Description" width="500">
-</p>
-
-**Flux residue R27**
-
-Flux is usually non-corrosive. But the issue with old flux is that it can get "sticky" after several years (40+) making it a collector of dust and moist. Therefore it is good practice to remove most of this flux in critical areas. The R27 is a 2k trimmer potensiometer used to calibrate the color displayed by the VIC-II. The flux is removed with isopropanol and some careful scraping with a plastic spudge.
-
-<p align="center" float="left">
-    <img src="Images/Main13.jpeg" alt="Description" width="500">
-    <img src="Images/Main14.jpeg" alt="Description" width="500">
-</p>
-
-**Ceramic capacitor and thermal paste**
-
-The ceramic capacitor C54 is leaning towards the VIC-II IC. That itself is not causing any issue with e.g. short circuits, but the VIC-II is one of the hottest ICs on the mainboard. And all components, such as capacitors, can derate faster is extraordinary heat is applied. Also, thermal paste can be conductive. When old and crusty thermal paste are spilled over the pins on the VIC-II this can cause problems.
-
-<p align="center" float="left">
-    <img src="Images/Main16.jpeg" alt="Description" width="500">
-    <img src="Images/Main15.jpeg" alt="Description" width="500">
-</p>
-
 ## Initial testing
 
 Some initial tests are performed to check the health of the machine. This is to see if the basic functions work as they should, and if they do not, see if any useful can be gathered from these diagnostic tools.
@@ -269,6 +229,47 @@ As seen in the table below all voltages are within acceptable levels.
 | Unregulated (9V) | 9 V DC | 8.604 V | | R2 |
 
 </div>
+
+
+## Remediation of problem areas
+
+**LED connector CN10** 
+
+The LED connector (CN10) pins are bent. It seems like the pins have been forcefully bent when the connector housing was installed. With a pair of needle-nose pliers the pins are straightened.
+
+<p align="center" float="left">
+    <img src="Images/Main09.jpeg" alt="Description" width="450">
+    <img src="Images/Main10.jpeg" alt="Description" width="508">
+</p>
+
+**Emerging corrosion U14/U16** 
+
+There are some odd-looking residue seeping around the backside of the PCB (in the area of U14/U16). Not sure what this is really, but it does seem to be corrosive. The area is cleaned with some vinegar which will prevent any further corrosion. Finally the area is cleaned with properly with isopropanol.
+
+As can be seen from the "after" picture some of the solder mask is gone, but all the metal traces and pads seems to be ok. The missing solder mask is repaired by applying some transparent nail polish.
+
+<p align="center" float="left">
+    <img src="Images/Main12.jpeg" alt="Description" width="500">
+    <img src="Images/Main11.jpeg" alt="Description" width="500">
+</p>
+
+**Flux residue R27**
+
+Flux is usually non-corrosive. But the issue with old flux is that it can get "sticky" after several years (40+) making it a collector of dust and moist. Therefore it is good practice to remove most of this flux in critical areas. The R27 is a 2k trimmer potensiometer used to calibrate the color displayed by the VIC-II. The flux is removed with isopropanol and some careful scraping with a plastic spudge.
+
+<p align="center" float="left">
+    <img src="Images/Main13.jpeg" alt="Description" width="500">
+    <img src="Images/Main14.jpeg" alt="Description" width="500">
+</p>
+
+**Ceramic capacitor and thermal paste**
+
+The ceramic capacitor C54 is leaning towards the VIC-II IC. That itself is not causing any issue with e.g. short circuits, but the VIC-II is one of the hottest ICs on the mainboard. And all components, such as capacitors, can derate faster is extraordinary heat is applied. Also, thermal paste can be conductive. When old and crusty thermal paste are spilled over the pins on the VIC-II this can cause problems.
+
+<p align="center" float="left">
+    <img src="Images/Main16.jpeg" alt="Description" width="500">
+    <img src="Images/Main15.jpeg" alt="Description" width="500">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
