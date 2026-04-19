@@ -197,6 +197,14 @@ The LED connector (CN10) pins are bent. It seems like the pins have been forcefu
 
 **Emerging corrosion U14/U16** 
 
+There are some odd-looking residue seeping around the backside of the PCB (in the area of U14/U16). Not sure what this is really, but it does seem to be corrosive. The area is cleaned with some vinegar which will prevent any further corrosion. Finally the area is cleaned with properly with isopropanol.
+
+As can be seen from the "after" picture some of the solder mask is gone, but all the metal traces and pads seems to be ok. The missing solder mask is repaired by applying some transparent nail polish.
+
+<p align="center" float="left">
+    <img src="Images/Main12.jpeg" alt="Description" width="500">
+    <img src="Images/Main11.jpeg" alt="Description" width="508">
+</p>
 
 ## Initial testing
 
