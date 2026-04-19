@@ -300,7 +300,7 @@ The user port (CN2) is also cleaned with some isopropanol and a rubber eraser.
 To start refurbishing the keyboard it is disassembled from the front cover first. There are eight Pozidrive screws[^3] attaching the keyboard to the front cover. Note that care must be taken when removing these. The screws have been sitting there for 43 years and the standoffs can eaily crack.
 
 <p align="center">
-    <img src="Images/Keyb01.jpeg" alt="Description" width="600">
+    <img src="Images/Keyb01.jpeg" alt="Description" width="1000">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
