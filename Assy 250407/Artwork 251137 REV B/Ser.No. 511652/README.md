@@ -190,6 +190,11 @@ In the table below all the major custom IC found on the mainboard are listed. As
 
 The LED connector (CN10) pins are bent. It seems like the pins have been forcefully bent when the connector housing was installed. With a pair of needle-nose pliers the pins are straightened.
 
+<p align="center" float="left">
+    <img src="Images/Main09.jpeg" alt="Description" width="450">
+    <img src="Images/Main10.jpeg" alt="Description" width="508">
+</p>
+
 **Emerging corrosion U14/U16** 
 
 
