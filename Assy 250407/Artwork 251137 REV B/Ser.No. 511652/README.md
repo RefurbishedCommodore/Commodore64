@@ -210,7 +210,10 @@ As can be seen from the "after" picture some of the solder mask is gone, but all
 
 Flux is usually non-corrosive. But the issue with old flux is that it can get "sticky" after several years (40+) making it a collector of dust and moist. Therefore it is good practice to remove most of this flux in critical areas. The R27 is a 2k trimmer potensiometer used to calibrate the color displayed by the VIC-II. The flux is removed with isopropanol and some careful scraping with a plastic spudge.
 
-
+<p align="center" float="left">
+    <img src="Images/Main13.jpeg" alt="Description" width="500">
+    <img src="Images/Main14.jpeg" alt="Description" width="500">
+</p>
 
 ## Initial testing
 
