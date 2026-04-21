@@ -305,6 +305,16 @@ To start refurbishing the keyboard it is disassembled from the front cover first
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Casing
+
+Before the top- and bottom cover is cleaned properly the LED, metal badge and rubber feet are removed. To remove the LED the inner plastic ring is removed first. Then the LED is pressed firmly from the outside (by pressing it towards a flat area) until it pops out. Finally, the last plastic clip is pried outwards.
+
+<p align="center" float="left">
+    <img src="Images/Case02.jpeg" alt="Description" width="260">
+    <img src="Images/Case01.jpeg" alt="Description" width="300">
+    <img src="Images/Case03.jpeg" alt="Description" width="306">  
+</p>
+
 **Footnotes**
 [^1]: Phillips pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.0 mm
