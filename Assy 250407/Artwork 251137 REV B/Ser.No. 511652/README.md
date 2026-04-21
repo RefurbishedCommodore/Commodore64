@@ -319,6 +319,10 @@ Before the top- and bottom cover is cleaned properly the LED, metal badge and ru
     <img src="Images/Case05.jpeg" alt="Description" width="326">  
 </p>
 
+<p align="center">
+    <img src="Images/Case03.jpeg" alt="Description" width="600">
+</p>
+
 **Footnotes**
 [^1]: Phillips pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.0 mm
