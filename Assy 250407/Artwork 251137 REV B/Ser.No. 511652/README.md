@@ -214,13 +214,13 @@ The results on the initial testing is shown in the table below:
 
 <div align="center">
   
-| Test area | Test criteria | Result | Comment |
-|:----------|:----------|:----------:|:----------|
-| Boot up | Default blue screen showing 38911 BASIC Bytes Free | PASSED | Flashing cursor present |
-| DeadTest | Passing all tests | PASSED |  |
-| Diagostics Cartridge| Passing all tests | PASSED | |
-| DesTestMAX | Passing all memory tests | PASSED | |
-| DesTestFULL | Passing all memory tests | PASSED | |
+| Test ID | Test area | Test criteria | Result | Comment |
+|:---------:|:----------|:----------|:----------:|:----------|
+| #1 | Boot up | Default blue screen showing 38911 BASIC Bytes Free | PASSED | Flashing cursor present |
+| #2| DeadTest | Passing all tests | PASSED |  |
+| #3| Diagostics Cartridge| Passing all tests | PASSED | |
+| #4| DesTestMAX | Passing all memory tests | PASSED | |
+| #5| DesTestFULL | Passing all memory tests | PASSED | |
 
 </div>
 
