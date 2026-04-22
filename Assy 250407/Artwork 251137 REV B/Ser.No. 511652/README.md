@@ -210,7 +210,7 @@ When running the Diagnostic Cartridge the full test harness is installed.
     <img src="Images/Main07.jpeg" alt="Description" width="1000">
 </p>
 
-The results on the initial testing is shown in the table below:
+The results on the initial testing is shown in the table below (screen thumbnails below) - click to enlarge:
 
 <div align="center">
   
@@ -223,6 +223,14 @@ The results on the initial testing is shown in the table below:
 | #5| DesTestFULL | Passing all memory tests | PASSED | |
 
 </div>
+
+<p align="center" float="left">
+    <img src="Images/InitTest01.jpeg" alt="Description" width="170">
+    <img src="Images/InitTest02.jpeg" alt="Description" width="170">
+    <img src="Images/InitTest03.jpeg" alt="Description" width="170">
+    <img src="Images/InitTest04.jpeg" alt="Description" width="170">
+    <img src="Images/InitTest05.jpeg" alt="Description" width="170">    
+</p>
 
 ## Checking the voltages
 
