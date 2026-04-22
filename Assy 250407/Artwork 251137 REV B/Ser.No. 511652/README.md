@@ -330,7 +330,14 @@ To start refurbishing the keyboard it is disassembled from the front cover first
     <img src="Images/Keyb01.jpeg" alt="Description" width="1000">
 </p>
 
+The keyboard seems to be in good condition. All the keycaps are without any significant scratches or damage, and the springs beneath the keycaps also appears to be functioning. The SHIFT-LOCK key also locks in position. There are some dust, and the top of the keycaps are slightly yellowed.
+
+<p align="center">
+    <img src="Images/Keyb02.jpeg" alt="Description" width="1000">
+</p>
+
 ## Removing the keycaps
+
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
