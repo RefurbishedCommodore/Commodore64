@@ -369,7 +369,9 @@ After cleaning the top- and bottom cover looks way better. There are some cable 
 
 Below are some pictures of the covers after cleaning - but before retrobrighting.
 
-
+<p align="center">
+    <img src="Images/Case07.jpeg" alt="Description" width="800">
+</p>
 
 **Footnotes**
 [^1]: Phillips pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
