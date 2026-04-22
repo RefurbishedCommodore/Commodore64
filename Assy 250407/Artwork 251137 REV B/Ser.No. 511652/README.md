@@ -333,6 +333,10 @@ The metal badges embossed with "C= commodore 64" and "POWER" is the very symbol 
 
 To make sure that the old glue on the badges are also removed the badges are placed in a box of mild soap water for about 24 hours. Then the first layer of glue is removed with a flat spudger. The second layer is removed in the same way. First 24 hours of water then scraping the glue away with a flat spudger.
 
+<p align="center">
+    <img src="Images/Case06.jpeg" alt="Description" width="600">
+</p>
+
 **Footnotes**
 [^1]: Phillips pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.0 mm
