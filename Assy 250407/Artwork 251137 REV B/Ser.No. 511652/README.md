@@ -307,7 +307,11 @@ To start refurbishing the keyboard it is disassembled from the front cover first
 
 # Casing
 
-Before the top- and bottom cover is cleaned properly the LED, metal badge and rubber feet are removed. To remove the LED the inner plastic ring is removed first. Then the LED is pressed firmly from the outside (by pressing it towards a flat area) until it pops out. Finally, the last plastic clip is pried outwards.
+The plan is to clean and retrobright the casing. But before the top- and bottom covers are cleaned the LED, metal badge and rubber feet are removed. 
+
+***Removing the power LED***
+
+To remove the LED the inner plastic ring is removed first. Then the LED is pressed firmly from the outside (by pressing it towards a flat area) until it pops out. Finally, the last plastic clip is pried outwards.
 
 <p align="center" float="left">
     <img src="Images/Case01.jpeg" alt="Description" width="300">
@@ -322,6 +326,12 @@ Before the top- and bottom cover is cleaned properly the LED, metal badge and ru
 <p align="center">
     <img src="Images/Case03.jpeg" alt="Description" width="600">
 </p>
+
+***Removing the metal badges***
+
+The metal badges embossed with "C= commodore 64" and "POWER" is the very symbol of this nostalgic machine. Removing them is straightforward, but it requires some patience to avoid damaging them. With some hot air from a hair dryer the badges are carefully pried off the top cover.
+
+To make sure that the old glue on the badges are also removed the badges are placed in a box of mild soap water for about 24 hours. Then the first layer of glue is removed with a flat spudger. The second layer is removed in the same way. First 24 hours of water then scraping the glue away with a flat spudger.
 
 **Footnotes**
 [^1]: Phillips pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
