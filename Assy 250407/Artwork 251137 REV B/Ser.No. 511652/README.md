@@ -53,6 +53,9 @@
         <li>
           <a href="#removing-the-metal-badges">Removing the metal badges</a>
         </li>
+        <li>
+          <a href="#cleaning-and-retrobrighting-the-covers">Cleaning and retrobrighting the covers</a>
+        </li>     
       </ul>
     </li>
   </ul>
@@ -355,6 +358,18 @@ To make sure that the old glue on the badges are also removed the badges are pla
 <p align="center">
     <img src="Images/Case06.jpeg" alt="Description" width="800">
 </p>
+
+## Cleaning and retrobrighting the covers
+
+Both the top- and bottom covers are quite dirty so they have to be cleaned properly. The way to do this is to leave them in mild soap water for a few days. This will remove the dust and dissolve the grease.
+
+Also, the four rubber feet are removed before the cleaning. The reason for this is that these rubber feet will become "sticky" if they are exposed to retrobrighting chemicals.
+
+After cleaning the top- and bottom cover looks way better. There are some cable burn marks (and marks in general) on the covers. I will leave these as they are as they do not degrade the aesthetics in any significant way.
+
+Below are some pictures of the covers after cleaning - but before retrobrighting.
+
+
 
 **Footnotes**
 [^1]: Phillips pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
