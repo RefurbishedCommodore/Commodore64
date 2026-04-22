@@ -46,6 +46,14 @@
     </li>
     <li>
       <a href="#casing">Casing</a>
+      <ul>
+        <li>
+          <a href="#removing-the-power-LED">Removing the power LED</a>
+        </li>
+        <li>
+          <a href="#removing-the-metal-badges">Removing the metal badges</a>
+        </li>
+      </ul>
     </li>
   </ul>
 </details>
@@ -312,7 +320,7 @@ To start refurbishing the keyboard it is disassembled from the front cover first
 
 The plan is to clean and retrobright the casing. But before the top- and bottom covers are cleaned the LED, metal badge and rubber feet are removed. 
 
-***Removing the power LED***
+## Removing the power LED
 
 To remove the LED the inner plastic ring is removed first. Then the LED is pressed firmly from the outside (by pressing it towards a flat area) until it pops out. Finally, the last plastic clip is pried outwards.
 
@@ -330,7 +338,7 @@ To remove the LED the inner plastic ring is removed first. Then the LED is press
     <img src="Images/Case03.jpeg" alt="Description" width="600">
 </p>
 
-***Removing the metal badges***
+## Removing the metal badges
 
 The metal badges embossed with "C= commodore 64" and "POWER" is the very symbol of this nostalgic machine. Removing them is straightforward, but it requires some patience to avoid damaging them. With some hot air from a hair dryer the badges are carefully pried off the top cover.
 
