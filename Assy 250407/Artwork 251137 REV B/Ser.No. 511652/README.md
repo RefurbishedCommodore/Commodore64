@@ -44,6 +44,9 @@
     <li>
       <a href="#keyboard">Keyboard</a>
     </li>
+    <li>
+      <a href="#casing">Casing</a>
+    </li>
   </ul>
 </details>
 
@@ -334,7 +337,7 @@ The metal badges embossed with "C= commodore 64" and "POWER" is the very symbol 
 To make sure that the old glue on the badges are also removed the badges are placed in a box of mild soap water for about 24 hours. Then the first layer of glue is removed with a flat spudger. The second layer is removed in the same way. First 24 hours of water then scraping the glue away with a flat spudger.
 
 <p align="center">
-    <img src="Images/Case06.jpeg" alt="Description" width="600">
+    <img src="Images/Case06.jpeg" alt="Description" width="800">
 </p>
 
 **Footnotes**
