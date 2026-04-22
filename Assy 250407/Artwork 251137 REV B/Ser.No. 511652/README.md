@@ -344,6 +344,13 @@ All the 66 keycaps are removed with a keycap puller [(Tools).](https://refurbish
     <img src="Images/Keyb03.jpeg" alt="Description" width="1000">
 </p>
 
+The keycaps are placed in a box filled with mild soap water for 24 hours. This will dissolve any grease and dirt on the keycaps.
+
+<p align="center">
+    <img src="Images/Keyb04.jpeg" alt="Description" width="500">
+</p>
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Casing
