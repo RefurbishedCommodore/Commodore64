@@ -338,7 +338,7 @@ The keyboard seems to be in good condition. All the keycaps are without any sign
 
 ## Removing the keycaps
 
-
+All the 66 keycaps are removed with a keycap puller [(Tools).](https://refurbished-commodore.com/tools) Using a keycap puller will both reduce the probability of damaging the keycaps and breaking the plungers. When removing the keycaps make sure to store the spring for the SPACEBAR in a separate place. This spring is slightly larger than the rest of the springs.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
