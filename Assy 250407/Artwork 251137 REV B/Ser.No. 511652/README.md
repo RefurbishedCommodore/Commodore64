@@ -43,6 +43,11 @@
       </ul>
     <li>
       <a href="#keyboard">Keyboard</a>
+      <ul>
+        <li>
+          <a href="#removing-the-keycaps">Removing the keycaps</a>
+        </li>
+      </ul>
     </li>
     <li>
       <a href="#casing">Casing</a>
@@ -324,6 +329,9 @@ To start refurbishing the keyboard it is disassembled from the front cover first
 <p align="center">
     <img src="Images/Keyb01.jpeg" alt="Description" width="1000">
 </p>
+
+## Removing the keycaps
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
