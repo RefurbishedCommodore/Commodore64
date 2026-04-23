@@ -361,6 +361,8 @@ To prepare the keyboard PCB (Assy 326166-02 / Ser.No. 14831214) for cleaning all
     <img src="Images/Keyb05.jpeg" alt="Description" width="800">
 </p>
 
+The SHIFT-LOCK needs to be desoldered before it can be removed from the keyboard. When the two uninsulated wires are desoldered the SHIFT-LOCK key is easily removed by pushing it forward from the backside.
+
 It is very nice to see that this is the KSR-A66YF 56 4021**A** keyboard PCB from Mitsumi. These keyboard PCBs are special since all the 66 contact pads are **GOLD** plated. Later models (as the **B** variant has carbon pads. Since the pads are gold plated the whole PCB is properly cleaned with isopropanol. Looks as good as new!
 
 <p align="center">
@@ -372,6 +374,8 @@ At the same time the plastic bracket holding the PCB is also cleaned with some m
 <p align="center">
     <img src="Images/Keyb07.jpeg" alt="Description" width="1000">
 </p>
+
+
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
