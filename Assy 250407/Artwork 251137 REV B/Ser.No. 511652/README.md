@@ -357,6 +357,14 @@ The keycaps are placed in a box filled with mild soap water for 24 hours. This w
 
 To prepare the keyboard PCB for cleaning all the 23 small Phillips screws[^4] are removed. 
 
+<p align="center">
+    <img src="Images/Keyb05.jpeg" alt="Description" width="800">
+</p>
+
+It is very nice to see that this is the KSR-A66YF 56 4021**A** keyboard PCB from Mitsumi. These keyboard PCBs are special since all the 66 contact pads are **GOLD** plated. Later models (as the **B** variant has carbon pads.
+
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Casing
