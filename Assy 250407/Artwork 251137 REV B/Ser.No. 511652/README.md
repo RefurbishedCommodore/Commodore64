@@ -364,7 +364,7 @@ To prepare the keyboard PCB for cleaning all the 23 small Phillips screws[^4] ar
 It is very nice to see that this is the KSR-A66YF 56 4021**A** keyboard PCB from Mitsumi. These keyboard PCBs are special since all the 66 contact pads are **GOLD** plated. Later models (as the **B** variant has carbon pads. Since the pads are gold plated the whole PCB is properly cleaned with isopropanol. Looks as good as new!
 
 <p align="center">
-    <img src="Images/Keyb05.jpeg" alt="Description" width="1000">
+    <img src="Images/Keyb06.jpeg" alt="Description" width="1000">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
