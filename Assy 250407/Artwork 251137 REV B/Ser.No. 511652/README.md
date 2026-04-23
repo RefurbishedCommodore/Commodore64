@@ -367,6 +367,13 @@ It is very nice to see that this is the KSR-A66YF 56 4021**A** keyboard PCB from
     <img src="Images/Keyb06.jpeg" alt="Description" width="1000">
 </p>
 
+At the same time the plastic bracket holding the PCB is also cleaned with some mild soap water.
+
+<p align="center">
+    <img src="Images/Keyb07.jpeg" alt="Description" width="1000">
+</p>
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Casing
