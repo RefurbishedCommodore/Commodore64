@@ -47,7 +47,15 @@
     </li>  
     <li>
       <a href="#keyboard">Keyboard</a>
-    </li>
+      <ul>
+        <li>
+          <a href="#removing-and-cleaning-the-keycaps">Removing and cleaning the keycaps</a>
+        </li>
+        <li>
+          <a href="#cleaning-the-keyboard-pcb">Cleaning the keyboard PCB</a>
+        </li>
+      </ul>
+    </li>     
     <li>
       <a href="#casing">Casing</a>
     </li>   
@@ -387,13 +395,20 @@ The keyboard is in very good mechanical shape. Yes, there is quite some dust and
     <img src="Images/Keyb02.jpeg" alt="Description" width="1000">
 </p>
 
+## Removing and cleaning the keycaps
+
 Holy moly! Removing the keycaps is hard! These keycaps are sitting "blegg fast" (Stavanger term) on the plugers. But with the keycap puller all the keycaps are removed [(Tools)](https://refurbished-commodore.com/tools). Note that there is a spring beneath all the keycaps (except for the SHIFT-LOCK), and that the spring beneath the spacebar is larger than the rest.
 
 <p align="center">
     <img src="Images/Keyb03.jpeg" alt="Description" width="800">
 </p>
 
-All the keycaps are placed in a plastic boc filled with cold water and mild soap for about 24 hours. This will remove most of the dust and grease from the keycaps. While the keycaps are taking a well deserved bath the keyboard PCB is removed from the plastic bracket. There are 23 small Phillips screws[^4] holding the PCB. Use a small low-torque screwdriver when removing the screws to avoid damage.
+All the keycaps are placed in a plastic boc filled with cold water and mild soap for about 24 hours. This will remove most of the dust and grease from the keycaps. 
+
+
+## Cleaning the keyboard PCB
+
+While the keycaps are taking a well deserved bath the keyboard PCB is removed from the plastic bracket. There are 23 small Phillips screws[^4] holding the PCB. Use a small low-torque screwdriver when removing the screws to avoid damage.
 
 <p align="center">
     <img src="Images/Keyb04.jpeg" alt="Description" width="800">
