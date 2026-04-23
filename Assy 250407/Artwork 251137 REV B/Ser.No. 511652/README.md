@@ -355,7 +355,7 @@ The keycaps are placed in a box filled with mild soap water for 24 hours. This w
 
 ## Cleaning the keyboard PCB
 
-To prepare the keyboard PCB for cleaning all the 23 small Phillips screws[^4] are removed.
+To prepare the keyboard PCB for cleaning all the 23 small Phillips screws[^4] are removed. 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
