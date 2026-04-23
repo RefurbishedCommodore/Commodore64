@@ -191,9 +191,9 @@ The mainboard is the Assy 250407/Fab 250406 Rev A. Also marked with "H.E.C. GEA 
 
 ## Visual inspection
 
-The mainboard appears to be in very good condition. I can not see any signs of either damage or repair. There is of course the normal amount of dust laying around on the mainboard, but that is to be expected after so many years. On the backside of the mainboard there is very little flux residue, which is not so common. Commodore mainboards often contain quite some flux residue - likely a sign that Commodore were in a hurry when manufacturing and not had time to clean properly. 
+The mainboard appears to be in very good condition. I cannot see any signs of either damage or repair. There is of course the normal amount of dust laying around on the mainboard, but that is to be expected after so many years. On the backside of the mainboard there is very little flux residue, which is not so common. Commodore mainboards often contain quite some flux residue - likely a sign that Commodore were in a hurry when manufacturing and not had time to clean properly. 
 
-I can not see any obvious signs of rework. I can not see any obvious reason why the mainboard should be faulty. As mentioned earlier there is some kind of paint, or coating, on the ROM ICs. I do not see any reason why someone should need to paint these?
+I cannot see any obvious signs of rework. I cannot see any obvious reason why the mainboard should be faulty. As mentioned earlier there is some kind of paint, or coating, on the ROM ICs. I do not see any reason why someone should need to paint these?
 
 In the table below all the major custom IC found on the mainboard are listed. As can be seen from the table the custom MOS chips were produced during a time interval from week 09 in 1983 to week 17 in 1983. I think it is a fair guess that this Commodore 64 were manufactured sometime during spring 1983 - and that the workers prodcuing this were listening to Michael Jacksons "Billie Jean".
 
