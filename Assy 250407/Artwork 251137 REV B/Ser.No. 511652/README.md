@@ -56,7 +56,7 @@
       <a href="#casing">Casing</a>
       <ul>
         <li>
-          <a href="#removing-the-power-LED">Removing the power LED</a>
+          <a href="#removing-the-power-led">Removing the power LED</a>
         </li>
         <li>
           <a href="#removing-the-metal-badges">Removing the metal badges</a>
