@@ -419,7 +419,7 @@ All the keycaps are placed in a plastic boc filled with cold water and mild soap
 
 ## Cleaning the keyboard PCB
 
-While the keycaps are taking a well deserved bath the keyboard PCB is removed from the plastic bracket. There are 23 small Phillips screws[^4] holding the PCB. Use a small low-torque screwdriver when removing the screws to avoid damage.
+While the keycaps are taking a well deserved bath the keyboard PCB (Assy 326166-02 / Ser.No. 20830626) is removed from the plastic bracket. There are 23 small Phillips screws[^4] holding the PCB. Use a small low-torque screwdriver when removing the screws to avoid damage.
 
 <p align="center">
     <img src="Images/Keyb04.jpeg" alt="Description" width="800">
