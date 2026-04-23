@@ -71,7 +71,7 @@
 
 # Starting point
 
-This breadbin Commodore 64 is in for some refurbish. I do not know if it works or not, but from the outside it looks to be in quite good condition. I can not see any real damage to it at all. There are some minor "burn marks" on the casing which is a result of cables which probably have been wrapped around the machine at some point.
+This breadbin Commodore 64 is in for some refurbish. I do not know if it works or not, but from the outside it looks to be in quite good condition. I cannot see any real damage to it at all. There are some minor "burn marks" on the casing which is a result of cables which probably have been wrapped around the machine at some point.
 
 At the underside there are some scratches, but this is also quite minor. Also, since this is on the underside of the machine no one will notice anyway. The keycaps are a bit dirty, but I would not expect otherwise after so many years. And both the top- and bottom cover are quite yellowed. The keyboards feels good also. The topside of the keycaps are a bit yellowed.
 
@@ -115,7 +115,7 @@ First step in the disassembly is to remove the three Phillips screws[^1] on the 
     <img src="Images/Dis01.jpeg" alt="Description" width="800">
 </p>
 
-With the screws out of the way the machine is flipped over again, and the top cover is carefully lifted 30 degrees and wiggled off. Now the interior is exposed. It looks to be in very good condition. I can not see any signs of moisture on the cardboard RF-shield (the RF-shield is wrinkled, but I do not think this is caused by moisture). I think it is fair to assume that his Commodore 64 has been stored in a dry storage with quite stable temperatures.
+With the screws out of the way the machine is flipped over again, and the top cover is carefully lifted 30 degrees and wiggled off. Now the interior is exposed. It looks to be in very good condition. I cannot see any signs of moisture on the cardboard RF-shield (the RF-shield is wrinkled, but I do not think this is caused by moisture). I think it is fair to assume that his Commodore 64 has been stored in a dry storage with quite stable temperatures.
 
 <p align="center">
     <img src="Images/Dis02.jpeg" alt="Description" width="800">
@@ -157,7 +157,7 @@ The mainboard is the Assy 250407/Artwork 251137 Rev B. Also marked with "W-18 94
 
 ## Visual inspection
 
-The mainboard appears to be in very good condition. And I can not see any signs of rework from previous repair(s). There are some dust and grease on the PCB close to the port openings, but this to be expected.
+The mainboard appears to be in very good condition. And I cannot see any signs of rework from previous repair(s). There are some dust and grease on the PCB close to the port openings, but this to be expected.
 
 Notice that most of the custom MOS ICs are in socket. But for some reason the character ROM (MOS 901225-01) is not socketed. Why? Not sure, but I think it is fair to assume that Commodore we running low on stock on sockets - or would like to save a little bit of money.
 
