@@ -58,7 +58,18 @@
     </li>     
     <li>
       <a href="#casing">Casing</a>
-    </li>   
+    <ul>
+        <li>
+          <a href="#removing-the-power-led">Removing the power LED</a>
+        </li>
+        <li>
+          <a href="#removing-the-metal-badges">Removing the metal badges</a>
+        </li>
+        <li>
+          <a href="#cleaning-and-retrobrighting-the-covers">Cleaning and retrobrighting the covers</a>
+        </li>
+      </ul>
+    </li>     
   </ul>
 </details>
 
@@ -462,7 +473,11 @@ Finally the keyboard is re-assembled. It is a bit yellowed on the top of the key
 
 # Casing
 
-Before the top- and bottom cover is cleaned properly the LED, metal badge and rubber feet are removed. To remove the LED the inner plastic ring is removed first. Then the LED is pressed firmly from the outside (by pressing it towards a flat area) until it pops out. Finally, the last plastic clip is pried outwards.
+Before the top- and bottom cover is cleaned properly the LED, metal badge and rubber feet are removed. 
+
+## Removing the power LED
+
+To remove the LED the inner plastic ring is removed first. Then the LED is pressed firmly from the outside (by pressing it towards a flat area) until it pops out. Finally, the last plastic clip is pried outwards.
 
 <p align="center" float="left">
     <img src="Images/Case02.jpeg" alt="Description" width="260">
@@ -470,13 +485,15 @@ Before the top- and bottom cover is cleaned properly the LED, metal badge and ru
     <img src="Images/Case03.jpeg" alt="Description" width="306">  
 </p>
 
+## Removing the metal badges
+
 The "POWER" metal badge is removed carefully by first applying some hot air from a hair dryer. This will make the glue slip. With a sharp scalpel the badge is carefully pried off the top cover. To remove the four rubber feet from the bottom cover a flat thin screwdriver is used to peel them off. Below is a picture of the parts removed from the covers before cleaning.
 
 <p align="center">
     <img src="Images/Case04.jpeg" alt="Description" width="800">
 </p>
 
-**Cleaning the covers**
+## Cleaning and retrobrighting the covers
 
 Both the top- and bottom covers are soaked in mild soap water for about 24 hours. This will dissolve most of the surface dust and grease on the covers. After drying, the covers are then cleaned with some isopropanol and a Q-tip to remove the more stubborn marks.
 
@@ -485,8 +502,6 @@ After cleaning the top- and bottom covers looks way better. They are still quite
 <p align="center">
     <img src="Images/Case05.jpeg" alt="Description" width="800">
 </p>
-
-**Retrobrighting the covers**
 
 There are different opinions regarding retrobrigting. From my point of view it is a good thing: even if the retrobright can leave some streaks and stress the plastic, I still think that a retrobrighted cover looks better than the yellowed.
 
