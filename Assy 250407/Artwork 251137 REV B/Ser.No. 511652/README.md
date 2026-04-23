@@ -137,7 +137,7 @@ The cardboard RF-shield is lifted away, and the PCB is exposed in all its glory.
 
 There are no sign of corrosion, neither on the PCB itsef nor the metal parts (VIC-II shield, cartridge connector and RF-modulator). Another indication that this Commodore 64 has been stored in a dry and tempered room.
 
-All the seven Phillips screws are in place holding the PCB to the bottom cover. They are removed with a low torque screwdriver to free the PCB from the bottom cover.
+All the seven Phillips screws[^2] are in place holding the PCB to the bottom cover. They are removed with a low torque screwdriver to free the PCB from the bottom cover.
 
 <p align="center">
     <img src="Images/Dis05.jpeg" alt="Description" width="1000">
@@ -410,5 +410,3 @@ Below are some pictures of the covers after cleaning - but before retrobrighting
 [^2]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.0 mm
 [^3]: Pozidrive pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.5 mm
 [^4]: Phillips pan head (3.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 8.0 mm
-
-Hello
