@@ -45,7 +45,10 @@
       <a href="#keyboard">Keyboard</a>
       <ul>
         <li>
-          <a href="#removing-the-keycaps">Removing the keycaps</a>
+          <a href="#removing-and-cleaning-the-keycaps">Removing and cleaning the keycaps</a>
+        </li>
+        <li>
+          <a href="#cleaning-the-keyboard-pcb">Cleaning the keyboard PCB</a>
         </li>
       </ul>
     </li>
@@ -336,7 +339,7 @@ The keyboard seems to be in good condition. All the keycaps are without any sign
     <img src="Images/Keyb02.jpeg" alt="Description" width="1000">
 </p>
 
-## Removing the keycaps
+## Removing and cleaning the keycaps
 
 All the 66 keycaps are removed with a keycap puller [(Tools).](https://refurbished-commodore.com/tools) Using a keycap puller will both reduce the probability of damaging the keycaps and breaking the plungers. When removing the keycaps make sure to store the spring for the SPACEBAR in a separate place. This spring is slightly larger than the rest of the springs.
 
@@ -350,6 +353,9 @@ The keycaps are placed in a box filled with mild soap water for 24 hours. This w
     <img src="Images/Keyb04.jpeg" alt="Description" width="500">
 </p>
 
+## Cleaning the keyboard PCB
+
+To prepare the keyboard PCB for cleaning all the 23 small Phillips screws[^4] are removed.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
@@ -402,4 +408,5 @@ Below are some pictures of the covers after cleaning - but before retrobrighting
 **Footnotes**
 [^1]: Phillips pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.0 mm
-[^3]: Pozidrive pah head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.5 mm
+[^3]: Pozidrive pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.5 mm
+[^4]: Phillips pan head (3.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 8.0 mm
