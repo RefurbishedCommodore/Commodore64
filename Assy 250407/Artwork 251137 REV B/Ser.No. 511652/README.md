@@ -155,15 +155,15 @@ With the PCB out of the way, the inside of the bottom cover is visible. It seems
 
 # Mainboard
 
-The mainboard is the Assy 250407/Artwork 251137 Rev B. Also marked with "W-18 94HB". This is one of the early revisions of the mainboard which is characterised by having the full PLL clock circuitry and the VIC-II positioned vertically. It is not the earliest revision though, so the A/V connector is full eight pin with LUMA and CHROMA output.
+The mainboard is Assy 250407 / Artwork 251137 Rev B, also marked "W-18 94HB". This is one of the early revisions of the mainboard, characterized by having the full PLL clock circuitry and the VIC-II positioned vertically. It is not the earliest revision, though, so the A/V connector is a full eight-pin version with LUMA and CHROMA output.
 
 ## Visual inspection
 
-The mainboard appears to be in very good condition. And I cannot see any signs of rework from previous repair(s). There are some dust and grease on the PCB close to the port openings, but this to be expected.
+The mainboard appears to be in very good condition. I cannot see any signs of rework from previous repairs. There is some dust and grease on the PCB close to the port openings, but this is to be expected.
 
-Notice that most of the custom MOS ICs are in socket. But for some reason the character ROM (MOS 901225-01) is not socketed. Why? Not sure, but I think it is fair to assume that Commodore we running low on stock on sockets - or would like to save a little bit of money.
+Note that most of the custom MOS ICs are socketed. However, for some reason, the character ROM (MOS 901225-01) is not socketed. Why? I am not sure, but it is reasonable to assume that Commodore was either running low on sockets or wanted to save a bit of money.
 
-Below are some pictures of the mainboard before refurbish.
+Below are some pictures of the mainboard before refurbishment.
 
 <p align="center">
     <img src="Images/Main01.jpeg" alt="Description" width="1000">
@@ -171,21 +171,21 @@ Below are some pictures of the mainboard before refurbish.
     <img src="Images/Main08.jpeg" alt="Description" width="600">
 </p>
 
-There are some things to notice from the visual inspection which will be inspected further and taken care of:
+There are some items identified during the visual inspection that will be examined further and addressed:
 
 > **Areas:**
 >
-> * LED connector - The LED connector CN10 is bent
->   
-> * Emerging corrosion - On the backside of the PCB there seems to be some emerging corrosion between U14 and U16
-> 
-> * Flux residue - On the backside of the PCB there are some old flux residue from a hand soldering of R27
-> 
-> * Ceramic capacitor and thermal paste - The ceramic capacitor C54 is leaning towards the VIC-II chip. Also the thermal paste on the VIC-II is dried out and is spilled over the pins
+> * LED connector – The LED connector CN10 is bent
 >
-> * Datasette port - The datasette port (CN3) is heavily oxidized and it looks like there is a broken trace?
+> * Emerging corrosion – On the backside of the PCB, there appears to be some corrosion developing between U14 and U16
+>
+> * Flux residue – On the backside of the PCB, there is some old flux residue from hand soldering of R27
+>
+> * Ceramic capacitor and thermal paste – The ceramic capacitor C54 is leaning towards the VIC-II chip. In addition, the thermal paste on the VIC-II is dried out and has spread over the pins
+>
+> * Datasette port – The datasette port (CN3) is heavily oxidized, and it looks like there may be a broken trace
 
-Below are some pictures of these noticeable areas. Click to enlarge.
+Below are some pictures of these areas. Click to enlarge.
 
 <p align="center">
     <img src="Images/Main03.JPG" alt="Description" width="500">
@@ -197,7 +197,7 @@ Below are some pictures of these noticeable areas. Click to enlarge.
     <img src="Images/Main05.JPG" alt="Description" width="500">
 </p>
 
-In the table below all the major custom IC found on the mainboard are listed. As can be seen from the table the custom MOS chips were produced during a time interval from week 03 in 1983 to week 04 in 1984. I think it is a fair guess that this Commodore 64 were manufactured sometime during winter of 1984.
+The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week 03 of 1983 and week 04 of 1984, suggesting this Commodore 64 was likely manufactured during the winter of 1984.
 
 | Chip/Area | Manufactor | Version | Date code | Socket | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
@@ -217,13 +217,13 @@ In the table below all the major custom IC found on the mainboard are listed. As
 
 Some initial tests are performed to check the health of the machine, determining whether the basic functions work as they should and, if not, whether any useful information can be gathered from these diagnostic tools.
 
-When running the Diagnostic Cartridge the full test harness is installed. 
+When running the Diagnostic Cartridge, the full test harness is used.
 
 <p align="center">
     <img src="Images/Main07.jpeg" alt="Description" width="1000">
 </p>
 
-The results on the initial testing is shown in the table below (screen thumbnails below) - click to enlarge:
+The results of the initial testing are shown in the table below (see screen thumbnails)—click to enlarge:
 
 <div align="center">
   
@@ -247,9 +247,9 @@ The results on the initial testing is shown in the table below (screen thumbnail
 
 ## Checking the voltages
 
-Voltages are measured before - and after - refurbishment. This is to make sure that all voltages are within acceptable levels. This table is updated after refurbishment is completed. All voltages are measured according to the article Checking C64 voltages [(HOWTO-Checking the Commodore 64 voltages)](https://refurbished-commodore.com/checking-c64-voltages).
+Voltages are measured before—and after—refurbishment. This is to ensure that all voltages are within acceptable levels. The table is updated after the refurbishment is completed. All voltages are measured according to the article Checking C64 Voltages [(HOWTO-Checking the Commodore 64 voltages)](https://refurbished-commodore.com/checking-c64-voltages).
 
-As seen in the table below all voltages are within acceptable levels.
+As seen in the table below, all voltages are within acceptable levels.
 
 <div align="center">
   
@@ -269,7 +269,7 @@ As seen in the table below all voltages are within acceptable levels.
 
 **LED connector CN10** 
 
-The LED connector (CN10) pins are bent. It seems like the pins have been forcefully bent when the connector housing was installed. With a pair of needle-nose pliers the pins are straightened.
+The pins of the LED connector (CN10) are bent. It appears that they were forcefully bent during installation of the connector housing. Using a pair of needle-nose pliers, the pins are carefully straightened.
 
 <p align="center" float="left">
     <img src="Images/Main09.jpeg" alt="Description" width="450">
@@ -278,9 +278,9 @@ The LED connector (CN10) pins are bent. It seems like the pins have been forcefu
 
 **Emerging corrosion U14/U16** 
 
-There are some odd-looking residue seeping around the backside of the PCB (in the area of U14/U16). Not sure what this is really, but it does seem to be corrosive. The area is cleaned with some vinegar which will prevent any further corrosion. Finally the area is cleaned with properly with isopropanol.
+There is some odd-looking residue seeping around the backside of the PCB (in the area of U14/U16). I am not sure what this is, but it does appear to be corrosive. The area is cleaned with vinegar, which will help prevent further corrosion. Finally, the area is properly cleaned with isopropanol.
 
-As can be seen from the "after" picture some of the solder mask is gone, but all the metal traces and pads seems to be ok. The missing solder mask is repaired by applying some transparent nail polish.
+As can be seen from the "after" picture, some of the solder mask is gone, but all the metal traces and pads seem to be OK. The missing solder mask is repaired by applying transparent nail polish.
 
 <p align="center" float="left">
     <img src="Images/Main12.jpeg" alt="Description" width="500">
@@ -289,7 +289,9 @@ As can be seen from the "after" picture some of the solder mask is gone, but all
 
 **Flux residue R27**
 
-Flux is usually non-corrosive. But the issue with old flux is that it can get "sticky" after several years (40+) making it a collector of dust and moist. Therefore it is good practice to remove most of this flux in critical areas. The R27 is a 2k trimmer potensiometer used to calibrate the color displayed by the VIC-II. The flux is removed with isopropanol and some careful scraping with a plastic spudge.
+Flux is usually non-corrosive. However, the issue with old flux is that it can become "sticky" after several years (40+), making it a collector of dust and moisture. Therefore, it is good practice to remove most of this flux in critical areas.
+
+R27 is a 2k trimmer potentiometer used to calibrate the color output of the VIC-II. The flux is removed using isopropanol and careful scraping with a plastic spudger.
 
 <p align="center" float="left">
     <img src="Images/Main13.jpeg" alt="Description" width="500">
@@ -298,7 +300,9 @@ Flux is usually non-corrosive. But the issue with old flux is that it can get "s
 
 **Ceramic capacitor and thermal paste**
 
-The ceramic capacitor C54 is leaning towards the VIC-II IC. That itself is not causing any issue with e.g. short circuits, but the VIC-II is one of the hottest ICs on the mainboard. And all components, such as capacitors, can derate faster is extraordinary heat is applied. Also, thermal paste can be conductive. When old and crusty thermal paste are spilled over the pins on the VIC-II this can cause problems.
+The ceramic capacitor C54 is leaning towards the VIC-II IC. This in itself is not causing any issues such as short circuits, but the VIC-II is one of the hottest ICs on the mainboard. All components, including capacitors, can degrade faster if exposed to excessive heat.
+
+Thermal paste can also be conductive. When old and crusty thermal paste has spread over the pins on the VIC-II, it can cause problems.
 
 <p align="center" float="left">
     <img src="Images/Main16.jpeg" alt="Description" width="500">
@@ -307,18 +311,21 @@ The ceramic capacitor C54 is leaning towards the VIC-II IC. That itself is not c
 
 **Datasette port**
 
-The datasette (CN3) port is heavily oxidized and there is some corrosion which might have caused a broken trace. It is very common that the datasette port is oxidized (and dirty) since the Commodore 64 was often used together with the datasette in Europe.
+The datasette (CN3) port is heavily oxidized, and there is some corrosion that might have caused a broken trace. It is very common for the datasette port to become oxidized (and dirty), as the Commodore 64 was often used together with a datasette in Europe.
 
-First, the port is cleaned with some isopropanol. Then a rubber eraser is used to carefully rub away the stuck grease. Note that these ports are gold plated so DO NOT USE a glassfiber pen unless strictly required. Most of the oxidation is gone after this cleaning operation.
+First, the port is cleaned with isopropanol. Then, a rubber eraser is used to carefully remove the stuck grease. Note that these ports are gold-plated, so **DO NOT USE** a glass-fiber pen unless strictly required. Most of the oxidation is removed after this cleaning process.
 
-Removing the corrosion is done by first applying some vineager. This will stop the on-going corrosion. Some scraping with a sharp picking tool and a glassfibre pen is required around the solder pad. Note that the glassfiber pen is not used on the gold plated area. The old solder is removed and the via is replenished with new solder. Luckily, it turns out that the trace was not completely broken. The cleaning, and repair, should now have fixed this and prevent it from any further corrosion. Finally, some transparent nail-polish is applied to function as a solder mask.
+The corrosion is treated by first applying some vinegar. This will stop the ongoing corrosion. Some scraping with a sharp pick tool and a glass-fiber pen is required around the solder pad. Note that the glass-fiber pen is not used on the gold-plated area. The old solder is removed, and the via is replenished with new solder.
+
+Fortunately, it turns out that the trace was not completely broken. The cleaning and repair should now have resolved the issue and prevented further corrosion. Finally, some transparent nail polish is applied to act as a solder mask.
+
 
 <p align="center" float="left">
     <img src="Images/Main17.jpeg" alt="Description" width="500">
     <img src="Images/Main18.jpeg" alt="Description" width="500">
 </p>
 
-The user port (CN2) is also cleaned with some isopropanol and a rubber eraser.
+The user port (CN2) is also cleaned with isopropanol and a rubber eraser.
 
 <p align="center">
     <img src="Images/Main19.jpeg" alt="Description" width="800">
