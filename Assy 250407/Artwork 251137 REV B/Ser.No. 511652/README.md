@@ -109,41 +109,43 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 # Disassembly
 
-First step in the disassembly is to remove the three Phillips screws[^1] on the underside. These are the most common type for the breadbin model. I notice a fine "cracking" sound when the screws are removed (with a low torque screwdriver). This is a good sign - it can be that this machine is not opened before. Not guaranteed though, but that "cracking" sound is often an indication that these screws have been sitting there for many years.
+The first step in the disassembly is to remove the three Phillips screws[^1] on the underside. These are the most common type for the breadbin model. I notice a faint "cracking" sound when the screws are removed (using a low-torque screwdriver). This is a good sign—it may indicate that this machine has not been opened before. It is not guaranteed, but that "cracking" sound is often an indication that the screws have been sitting in place for many years.
 
 <p align="center">
     <img src="Images/Dis01.jpeg" alt="Description" width="800">
 </p>
 
-With the screws out of the way the machine is flipped over again, and the top cover is carefully lifted 30 degrees and wiggled off. Now the interior is exposed. It looks to be in very good condition. I cannot see any signs of moisture on the cardboard RF-shield (the RF-shield is wrinkled, but I do not think this is caused by moisture). I think it is fair to assume that his Commodore 64 has been stored in a dry storage with quite stable temperatures.
+With the screws out of the way, the machine is flipped over again, and the top cover is carefully lifted about 30 degrees and wiggled off. Now the interior is exposed. It appears to be in very good condition. I cannot see any signs of moisture on the cardboard RF shield (the RF shield is wrinkled, but I do not think this is caused by moisture). I think it is fair to assume that this Commodore 64 has been stored in a dry environment with relatively stable temperatures.
 
 <p align="center">
     <img src="Images/Dis02.jpeg" alt="Description" width="800">
 </p>
 
-I notice something during disassembly: the LED connector is not properly attached to the three pins on the PCB. The three pins seems to be slighly bent actully which could make the installation of the connector difficult. Does this mean that the hypothesis that no one has opened this Commodore 64 before fail? No, I don´t think so. It is possible that the LED connector was installed this way during assembly sometime during assembly. Neverheless, this should be easy to fix.
+I notice something during disassembly: the LED connector is not properly attached to the three pins on the PCB. The three pins seem to be slightly bent, which could make installation of the connector difficult. Does this mean that the hypothesis that no one has opened this Commodore 64 before fails? No, I don’t think so. It is possible that the LED connector was installed this way during assembly. Nevertheless, this should be easy to fix.
 
 <p align="center">
     <img src="Images/Dis03.jpeg" alt="Description" width="400">
 </p>
 
-The rear plastic clips are in good condition - none of them are partly broken or missing. This kind of plastic clips are also way more robust than the small, thin clips found in (earlier) case versions. The top cover has an embossed number on it: "326113".
+The rear plastic clips are in good condition—none of them are broken or missing. These types of plastic clips are also much more robust than the small, thin clips found in earlier case versions. The top cover has an embossed number: "326113".
 
 <p align="center">
     <img src="Images/Dis04.jpeg" alt="Description" width="800">
 </p>
 
-The cardboard RF-shield is lifted away, and the PCB is exposed in all its glory. And this is a very good sight. The PCB looks to be in really good condition! There is very - VERY - little dust and grease inside here. Something I notice: there is a lighter squared area on the cartridge port. This is an area where it is quite common that a sticker from the assemly is placed. It is likely that this sticker has dried and fallen out - or it being removed during a repair inspection many years later. Nevertheless, this is a sign that someone might have been here before.
+The cardboard RF shield is lifted away, and the PCB is exposed in all its glory. This is a very good sight. The PCB appears to be in really good condition! There is very—VERY—little dust and grease inside.
 
-There are no sign of corrosion, neither on the PCB itsef nor the metal parts (VIC-II shield, cartridge connector and RF-modulator). Another indication that this Commodore 64 has been stored in a dry and tempered room.
+One thing I notice is a lighter, square area on the cartridge port. This is an area where it is quite common for a sticker from the assembly process to be placed. It is likely that this sticker has dried out and fallen off—or that it was removed during a repair inspection many years later. Nevertheless, this is a sign that someone might have been here before.
 
-All the seven Phillips screws[^2] are in place holding the PCB to the bottom cover. They are removed with a low torque screwdriver to free the PCB from the bottom cover.
+There are no signs of corrosion, neither on the PCB itself nor on the metal parts (VIC-II shield, cartridge connector, and RF modulator). This is another indication that this Commodore 64 has been stored in a dry, temperature-stable environment.
+
+All seven Phillips screws[^2] are in place, holding the PCB to the bottom cover. They are removed with a low-torque screwdriver to free the PCB from the bottom cover.
 
 <p align="center">
     <img src="Images/Dis05.jpeg" alt="Description" width="1000">
 </p>
 
-With the PCB out of the way the inside of bottom cover is visible. It seems to be in fine condition. There are some slightly yellowing around the port- and cartridge areas, but that is to be expected. The bottom cover has an embossed number on it: "326114".
+With the PCB out of the way, the inside of the bottom cover is visible. It seems to be in fine condition. There is some slight yellowing around the port and cartridge areas, but that is to be expected. The bottom cover has an embossed number: "326114".
 
 <p align="center">
     <img src="Images/Dis06.jpeg" alt="Description" width="1000">
