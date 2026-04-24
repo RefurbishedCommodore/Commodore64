@@ -213,7 +213,7 @@ In the table below all the major custom IC found on the mainboard are listed. As
 
 ## Initial testing
 
-Some initial tests are performed to check the health of the machine. This is to see if the basic functions work as they should, and if they do not, see if any useful can be gathered from these diagnostic tools.
+Some initial tests are performed to check the health of the machine, determining whether the basic functions work as they should and, if not, whether any useful information can be gathered from these diagnostic tools.
 
 When running the Diagnostic Cartridge the full test harness is installed. 
 
