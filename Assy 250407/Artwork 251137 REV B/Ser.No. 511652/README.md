@@ -71,15 +71,15 @@
 
 # Starting point
 
-This breadbin Commodore 64 is in for some refurbish. I do not know if it works or not, but from the outside it looks to be in quite good condition. I cannot see any real damage to it at all. There are some minor "burn marks" on the casing which is a result of cables which probably have been wrapped around the machine at some point.
+This breadbin Commodore 64 is in for some refurbishment. I do not know if it works or not, but from the outside it looks to be in quite good condition. I cannot see any real damage to it at all. There are some minor "burn marks" on the casing, which are likely the result of cables that have been wrapped around the machine at some point.
 
-At the underside there are some scratches, but this is also quite minor. Also, since this is on the underside of the machine no one will notice anyway. The keycaps are a bit dirty, but I would not expect otherwise after so many years. And both the top- and bottom cover are quite yellowed. The keyboards feels good also. The topside of the keycaps are a bit yellowed.
+On the underside there are some scratches, but these are also quite minor. Since this is on the underside of the machine, no one will notice anyway. The keycaps are a bit dirty, but that is to be expected after so many years. Both the top and bottom covers are quite yellowed. The keyboard feels good as well. The tops of the keycaps are slightly yellowed.
 
-The "Commodore 64" metal badge is a bit loose at the left hand side. And the serial sticker has fallen off the bottom cover. All of the four rubber feet are intact.
+The "Commodore 64" metal badge is a bit loose on the left-hand side, and the serial sticker has fallen off the bottom cover. All four rubber feet are intact.
 
-All in all this machine seems to have been taken good care of!
+All in all, this machine seems to have been well taken care of!
 
-Below are some pictures of the breadbin Commodore 64 before refurbish.
+Below are some pictures of the breadbin Commodore 64 before refurbishment.
 
 <p align="center">
     <img src="Images/Start07.jpeg" alt="Description" width="800">
