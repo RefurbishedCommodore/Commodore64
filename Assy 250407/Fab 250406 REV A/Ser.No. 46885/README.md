@@ -2,6 +2,8 @@
     <img src="https://github.com/RefurbishedCommodore/RefurbishedCommodore/blob/main/Images/LogoNew.png" alt="Description" width="400">
 </p>
 
+# Commodore 64 Breadbin
+
 ![Name](https://img.shields.io/badge/Serial_No.-46885-white?style=plastic)
 <br>
 ![Name](https://img.shields.io/badge/Assy-250407-white?style=plastic)
