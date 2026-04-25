@@ -50,6 +50,9 @@
         <li>
           <a href="#cleaning-the-keyboard-pcb">Cleaning the keyboard PCB</a>
         </li>
+        <li>
+          <a href="#reviving-the-keyboard-plungers">Reviving the keyboard plungers</a>
+        </li>
       </ul>
     </li>
     <li>
@@ -408,6 +411,11 @@ By **carefully** rubbing the conductive rubber on a clean sheet of paper the plu
     <img src="Images/Keyb10.jpeg" alt="Description" width="600">
 </p>
 
+Finally, the keyboard is re-assembled. The top of the keycaps are a bit yellowed, but the risk damage when retrobrighting brown keycaps is too high in my opinion. The keyboard looks very nice now!
+
+<p align="center">
+    <img src="Images/Keyb11.jpeg" alt="Description" width="1000">
+</p>
 
 (Mark end)
 
