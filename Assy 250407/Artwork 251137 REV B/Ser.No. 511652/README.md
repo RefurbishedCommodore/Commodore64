@@ -336,13 +336,13 @@ The user port (CN2) is also cleaned with isopropanol and a rubber eraser.
 
 # Keyboard
 
-To start refurbishing the keyboard it is disassembled from the front cover first. There are eight Pozidrive screws[^3] attaching the keyboard to the front cover. Note that care must be taken when removing these. The screws have been sitting there for 43 years and the standoffs can eaily crack.
+To start refurbishing the keyboard, it is first disassembled from the front cover. There are eight Pozidriv screws[^3] attaching the keyboard to the front cover. Note that care must be taken when removing these. The screws have been sitting in place for 43 years, and the standoffs can easily crack.
 
 <p align="center">
     <img src="Images/Keyb01.jpeg" alt="Description" width="1000">
 </p>
 
-The keyboard seems to be in good condition. All the keycaps are without any significant scratches or damage, and the springs beneath the keycaps also appears to be functioning. The SHIFT-LOCK key also locks in position. There are some dust, and the top of the keycaps are slightly yellowed.
+The keyboard seems to be in good condition. All the keycaps are free of any significant scratches or damage, and the springs beneath the keycaps also appear to be functioning. The SHIFT-LOCK key locks in position as expected. There is some dust, and the tops of the keycaps are slightly yellowed.
 
 <p align="center">
     <img src="Images/Keyb02.jpeg" alt="Description" width="1000">
@@ -350,13 +350,13 @@ The keyboard seems to be in good condition. All the keycaps are without any sign
 
 ## Removing and cleaning the keycaps
 
-All the 66 keycaps are removed with a keycap puller [(Tools).](https://refurbished-commodore.com/tools) Using a keycap puller will both reduce the probability of damaging the keycaps and breaking the plungers. When removing the keycaps make sure to store the spring for the SPACEBAR in a separate place. This spring is slightly larger than the rest of the springs.
+All 66 keycaps are removed using a keycap puller [(Tools).](https://refurbished-commodore.com/tools) Using a keycap puller reduces the risk of damaging the keycaps or breaking the plungers. When removing the keycaps, make sure to store the spring for the SPACEBAR separately, as this spring is slightly larger than the others.
 
 <p align="center">
     <img src="Images/Keyb03.jpeg" alt="Description" width="1000">
 </p>
 
-The keycaps are placed in a box filled with mild soap water for 24 hours. This will dissolve any grease and dirt on the keycaps.
+The keycaps are placed in a container filled with mild soapy water for 24 hours. This helps dissolve any grease and dirt on the keycaps.
 
 <p align="center">
     <img src="Images/Keyb04.jpeg" alt="Description" width="500">
@@ -364,48 +364,45 @@ The keycaps are placed in a box filled with mild soap water for 24 hours. This w
 
 ## Cleaning the keyboard PCB
 
-To prepare the keyboard PCB (Assy 326166-02 / Ser.No. 14831214) for cleaning all the 23 small Phillips screws[^4] are removed. 
+To prepare the keyboard PCB (Assy 326166-02 / Ser. No. 14831214) for cleaning, the 23 small Phillips screws[^4] are removed.
 
 <p align="center">
     <img src="Images/Keyb05.jpeg" alt="Description" width="800">
 </p>
 
-The SHIFT-LOCK needs to be desoldered before it can be removed from the keyboard. When the two uninsulated wires are desoldered the SHIFT-LOCK key is easily removed by pushing it forward from the backside.
+The SHIFT-LOCK needs to be desoldered before it can be removed from the keyboard. Once the two uninsulated wires are desoldered, the SHIFT-LOCK key can be easily removed by pushing it forward from the rear side.
 
 <p align="center">
     <img src="Images/Keyb08.jpeg" alt="Description" width="500">
 </p>
 
-The SHIFT-LOCK is cleaned with some isopropanol.
+The SHIFT-LOCK is cleaned using isopropanol.
 
 <p align="center">
     <img src="Images/Keyb09.jpeg" alt="Description" width="500">
 </p>
 
-It is very nice to see that this is the KSR-A66YF 56 4021**A** keyboard PCB from Mitsumi. These keyboard PCBs are special since all the 66 contact pads are **GOLD** plated. Later models (as the **B** variant has carbon pads. Since the pads are gold plated the whole PCB is properly cleaned with isopropanol. Looks as good as new!
+It is very nice to see that this is the KSR-A66YF 56 4021**A** keyboard PCB from Mitsumi. These keyboard PCBs are special, as all 66 contact pads are **GOLD** plated. Later models (such as the **B** variant) have carbon pads. Since the pads are gold-plated, the entire PCB is thoroughly cleaned with isopropanol. It looks as good as new!
 
 <p align="center">
     <img src="Images/Keyb06.jpeg" alt="Description" width="1000">
 </p>
 
-At the same time the plastic bracket holding the PCB is also cleaned with some mild soap water.
+At the same time, the plastic bracket holding the PCB is cleaned with mild soapy water.
 
 <p align="center">
     <img src="Images/Keyb07.jpeg" alt="Description" width="1000">
 </p>
 
-
-
-
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Casing
 
-The plan is to clean and retrobright the casing. But before the top- and bottom covers are cleaned the LED, metal badge and rubber feet are removed. 
+The plan is to clean and retrobright the casing. However, before the top and bottom covers are cleaned, the LED, metal badge, and rubber feet are removed. 
 
 ## Removing the power LED
 
-To remove the LED the inner plastic ring is removed first. Then the LED is pressed firmly from the outside (by pressing it towards a flat area) until it pops out. Finally, the last plastic clip is pried outwards.
+To remove the LED, the inner plastic ring is removed first. Then, the LED is pressed firmly from the outside (towards a flat surface) until it pops out. Finally, the last plastic clip is pried outward.
 
 <p align="center" float="left">
     <img src="Images/Case01.jpeg" alt="Description" width="300">
@@ -420,6 +417,8 @@ To remove the LED the inner plastic ring is removed first. Then the LED is press
 <p align="center">
     <img src="Images/Case03.jpeg" alt="Description" width="600">
 </p>
+
+(Mark)
 
 ## Removing the metal badges
 
