@@ -394,6 +394,20 @@ At the same time, the plastic bracket holding the PCB is cleaned with mild soapy
     <img src="Images/Keyb07.jpeg" alt="Description" width="1000">
 </p>
 
+(Mark begin)
+
+## Reviving the keyboard plungers
+
+A very common issue with the Commodore 64 is that the keys stop working. Or to put in another way: they work partially, but you have to push REALLY hard to get any key response. Luckily, fixing this common issue is straightforward.
+
+All plungers have a piece of conductive rubber at the end of the small plastic rod. This conductive rubber is easily contaminated with dust and grease, preventing the plunger from working as it should.
+
+By **carefully** rubbing the conductive rubber on a clean sheet of paper the plungers are revived.
+
+
+
+(Mark end)
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Casing
