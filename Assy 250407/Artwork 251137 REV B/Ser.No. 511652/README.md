@@ -404,6 +404,9 @@ All plungers have a piece of conductive rubber at the end of the small plastic r
 
 By **carefully** rubbing the conductive rubber on a clean sheet of paper the plungers are revived.
 
+<p align="center">
+    <img src="Images/Keyb10.jpeg" alt="Description" width="600">
+</p>
 
 
 (Mark end)
