@@ -398,27 +398,24 @@ At the same time, the plastic bracket holding the PCB is cleaned with mild soapy
     <img src="Images/Keyb07.jpeg" alt="Description" width="1000">
 </p>
 
-(Mark begin)
-
 ## Reviving the keyboard plungers
 
-A very common issue with the Commodore 64 is that the keys stop working. Or to put in another way: they work partially, but you have to push REALLY hard to get any key response. Luckily, fixing this common issue is straightforward.
+A very common issue with the Commodore 64 is that the keys stop working—or, to put it another way, they work only intermittently, requiring you to press REALLY hard to get any response. Fortunately, fixing this issue is straightforward.
 
-All plungers have a piece of conductive rubber at the end of the small plastic rod. This conductive rubber is easily contaminated with dust and grease, preventing the plunger from working as it should.
+All plungers have a piece of conductive rubber at the end of a small plastic rod. This conductive rubber can easily become contaminated with dust and grease, preventing the plunger from working as it should.
 
-By **carefully** rubbing the conductive rubber on a clean sheet of paper the plungers are revived.
+By **carefully** rubbing the conductive rubber on a clean sheet of paper, the plungers can be revived.
+
 
 <p align="center">
     <img src="Images/Keyb10.jpeg" alt="Description" width="600">
 </p>
 
-Finally, the keyboard is re-assembled. The top of the keycaps are a bit yellowed, but the risk damage when retrobrighting brown keycaps is too high in my opinion. The keyboard looks very nice now!
+Finally, the keyboard is reassembled. The tops of the keycaps are a bit yellowed, but the risk of damage when retrobrighting brown keycaps is too high, in my opinion. The keyboard is now in very good condition.
 
 <p align="center">
     <img src="Images/Keyb11.jpeg" alt="Description" width="1000">
 </p>
-
-(Mark end)
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
@@ -444,13 +441,11 @@ To remove the LED, the inner plastic ring is removed first. Then, the LED is pre
     <img src="Images/Case03.jpeg" alt="Description" width="600">
 </p>
 
-(Mark)
-
 ## Removing the metal badges
 
-The metal badges embossed with "C= commodore 64" and "POWER" is the very symbol of this nostalgic machine. Removing them is straightforward, but it requires some patience to avoid damaging them. With some hot air from a hair dryer the badges are carefully pried off the top cover.
+The metal badges embossed with "C= commodore 64" and "POWER" are iconic features of this nostalgic machine. Removing them is straightforward, but it requires some patience to avoid damage. Using hot air from a hair dryer, the badges are carefully pried off the top cover.
 
-To make sure that the old glue on the badges are also removed the badges are placed in a box of mild soap water for about 24 hours. Then the first layer of glue is removed with a flat spudger. The second layer is removed in the same way. First 24 hours of water then scraping the glue away with a flat spudger.
+To ensure that the old glue is fully removed, the badges are placed in a container of mild soapy water for about 24 hours. Then, the first layer of glue is removed with a flat spudger. The second layer is removed in the same way: another 24 hours in water followed by careful scraping with a flat spudger.
 
 <p align="center">
     <img src="Images/Case06.jpeg" alt="Description" width="800">
@@ -458,13 +453,13 @@ To make sure that the old glue on the badges are also removed the badges are pla
 
 ## Cleaning and retrobrighting the covers
 
-Both the top- and bottom covers are quite dirty so they have to be cleaned properly. The way to do this is to leave them in mild soap water for a few days. This will remove the dust and dissolve the grease.
+Both the top and bottom covers are quite dirty, so they need to be cleaned properly. The way to do this is to leave them in mild soapy water for a few days. This will remove dust and dissolve grease.
 
-Also, the four rubber feet are removed before the cleaning. The reason for this is that these rubber feet will become "sticky" if they are exposed to retrobrighting chemicals.
+The four rubber feet are also removed before cleaning, as they can become "sticky" if exposed to retrobrighting chemicals.
 
-After cleaning the top- and bottom cover looks way better. There are some cable burn marks (and marks in general) on the covers. I will leave these as they are as they do not degrade the aesthetics in any significant way.
+After cleaning, the top and bottom covers look much better. There are some cable burn marks (and marks in general) on the covers. I will leave these as they are, as they do not significantly affect the aesthetics.
 
-Below are some pictures of the covers after cleaning - but before retrobrighting.
+Below are some pictures of the covers after cleaning—but before retrobrighting.
 
 <p align="center">
     <img src="Images/Case07.jpeg" alt="Description" width="800">
