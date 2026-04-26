@@ -465,6 +465,12 @@ Below are some pictures of the covers after cleaning—but before retrobrighting
     <img src="Images/Case07.jpeg" alt="Description" width="800">
 </p>
 
+The covers are retrobrighted for about 12 hours continuously. During this period, 12% hydrogen peroxide cream is applied to the covers regularly. The covers are also wrapped in plastic film and exposed to UV light.
+
+<p align="center">
+    <img src="Images/Case08.jpeg" alt="Description" width="800">
+</p>
+
 **Footnotes**
 [^1]: Phillips pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.0 mm
