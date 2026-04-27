@@ -259,12 +259,12 @@ As seen in the table below, all voltages are within acceptable levels.
   
 | Measure point | Target voltage | Measured voltage<br>Before refurbish| Measured voltage<br>After refurbish | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| PSU (5V) | 5 V DC | 5.0372 V |  | User port |
-| PSU (9V) | 9 V AC | 8.227 V |  | User port |
-| Vvid (+5 CAN)| 5 V DC | 5.030 V | | Pin #40 VIC-II |
-| Vc (+5 CAN) | 5 V DC | 5.029 V | | Pin #14 4044 |
-| Regulated (12V) | 12 V DC | 11.96 V | | Pin #28 SID |
-| Unregulated (9V) | 9 V DC | 8.604 V | | R2 |
+| PSU (5V) | 5 V DC | 5.037 V | 5.040 V | User port |
+| PSU (9V) | 9 V AC | 8.227 V | 8.287 V | User port |
+| Vvid (+5 CAN)| 5 V DC | 5.030 V | 5.027 V | Pin #40 VIC-II |
+| Vc (+5 CAN) | 5 V DC | 5.029 V | 5.027 V | Pin #14 4044 |
+| Regulated (12V) | 12 V DC | 11.96 V | 11.97 V| Pin #28 SID |
+| Unregulated (9V) | 9 V DC | 8.604 V | 8.660 V | R2 |
 
 </div>
 
