@@ -471,6 +471,12 @@ The covers are retrobrighted for about 12 hours continuously. During this period
     <img src="Images/Case08.jpeg" alt="Description" width="800">
 </p>
 
+After retrobrighting, the covers are cleaned again. The metal badges, LED, serial number sticker, and rubber feet are reinstalled. There are still some marks and scratches on the covers, but they look much better. The scratches are also not very visible under normal lighting.
+
+<p align="center">
+    <img src="Images/Case09.jpeg" alt="Description" width="800">
+</p>
+
 **Footnotes**
 [^1]: Phillips pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
 [^2]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.0 mm
