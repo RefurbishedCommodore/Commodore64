@@ -103,7 +103,7 @@ The planned refurbishment activites for this Commodore 64 (Order may vary. Sever
 
 - [ ] Refurbish mainboard
 - [x] Refurbish the keyboard
-- [ ] Refurbish the casing
+- [x] Refurbish the casing
 - [ ] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
