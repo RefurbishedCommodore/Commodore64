@@ -335,6 +335,16 @@ The user port (CN2) is also cleaned with isopropanol and a rubber eraser.
     <img src="Images/Main19.jpeg" alt="Description" width="800">
 </p>
 
+Below are pictures of the mainboard after cleaning.
+
+<p align="center">
+    <img src="Images/Main20.jpeg" alt="Description" width="1000">
+</p>
+
+<p align="center">
+    <img src="Images/Main21.jpeg" alt="Description" width="1000">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
