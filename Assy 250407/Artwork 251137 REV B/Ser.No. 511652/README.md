@@ -41,6 +41,12 @@
         <li>
           <a href="#remediation-of-problem-areas">Remediation of problem areas</a>
         </li>
+        <li>
+          <a href="#adding-heatsinks">Adding heatsinks</a>
+        </li>
+        <li>
+          <a href="#preventing-corrosion">Preventing corrosion</a>
+        </li>
       </ul>
     <li>
       <a href="#keyboard">Keyboard</a>
@@ -345,6 +351,8 @@ Below are pictures of the mainboard after cleaning.
     <img src="Images/Main21.jpeg" alt="Description" width="1000">
 </p>
 
+## Adding heatsinks
+
 Heat can cause ICs to fail faster. A simple but effective measure to reduce the risk of IC failure is to add heatsinks to the warmest ICs. The following ICs are fitted with heatsinks:
 
 - CPU MOS 6510
@@ -358,6 +366,15 @@ NOTE: The RF cardboard shield has been removed and will not be reinstalled. This
 <p align="center">
     <img src="Images/Main22.jpeg" alt="Description" width="600">
 </p>
+
+## Preventing corrosion
+
+It is very common for the metal shielding around the RF modulator, VIC-II area, and cartridge port to corrode. In this Commodore 64, there is (fortunately) very little corrosion, but as a preventive measure, the metal parts are treated with oil. This is done in the following way:
+
+1) A few drops of WD-40 multi-spray oil are carefully applied to the metal parts using a Q-tip
+2) A few drops of thin sewing machine oil are carefully applied to the metal parts using a Q-tip
+3) All parts are wiped with a clean cotton pad
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
