@@ -207,7 +207,7 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | CPU | MOS | 6510 | W49 Y1983 | Yes |  |
 | SID | MOS | 6581 | W03 Y1983 | Yes |  | 
-| VIC-II | MOS | 6589R3 | 30 Y1983 | Yes | Third revision. Ceramic. Gold plated pins. |
+| VIC-II | MOS | 6569R3 | 30 Y1983 | Yes | Third revision. Ceramic. Gold plated pins. |
 | PLA | COMMODORE | 251064-01 | W45 Y1983 | Yes | |
 | CIA #1 | MOS | 6526R4 | W32 Y1983 | Yes | |
 | CIA #2 | MOS | 6526R4 | W32 Y1983 | Yes | |
@@ -343,6 +343,20 @@ Below are pictures of the mainboard after cleaning.
 
 <p align="center">
     <img src="Images/Main21.jpeg" alt="Description" width="1000">
+</p>
+
+Heat can cause ICs to fail faster. A simple but effective measure to reduce the risk of IC failure is to add heatsinks to the warmest ICs. The following ICs are fitted with heatsinks:
+
+- CPU MOS 6510
+- SID MOS 6581
+- PLA 251064-01
+
+The VIC-II MOS 6569 is also fitted with a heatsink. However, this is done using the existing metal can, which functions as both an RF shield and a heatsink. New thermal paste is applied to the VIC-II before the metal lid is placed on top of the can.
+
+NOTE: The RF cardboard shield has been removed and will not be reinstalled. This RF shield does not serve much purpose in a modern setting and only contributes to additional heat inside the Commodore 64.
+
+<p align="center">
+    <img src="Images/Main22.jpeg" alt="Description" width="600">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
