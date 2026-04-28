@@ -375,6 +375,9 @@ It is very common for the metal shielding around the RF modulator, VIC-II area, 
 2) A few drops of thin sewing machine oil are carefully applied to the metal parts using a Q-tip
 3) All parts are wiped with a clean cotton pad
 
+<p align="center">
+    <img src="Images/Main23.jpeg" alt="Description" width="600">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
