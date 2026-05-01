@@ -549,12 +549,17 @@ Testing is done through three main stages:
 
 First test is done using the Dead Test Cartridge. This test doesn´t test all the functionality of the Commodore 64, but it does test the basic functionality of the major chips such as the CIA #1/2, CPU, VIC-II, PLA, RAM and SID. As the picture shows below the test is passed.
 
-<p align="center" float="left">
-    <img src="Images/Test01.jpeg" alt="Description" width="400">
-    <img src="Images/Test02.jpeg" alt="Description" width="400">
-    <img src="Images/Test03.jpeg" alt="Description" width="400">
-    <img src="Images/Test04.jpeg" alt="Description" width="400">
+<p align="center">
+    <img src="Images/Test01.jpeg" alt="Description" width="600">
 </p>
+
+Next test is to power the Commodore 64 to the blue boot up screen and also check the keyboard to make sure all keys works as they should. The test is passed; all keys works and 38911 BASIC Bytes Free.
+
+<p align="center" float="left">
+    <img src="Images/Test02.jpeg" alt="Description" width="600">
+    <img src="Images/Test09.jpeg" alt="Description" width="600">
+</p>
+
 
 (END MARK)
 
