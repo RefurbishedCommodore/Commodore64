@@ -556,8 +556,8 @@ First test is done using the Dead Test Cartridge. This test doesn´t test all th
 Next test is to power the Commodore 64 to the blue boot up screen and also check the keyboard to make sure all keys works as they should. The test is passed; all keys works and 38911 BASIC Bytes Free.
 
 <p align="center" float="left">
-    <img src="Images/Test02.jpeg" alt="Description" width="600">
-    <img src="Images/Test09.jpeg" alt="Description" width="600">
+    <img src="Images/Test02.jpeg" alt="Description" width="500">
+    <img src="Images/Test08.jpeg" alt="Description" width="500">
 </p>
 
 
