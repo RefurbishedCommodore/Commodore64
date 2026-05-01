@@ -549,8 +549,11 @@ Testing is done through three main stages:
 
 First test is done using the Dead Test Cartridge. This test doesn´t test all the functionality of the Commodore 64, but it does test the basic functionality of the major chips such as the CIA #1/2, CPU, VIC-II, PLA, RAM and SID. As the picture shows below the test is passed.
 
-<p align="center">
-    <img src="Images/InitTest02.jpeg" alt="Description" width="400">
+<p align="center" float="left">
+    <img src="Images/Test01.jpeg" alt="Description" width="400">
+    <img src="Images/Test02.jpeg" alt="Description" width="400">
+    <img src="Images/Test03.jpeg" alt="Description" width="400">
+    <img src="Images/Test04.jpeg" alt="Description" width="400">
 </p>
 
 (END MARK)
