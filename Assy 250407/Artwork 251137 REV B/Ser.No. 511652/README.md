@@ -82,6 +82,9 @@
         <li>
           <a href="#basic-functionality-and-chips">Basic functionality and chips</a>
         </li>
+        <li>
+          <a href="#diagnostics-test-with-harness">Diagnostics test with harness</a>
+        </li>
       </ul>
     </li>
   </ul>
@@ -570,6 +573,9 @@ The basic functions of the VIC-II, SID and RAM is tested with 64 Doctor, Commodo
     <img src="Images/Test09.jpeg" alt="Description" width="300">
 </p>
 
+## Diagnostics test with harness
+
+To test all the custom ICs, and I/O ports, the Diagnostics cartridge is used. The Diagnostics cartridge is very valuable when the complete test harness i installed as in "everything" is tested formally. As can be seen from the picture below all tests PASS - except from one! The CONTROL PORT says "BAD". But (!) I think this is not correct. The reason why it shows bad is due to the SID Kick PICO 2040 DAC. The test which fails is related to the analog paddle input on the control ports and the 6581 (SID), but these should be just fine. With the SID Kick Pico you can in fact adjust how sensitive these inputs should be in the configuration menu (SYS54301). So even if it says "BAD" this should be just fine. The control ports works just fine. 
 (END MARK)
 
 **Footnotes**
