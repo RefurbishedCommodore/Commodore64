@@ -566,11 +566,10 @@ Next test is to power the Commodore 64 to the blue boot up screen and also check
 The basic functions of the VIC-II, SID and RAM is tested with 64 Doctor, Commodore 64 SID tester and DesTest cartridges. Note that this is to be considered as basic functionality - more advanced functionality such as sprite handling / collision detection / advanced audio will be tested later.
 
 <p align="center" float="left">
-    <img src="Images/Test07.jpeg" alt="Description" width="300">
-    <img src="Images/Test10.jpeg" alt="Description" width="300">
-    <img src="Images/Test04.jpeg" alt="Description" width="300">
-    <img src="Images/Test05.jpeg" alt="Description" width="300">
-    <img src="Images/Test09.jpeg" alt="Description" width="300">
+    <img src="Images/Test07.jpeg" alt="Description" width="220">
+    <img src="Images/Test10.jpeg" alt="Description" width="220">
+    <img src="Images/Test09.jpeg" alt="Description" width="220">
+    <img src="Images/Test05.jpeg" alt="Description" width="220">
 </p>
 
 ## Diagnostics test with harness
@@ -579,6 +578,17 @@ Diagnostics test with harness
 
 To test all the custom ICs, and I/O ports, the Diagnostics cartridge is used. The Diagnostics cartridge is very valuable when the complete test harness i installed as in "everything" is tested formally. As can be seen from the picture below, no issues are identified.
 
+<p align="center">
+    <img src="Images/Test03.jpeg" alt="Description" width="600">
+</p>
+
+## Testing the full 64k of RAM
+
+To make sure that all the 64k of RAM is fully working the DesTestFull cartridge is used. This software use the March-B algorithm to test all the RAM extensively. No issues are identified.
+
+<p align="center">
+    <img src="Images/Test04.jpeg" alt="Description" width="600">
+</p>
 
 (END MARK)
 
