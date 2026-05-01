@@ -76,6 +76,14 @@
         </li>     
       </ul>
     </li>
+    <li>
+      <a href="#testing">Testing</a>
+      <ul>
+        <li>
+          <a href="#basic-functionality-and-chips">Basic functionality and chips</a>
+        </li>
+      </ul>
+    </li>
   </ul>
 </details>
 
@@ -520,6 +528,32 @@ After retrobrighting, the covers are cleaned again. The metal badges, LED, seria
 <p align="center">
     <img src="Images/Case09.jpeg" alt="Description" width="800">
 </p>
+
+# Testing
+
+(MARK)
+
+Proof is in the pudding - does it work?
+
+Testing is done through three main stages:
+
+1. Testing the basic functionality and chips
+
+2. Testing the complete set of custom ICs and I/O ports
+
+3. Testing by using the machine playing demos, games etc. accessed by both floppy and datasette to verify correct operation
+
+**NOTE:** The image quality is poor. But that is not because of problems with the machine, but caused by a poor video monitor.
+
+## Basic functionality and chips
+
+First test is done using the Dead Test Cartridge. This test doesn´t test all the functionality of the Commodore 64, but it does test the basic functionality of the major chips such as the CIA #1/2, CPU, VIC-II, PLA, RAM and SID. As the picture shows below the test is passed.
+
+<p align="center">
+    <img src="Images/InitTest02.jpeg" alt="Description" width="400">
+</p>
+
+(END MARK)
 
 **Footnotes**
 [^1]: Phillips pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
