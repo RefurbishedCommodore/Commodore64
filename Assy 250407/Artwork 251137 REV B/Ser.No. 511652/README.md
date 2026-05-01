@@ -562,6 +562,14 @@ Next test is to power the Commodore 64 to the blue boot up screen and also check
 
 The basic functions of the VIC-II, SID and RAM is tested with 64 Doctor, Commodore 64 SID tester and DesTest cartridges. Note that this is to be considered as basic functionality - more advanced functionality such as sprite handling / collision detection / advanced audio will be tested later.
 
+<p align="center" float="left">
+    <img src="Images/Test07.jpeg" alt="Description" width="300">
+    <img src="Images/Test10.jpeg" alt="Description" width="300">
+    <img src="Images/Test04.jpeg" alt="Description" width="300">
+    <img src="Images/Test05.jpeg" alt="Description" width="300">
+    <img src="Images/Test09.jpeg" alt="Description" width="300">
+</p>
+
 (END MARK)
 
 **Footnotes**
