@@ -643,7 +643,7 @@ Below is a collection of the final result from the refurbishment of this C64. Ho
 </p>
 
 <p align="center" float="left">
-    <img src="Images/FInal02.jpeg" alt="Description" width="469">
+    <img src="Images/FInal02.jpeg" alt="Description" width="400">
     <img src="Images/FInal05.jpeg" alt="Description" width="400">
 </p>
 
