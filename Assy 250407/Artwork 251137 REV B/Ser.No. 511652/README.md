@@ -85,6 +85,12 @@
         <li>
           <a href="#diagnostics-test-with-harness">Diagnostics test with harness</a>
         </li>
+        <li>
+          <a href="#testing-the-full-64k-of-ram">Testing the full 64k of RAM</a>
+        </li>
+        <li>
+          <a href="#extended-testing">Extended testing</a>
+        </li>
       </ul>
     </li>
   </ul>
@@ -589,6 +595,10 @@ To make sure that all the 64k of RAM is fully working the DesTestFull cartridge 
 <p align="center">
     <img src="Images/Test04.jpeg" alt="Description" width="600">
 </p>
+
+## Extended testing
+
+Knowing that the basic functionality of the machine works I continue the testing by using the Commodore 64 for normal operations; playing some games, watching demos, loading from datasette and floppy and using a cartridge. I can not find any issues with this machine. I also pay special attention to the video to make sure that there are no glitches in the graphics - I can´t see any abnormalities. Below is a gallery with pictures from the testing. **NOTE:** The colours on the pictures are completely off and the image quality is poor. But this only due to my poor TV and not due to the machine.
 
 (END MARK)
 
