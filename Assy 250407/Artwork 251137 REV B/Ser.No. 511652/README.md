@@ -547,36 +547,34 @@ After retrobrighting, the covers are cleaned again. The metal badges, LED, seria
 
 # Testing
 
-(MARK)
+The proof is in the pudding—does it work?
 
-Proof is in the pudding - does it work?
-
-Testing is done through three main stages:
+Testing is carried out in three main stages:
 
 1. Testing the basic functionality and chips
-
 2. Testing the complete set of custom ICs and I/O ports
+3. Testing the machine by running demos, games, etc., accessed via both floppy and datasette, to verify correct operation
 
-3. Testing by using the machine playing demos, games etc. accessed by both floppy and datasette to verify correct operation
+**NOTE:** The image quality is poor, but this is not due to problems with the machine—it is caused by a poor video monitor.
 
-**NOTE:** The image quality is poor. But that is not because of problems with the machine, but caused by a poor video monitor.
+
 
 ## Basic functionality and chips
 
-First test is done using the Dead Test Cartridge. This test doesn´t test all the functionality of the Commodore 64, but it does test the basic functionality of the major chips such as the CIA #1/2, CPU, VIC-II, PLA, RAM and SID. As the picture shows below the test is passed.
+The first test is performed using the Dead Test Cartridge. This test does not cover all the functionality of the Commodore 64, but it does verify the basic operation of the major chips, such as the CIA #1/2, CPU, VIC-II, PLA, RAM, and SID. As shown in the picture below, the test is passed.
 
 <p align="center">
     <img src="Images/Test01.jpeg" alt="Description" width="600">
 </p>
 
-Next test is to power the Commodore 64 to the blue boot up screen and also check the keyboard to make sure all keys works as they should. The test is passed; all keys works and 38911 BASIC Bytes Free.
+The next test is to power up the Commodore 64 to the blue startup screen and check the keyboard to ensure all keys work as they should. The test is passed; all keys work, and 38911 BASIC Bytes Free is displayed.
 
 <p align="center" float="left">
     <img src="Images/Test02.jpeg" alt="Description" width="500">
     <img src="Images/Test08.jpeg" alt="Description" width="500">
 </p>
 
-The basic functions of the VIC-II, SID and RAM is tested with 64 Doctor, Commodore 64 SID tester and DesTest cartridges. Note that this is to be considered as basic functionality - more advanced functionality such as sprite handling / collision detection / advanced audio will be tested later.
+The basic functions of the VIC-II, SID, and RAM are tested using the 64 Doctor, Commodore 64 SID Tester, and DesTest cartridges. Note that this should be considered basic functionality—more advanced features such as sprite handling, collision detection, and advanced audio will be tested later.
 
 <p align="center" float="left">
     <img src="Images/Test07.jpeg" alt="Description" width="220">
@@ -587,9 +585,7 @@ The basic functions of the VIC-II, SID and RAM is tested with 64 Doctor, Commodo
 
 ## Diagnostics test with harness
 
-Diagnostics test with harness
-
-To test all the custom ICs, and I/O ports, the Diagnostics cartridge is used. The Diagnostics cartridge is very valuable when the complete test harness i installed as in "everything" is tested formally. As can be seen from the picture below, no issues are identified.
+To test all the custom ICs and I/O ports, the Diagnostics cartridge is used. The Diagnostics cartridge is very valuable when the complete test harness is installed, as virtually everything is tested thoroughly. As can be seen from the picture below, no issues are identified.
 
 <p align="center">
     <img src="Images/Test03.jpeg" alt="Description" width="600">
@@ -597,7 +593,7 @@ To test all the custom ICs, and I/O ports, the Diagnostics cartridge is used. Th
 
 ## Testing the full 64k of RAM
 
-To make sure that all the 64k of RAM is fully working the DesTestFull cartridge is used. This software use the March-B algorithm to test all the RAM extensively. No issues are identified.
+To ensure that all 64k of RAM is functioning correctly, the DesTestFull cartridge is used. This software uses the March-B algorithm to test the RAM extensively. No issues are identified.
 
 <p align="center">
     <img src="Images/Test04.jpeg" alt="Description" width="600">
@@ -605,7 +601,9 @@ To make sure that all the 64k of RAM is fully working the DesTestFull cartridge 
 
 ## Extended testing
 
-Knowing that the basic functionality of the machine works I continue the testing by using the Commodore 64 for normal operations; playing some games, watching demos, loading from datasette and floppy and using a cartridge. I can not find any issues with this machine. I also pay special attention to the video to make sure that there are no glitches in the graphics - I can´t see any abnormalities. Below is a gallery with pictures from the testing. **NOTE:** The colours on the pictures are completely off and the image quality is poor. But this only due to my poor TV and not due to the machine.
+Knowing that the basic functionality of the machine works, I continue testing by using the Commodore 64 for normal operation: playing games, watching demos, loading from datasette and floppy, and using cartridges. I cannot find any issues with this machine. I also pay special attention to the video to ensure that there are no glitches in the graphics—I cannot see any abnormalities.
+
+Below is a gallery with pictures from the testing. **NOTE:** The colours in the pictures are completely off, and the image quality is poor. However, this is due to my TV and not the machine.
 
 <p align="center" float="left">
     <img src="Images/Test11.jpeg" alt="Description" width="180">
@@ -627,9 +625,9 @@ Knowing that the basic functionality of the machine works I continue the testing
 
 <div align="center">
 
-*"A picture worth a thousand words"*
+*"A picture is worth a thousand words"*
 
-Below is a collection of the final result from the refurbishment of this C64. Hope you like it! Click to enlarge!
+Below is a collection of pictures of the final result of the refurbishment of this C64. Hope you like it! Click to enlarge!
 
 </div>
 
@@ -650,8 +648,6 @@ Below is a collection of the final result from the refurbishment of this C64. Ho
 <p align="center">
     <img src="Images/FInal06.jpeg" alt="Description" width="800">
 </p>
-
-(END MARK)
 
 **Footnotes**
 [^1]: Phillips pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
