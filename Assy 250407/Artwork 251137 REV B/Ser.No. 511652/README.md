@@ -621,7 +621,13 @@ Knowing that the basic functionality of the machine works I continue the testing
 
 ## Final result
 
+<div align="center">
 
+*"A picture worth a thousand words"*
+
+Below is a collection of the final result from the refurbishment of this C64. Hope you like it! Click to enlarge!
+
+</div>
 
 (END MARK)
 
