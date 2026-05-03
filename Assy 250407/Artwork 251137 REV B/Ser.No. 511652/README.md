@@ -633,6 +633,24 @@ Below is a collection of the final result from the refurbishment of this C64. Ho
 
 </div>
 
+<p align="center">
+    <img src="Images/FInal01.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/FInal04.jpeg" alt="Description" width="420">
+    <img src="Images/FInal03.jpeg" alt="Description" width="400">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/FInal02.jpeg" alt="Description" width="469">
+    <img src="Images/FInal05.jpeg" alt="Description" width="400">
+</p>
+
+<p align="center">
+    <img src="Images/FInal06.jpeg" alt="Description" width="800">
+</p>
+
 (END MARK)
 
 **Footnotes**
