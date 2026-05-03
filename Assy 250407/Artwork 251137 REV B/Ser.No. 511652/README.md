@@ -229,6 +229,8 @@ Below are some pictures of these areas. Click to enlarge.
 
 The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week 03 of 1983 and week 04 of 1984, suggesting this Commodore 64 was likely manufactured during the winter of 1984.
 
+<div align="center">
+    
 | Chip/Area | Manufactor | Version | Date code | Socket | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | CPU | MOS | 6510 | W49 Y1983 | Yes |  |
@@ -242,6 +244,8 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 | ROM - Character | MOS | 901225-01 | Unknown | No | |
 | RAM | OKI | M3764-15RS | Unknown | No | |
 | Glue logic | Fairchild, Texas Instruments, Fujitsu, Motorola, Toshiba, Hitachi, OKI, National Semiconductor|  |  |  | No MOS glue logic |
+
+</div>
 
 ## Initial testing
 
