@@ -92,6 +92,9 @@
           <a href="#extended-testing">Extended testing</a>
         </li>
       </ul>
+    </li> 
+    <li>
+      <a href="#final-result">Final result</a>
     </li>
   </ul>
 </details>
@@ -615,6 +618,10 @@ Knowing that the basic functionality of the machine works I continue the testing
     <img src="Images/Test19.jpeg" alt="Description" width="180">
     <img src="Images/Test20.jpeg" alt="Description" width="180">
 </p>
+
+## Final result
+
+
 
 (END MARK)
 
