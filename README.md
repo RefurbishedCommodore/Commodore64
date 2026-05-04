@@ -16,7 +16,6 @@
 
 # Loading - in progress
 
-
 [![Name](https://img.shields.io/badge/Serial_No.-46885-white?style=plastic)](https://github.com/RefurbishedCommodore/Commodore64/tree/main/Assy%20250407/Fab%20250406%20REV%20A/Ser.No.%2046885#readme)
 <br>
 ![Name](https://img.shields.io/badge/Assy-250407-white?style=plastic)
@@ -24,7 +23,7 @@
 ![Name](https://img.shields.io/badge/Revision-A-white?style=plastic)
 ![Name](https://img.shields.io/badge/Video_format-PAL-white?style=plastic)
 
-<br>
+# List - archived
 
 [![Name](https://img.shields.io/badge/Serial_No.-511652-white?style=plastic)](https://github.com/RefurbishedCommodore/Commodore64/tree/main/Assy%20250407/Artwork%20251137%20REV%20B/Ser.No.%20511652#readme)
 <br>
