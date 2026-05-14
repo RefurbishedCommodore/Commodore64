@@ -123,7 +123,7 @@ Below are some pictures of the breadbin Commodore 64 before refurbishment.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-# Refurbish activities
+# Refurbishment activities
 
 The planned refurbishment activites for this Commodore 64 (Order may vary. Several of them in parallel):
 
