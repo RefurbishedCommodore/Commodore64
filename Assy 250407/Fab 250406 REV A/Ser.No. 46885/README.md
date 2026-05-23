@@ -80,19 +80,19 @@
 
 # Starting point
 
-This breadbin Commodore 64 has been sleeping in its original cardboard box for many years. But (luckily) it was found and will be taken care of by a fellow retro enthusiast. It is known to be not working, but hey, that´s just a challenge?
+This breadbin Commodore 64 has been sleeping in its original cardboard box for many years. But luckily, it was found and will now be taken care of by a fellow retro enthusiast. It is known to be non-working, but hey, that is just a challenge, right?
 
-From the outside it appears to be complete without any damage. Yes, the "Commodore 64" metal badge is missing, but that should be easy to fix by sourcing a new one. All the keys seems to be fine, from a mechanical point of view. There is quite some dust and grease between, and below, the keycaps but that is to be expected from a machine which has been stored away several years.
+From the outside, it appears to be complete and without any damage. Yes, the "Commodore 64" metal badge is missing, but that should be easy to fix by sourcing a replacement. All the keys seem to be mechanically fine. There is quite a lot of dust and grease between and beneath the keycaps, but that is to be expected from a machine that has been stored away for several years.
 
-Looking at the rear ports I can readily see that there is quite some dust inside (which is perfectly normal). Also, I notice that the datasette port is quite worn - so a fair guess is that this machine was used with a datasette for quite some time. The wear is caused by the datasette being inserted/removed frequently scratching the gold plated datasette port (CN3). 
+Looking at the rear ports, I can readily see that there is quite a lot of dust inside (which is perfectly normal). Also, I notice that the datasette port is quite worn, so a fair guess is that this machine was used with a datasette for quite some time. The wear is caused by the datasette being inserted and removed frequently, scratching the gold-plated datasette port (CN3).
 
-There are som "burn" marks on the top rear and front side. These marks are most likely caused by either cables from the datasette, joysticks or power supply being wrapped around the machine when stored during its lifetime. You can follow the "burn" marks around the top- and front cover. Nevertheless, these marks are not severe in my opinion. Also, there are some paint residue, and some marks which I would guess is from a ball point pen.
+There are some "burn" marks on the top rear and front side. These marks were most likely caused by cables from the datasette, joysticks, or power supply being wrapped around the machine during storage at some point in its lifetime. You can follow the "burn" marks around the top and front cover. Nevertheless, these marks are not severe in my opinion. Also, there is some paint residue, along with marks that I would guess came from a ballpoint pen.
 
-The yellowing is quite severe, and varying in intensity in different areas on the top cover. All three Phillips screws at the bottom cover are present and does not show any signs of corrosion. There are no obvious signs that this machine was ever opened. So, who knows, maybe this is the first time opened for over 40 years?
+The yellowing is quite severe and varies in intensity across different areas of the top cover. All three Phillips screws on the bottom cover are present and do not show any signs of corrosion. There are no obvious signs that this machine has ever been opened. So, who knows — maybe this is the first time it has been opened in over 40 years?
 
-Also, there is something I notice. There is a small "N" sticker at the bottom cover. This may of course be placed on the machine by the original owner, but could also be that Commodore placed this during manufacturing? This "N" sticker represents the Norwegian organisation "Nemko" which is a notified body for national electrical compliance. 
+There is also something else I notice: a small "N" sticker on the bottom cover. This may, of course, have been placed there by the original owner, but it is also possible that Commodore applied it during manufacturing. This "N" sticker represents the Norwegian organisation "Nemko", which is a notified body for national electrical compliance.
 
-Below are some pictures of the machine before refurbish (click to enlarge).
+Below are some pictures of the machine before refurbishment (click to enlarge).
 
 <p align="center">
     <img src="Images/Start07.jpeg" alt="Description" width="800">
@@ -104,24 +104,22 @@ Below are some pictures of the machine before refurbish (click to enlarge).
     <img src="Images/Start01.jpeg" alt="Description" width="600">
 </p>
 
+# Refurbishment activities
 
-# Refurbish activities
+The planned refurbishment activities for this Commodore 64 (order may vary; several activities may be performed in parallel):
 
-The planned refurbishment activites for this Commodore 64 (Order may vary. Several of them in parallel):
-
-- [ ] Refurbish mainboard
+- [x] Refurbish mainboard
 - [x] Refurbish the keyboard
 - [x] Refurbish the casing
 - [ ] Testing and validation
 
-The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
-<br>
+The plan may be updated during the refurbishment process. Sometimes I discover areas that need special attention.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Initial testing
 
-Before the refurbish commence, the Commodore 64 is connected to a TV set and powered on. This is to get an understanding of health of the machine. It is not meant as a complete test, but as an initial test.
+Before the refurbishment commences, the Commodore 64 is connected to a TV set and powered on. This is done to get an understanding of the overall health of the machine. It is not intended to be a complete test, but rather an initial assessment.
 
 The results are shown in the table below:
 
@@ -173,11 +171,13 @@ A video from the DesTestMAX test: https://youtu.be/WOMNB_J3-R4
 
 # Disassembly
 
-Disassembling the Commodore 64 starts with removing the three Phillips screws from the bottom cover[^1].
+Disassembling the Commodore 64 starts by removing the three Phillips screws from the bottom cover[^1].
 
 <p align="center">
     <img src="Images/Dis01.jpeg" alt="Description" width="800">
 </p>
+
+<!-- MARK START -->
 
 The machine is flipped back to upright position, and the top cover is tilted/lifted about 30 degrees while wiggling it off from the bottom cover. It is important to do this carefully to avoid breaking the brittle plastic clips at the rear.
 
@@ -587,6 +587,8 @@ Some double sided tape is added to the backside of the badge, and the metal badg
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+<!-- MARK END -->
 
 **Footnotes**
 [^1]: Phillips pan head (5.5mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
