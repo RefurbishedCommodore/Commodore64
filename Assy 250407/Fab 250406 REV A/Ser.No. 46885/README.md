@@ -45,6 +45,9 @@
         <li>
           <a href="#preventing-corrosion">Preventing corrosion</a>
         </li>
+        <li>
+          <a href="#installing-armsid">Installing ARMSID</a>
+        </li>
       </ul>
     </li>  
     <li>
@@ -341,7 +344,6 @@ Even if this is very nice to see again, the machine is still not fully working. 
 
 When I checked The Pictorial C64 Fault Guide I found an image which is almost identical to what this machine produced at initial testing. And this image is pointing straight to a CIS #2 fault. So, in retrospect, I could have checked this website also for troubleshooting:-) Link to The Pictorial C64 Fault Guide page: https://www.pictorial64.com/fault.htm?id=u2_3
 
-
 ***Replacing the CIA #2***
 
 A "new" MOS 6526A CIA chip with date code of week 20 / 1988 is installed.
@@ -390,7 +392,12 @@ It is very common that the metal encapsulating the RF-modulator, VIC-II area and
     <img src="Images/Main17.jpeg" alt="Description" width="554">
     <img src="Images/Main18.jpeg" alt="Description" width="425">
 </p>
-   
+
+## Installing ARMSID 
+
+ARMSID is by many seen as the best replacement for the 6851 and 8580 SID chip. The ARMSID is sourced from protovision.no.
+
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
