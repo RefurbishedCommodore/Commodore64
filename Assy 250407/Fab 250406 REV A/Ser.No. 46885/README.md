@@ -228,7 +228,7 @@ In the table below all the major custom IC found on the mainboard are listed. As
 | VIC-II | MOS | 6589R1 | W09 Y1983 | Yes | First revision. Ceramic. Gold plated pins. |
 | PLA | SIGNETICS | N82S100N | W07 Y1983 | Yes | Acclaimed to be more reliable than MOS |
 | CIA #1 | MOS | 6526 | W09 Y1983 | Yes | |
-| CIA #2 | MOS | 6526 | W09 Y1983 | Yes | |
+| CIA #2 | MOS | 6526 | W09 Y1983 | Yes | Replaced with MOS 6526A W20 Y1988 during repair|
 | ROM - BASIC | MOS | 901226-01 | Unknown | Yes | |
 | ROM - Kernal | MOS | 901227-02 | Unknown | Yes | 2nd revision - Known to be buggy |
 | ROM - Character | MOS | 901225-01 | W13 Y1983 | Yes | |
@@ -259,12 +259,12 @@ As seen in the table below all voltages are within acceptable levels, but I thin
   
 | Measure point | Target voltage | Measured voltage<br>Before refurbish| Measured voltage<br>After refurbish | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| PSU (5V) | 5 V DC | 5.042 V |  | User port |
-| PSU (9V) | 9 V AC | 8.350 V |  | User port |
-| Vvid (+5 CAN)| 5 V DC | 4.948 V | | Pin #40 VIC-II |
-| Vc (+5 CAN) | 5 V DC | 4.943 V | | Pin #14 4044 |
-| Regulated (12V) | 12 V DC | 11.88 V | | Pin #28 SID |
-| Unregulated (9V) | 9 V DC | 8.852 V | | R2 |
+| PSU (5V) | 5 V DC | 5.042 V | 5.042 V | User port |
+| PSU (9V) | 9 V AC | 8.350 V | 8.525 V | User port |
+| Vvid (+5 CAN)| 5 V DC | 4.948 V | 4.949 V| Pin #40 VIC-II |
+| Vc (+5 CAN) | 5 V DC | 4.943 V | 4.944 V | Pin #14 4044 |
+| Regulated (12V) | 12 V DC | 11.88 V | 11.88 V| Pin #28 SID |
+| Unregulated (9V) | 9 V DC | 8.852 V | 8.966 V | R2 |
 
 </div>
 
@@ -422,6 +422,10 @@ The repair is now complete now. Below are some pictures of the mainboard after t
 
 <p align="center">
     <img src="Images/Main26.jpeg" alt="Description" width="1000">
+</p>
+
+<p align="center">
+    <img src="Images/Main27.jpeg" alt="Description" width="1000">
 </p>
 
 ## Heatsinks
