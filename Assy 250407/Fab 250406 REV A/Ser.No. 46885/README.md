@@ -407,6 +407,17 @@ Installing it is straightforward. This is a plug-and-play replacement, so the ne
     <img src="Images/Main20.jpeg" alt="Description" width="600">
 </p>
 
+***Firmware and configuration***
+
+The ARMSID can be updated and configured. The latest version of the firmware is 2.17. As can be seen from the pictures below, the ARMSID is updated with the latest firmware. I will leave the configuration as default (set as SID 6581), but these can be changed and adjusted by the owner any time. Latest firmware and configuration tool can be found [here](https://retrocomp.cz/produkt?id=2). 
+
+<p align="center" float="left">
+    <img src="Images/Main24.jpeg" alt="Description" width="225">
+    <img src="Images/Main22.jpeg" alt="Description" width="225">
+    <img src="Images/Main23.jpeg" alt="Description" width="225">
+    <img src="Images/Main21.jpeg" alt="Description" width="225">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Keyboard
