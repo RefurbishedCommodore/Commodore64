@@ -397,7 +397,11 @@ It is very common that the metal encapsulating the RF-modulator, VIC-II area and
 
 ARMSID is by many seen as the best replacement for the 6851 and 8580 SID chip. The ARMSID is sourced from protovision.no.
 
+<p align="center">
+    <img src="Images/Main19.jpeg" alt="Description" width="800">
+</p>
 
+Installing it is straightforward. This is a plug-and-play replacement, so the new ARMSID is simply placed in the original SID socket.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
