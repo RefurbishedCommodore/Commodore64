@@ -418,6 +418,12 @@ The ARMSID can be updated and configured. The latest version of the firmware is 
     <img src="Images/Main21.jpeg" alt="Description" width="225">
 </p>
 
+The repair is now complete now. Below are some pictures of the mainboard after the repair.
+
+<p align="center">
+    <img src="Images/Main26.jpeg" alt="Description" width="1000">
+</p>
+
 ## Heatsinks
 
 To reduce the risk of failing custom ICs heatsinks are added. One of the heatsinks are already there: the large metal can surrounding the VIC-II IC is actually a perfect heatsink. But some the thermal paste was completely dried up, so some new thermal is added. Usually, heatsink is also added to the MOS 6581 SID chip, but since this is replaced with the new ARMSID this is not necessary. The ARMSID runs very cool.
