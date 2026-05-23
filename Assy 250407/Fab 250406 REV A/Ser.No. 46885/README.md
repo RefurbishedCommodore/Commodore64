@@ -403,6 +403,10 @@ ARMSID is by many seen as the best replacement for the 6851 and 8580 SID chip. T
 
 Installing it is straightforward. This is a plug-and-play replacement, so the new ARMSID is simply placed in the original SID socket.
 
+<p align="center">
+    <img src="Images/Main20.jpeg" alt="Description" width="600">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Keyboard
