@@ -21,7 +21,7 @@
       <a href="#starting-point">Starting point</a>
     </li>
     <li>
-      <a href="#refurbish-activities">Refurbish activities</a>
+      <a href="#refurbishment-activities">Refurbishment activities</a>
     </li>
     <li>
       <a href="#disassembly">Disassembly</a>
@@ -556,8 +556,6 @@ Testing is carried out in three main stages:
 3. Testing the machine by running demos, games, etc., accessed via both floppy and datasette, to verify correct operation
 
 **NOTE:** The image quality is poor, but this is not due to problems with the machine—it is caused by a poor video monitor.
-
-
 
 ## Basic functionality and chips
 
