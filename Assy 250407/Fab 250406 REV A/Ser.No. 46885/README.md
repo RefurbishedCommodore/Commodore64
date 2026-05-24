@@ -699,12 +699,12 @@ Below is a collection of pictures of the final result of the refurbishment of th
 </p>
 
 <p align="center" float="left">
-    <img src="Images/Final04.jpeg" alt="Description" width="400">
+    <img src="Images/Final02.jpeg" alt="Description" width="400">
     <img src="Images/Final03.jpeg" alt="Description" width="400">
 </p>
 
 <p align="center" float="left">
-    <img src="Images/Final02.jpeg" alt="Description" width="400">
+    <img src="Images/Final04.jpeg" alt="Description" width="400">
     <img src="Images/Final05.jpeg" alt="Description" width="400">
 </p>
 
