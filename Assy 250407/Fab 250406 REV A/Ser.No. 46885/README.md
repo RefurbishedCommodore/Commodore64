@@ -619,7 +619,7 @@ The next test is to power up the Commodore 64 to the blue startup screen and che
 
 <p align="center" float="left">
     <img src="Images/Test02.jpeg" alt="Description" width="500">
-    <img src="Images/Test08.jpeg" alt="Description" width="500">
+    <img src="Images/Test03.jpeg" alt="Description" width="500">
 </p>
 
 
