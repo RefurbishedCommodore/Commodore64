@@ -661,6 +661,22 @@ Knowing that the basic functionality of the machine works, I continue testing by
 
 Below is a gallery with pictures from the testing. **NOTE:** The colours in the pictures are completely off, and the image quality is poor. However, this is due to my TV and not the machine.
 
+<p align="center" float="left">
+    <img src="Images/Test10.jpeg" alt="Description" width="180">
+    <img src="Images/Test11.jpeg" alt="Description" width="180">
+    <img src="Images/Test12.jpeg" alt="Description" width="180">
+    <img src="Images/Test13.jpeg" alt="Description" width="180">
+    <img src="Images/Test14.jpeg" alt="Description" width="180">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Test15.jpeg" alt="Description" width="180">
+    <img src="Images/Test16.jpeg" alt="Description" width="180">
+    <img src="Images/Test17.jpeg" alt="Description" width="180">
+    <img src="Images/Test19.jpeg" alt="Description" width="180">
+    <img src="Images/Test18.jpeg" alt="Description" width="180">
+</p>
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
