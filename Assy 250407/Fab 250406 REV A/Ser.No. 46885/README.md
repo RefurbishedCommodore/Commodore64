@@ -611,6 +611,18 @@ Testing is carried out in three main stages:
 
 The first test is performed using the Dead Test Cartridge. This test does not cover all the functionality of the Commodore 64, but it does verify the basic operation of the major chips, such as the CIA #1/2, CPU, VIC-II, PLA, RAM, and SID. As shown in the picture below, the test is passed.
 
+<p align="center">
+    <img src="Images/Test01.jpeg" alt="Description" width="600">
+</p>
+
+The next test is to power up the Commodore 64 to the blue startup screen and check the keyboard to ensure all keys work as they should. The test is passed; all keys work, and 38911 BASIC Bytes Free is displayed.
+
+<p align="center" float="left">
+    <img src="Images/Test02.jpeg" alt="Description" width="500">
+    <img src="Images/Test08.jpeg" alt="Description" width="500">
+</p>
+
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
