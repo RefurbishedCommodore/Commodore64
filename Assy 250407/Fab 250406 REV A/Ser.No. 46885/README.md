@@ -81,6 +81,9 @@
      <li>
         <a href="#basic-functionality-and-chips">Basic functionality and chips</a>
      </li>
+     <li>
+        <a href="#diagnostics-test-with-harness">Diagnostics test with harness</a>
+     </li>
     </ul>      
     </li>
   </ul>
@@ -630,6 +633,13 @@ The basic functions of the VIC-II, SID, and RAM are tested using the 64 Doctor, 
     <img src="Images/Test07.jpeg" alt="Description" width="220">
 </p>
 
+## Diagnostics test with harness
+
+To test all the custom ICs and I/O ports, the Diagnostics cartridge is used. The Diagnostics cartridge is very valuable when the complete test harness is installed, as virtually everything is tested thoroughly. As can be seen from the picture below, no issues are identified.
+
+<p align="center">
+    <img src="Images/Test03.jpeg" alt="Description" width="600">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
