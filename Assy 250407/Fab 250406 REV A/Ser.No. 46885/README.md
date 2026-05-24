@@ -84,6 +84,12 @@
      <li>
         <a href="#diagnostics-test-with-harness">Diagnostics test with harness</a>
      </li>
+     <li>
+        <a href="#testing-the-full-64k-of-ram">Testing the full 64k of RAM</a>
+     </li>
+     <li>
+        <a href="#extended-testing">Extended testing</a>
+     </li>
     </ul>      
     </li>
   </ul>
@@ -646,8 +652,15 @@ To test all the custom ICs and I/O ports, the Diagnostics cartridge is used. The
 To ensure that all 64k of RAM is functioning correctly, the DesTestFull cartridge is used. This software uses the March-B algorithm to test the RAM extensively. No issues are identified.
 
 <p align="center">
-    <img src="Images/Test04.jpeg" alt="Description" width="600">
+    <img src="Images/Test09.jpeg" alt="Description" width="600">
 </p>
+
+## Extended testing
+
+Knowing that the basic functionality of the machine works, I continue testing by using the Commodore 64 for normal operation: playing games, watching demos, loading from datasette and floppy, and using cartridges. I cannot find any issues with this machine. I also pay special attention to the video to ensure that there are no glitches in the graphics—I cannot see any abnormalities.
+
+Below is a gallery with pictures from the testing. **NOTE:** The colours in the pictures are completely off, and the image quality is poor. However, this is due to my TV and not the machine.
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
