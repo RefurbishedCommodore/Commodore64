@@ -594,7 +594,6 @@ Some double sided tape is added to the backside of the badge, and the metal badg
     <img src="Images/Case10.jpeg" alt="Description" width="1000">
 </p>
 
-
 # Testing
 
 The proof is in the pudding—does it work?
@@ -622,6 +621,14 @@ The next test is to power up the Commodore 64 to the blue startup screen and che
     <img src="Images/Test03.jpeg" alt="Description" width="500">
 </p>
 
+The basic functions of the VIC-II, SID, and RAM are tested using the 64 Doctor, Commodore 64 SID Tester, and DesTest cartridges. Note that this should be considered basic functionality—more advanced features such as sprite handling, collision detection, and advanced audio will be tested later.
+
+<p align="center" float="left">
+    <img src="Images/Test07.jpeg" alt="Description" width="220">
+    <img src="Images/Test10.jpeg" alt="Description" width="220">
+    <img src="Images/Test09.jpeg" alt="Description" width="220">
+    <img src="Images/Test05.jpeg" alt="Description" width="220">
+</p>
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
