@@ -22,7 +22,7 @@
       <a href="#starting-point">Starting point</a>
     </li>
     <li>
-      <a href="#refurbish-activities">Refurbish activities</a>
+      <a href="#refurbishment-activities">Refurbishment activities</a>
     </li>
     <li>
       <a href="#initial-testing">Initial testing</a>
@@ -74,7 +74,15 @@
           <a href="#cleaning-and-retrobrighting-the-covers">Cleaning and retrobrighting the covers</a>
         </li>
       </ul>
-    </li>     
+    </li>
+    <li>
+      <a href="#testing">Testing</a>
+    <ul>
+     <li>
+        <a href="#basic-functionality-and-chips">Basic functionality and chips</a>
+     </li>
+    </ul>      
+    </li>
   </ul>
 </details>
 
@@ -585,6 +593,24 @@ Some double sided tape is added to the backside of the badge, and the metal badg
 <p align="center">
     <img src="Images/Case10.jpeg" alt="Description" width="1000">
 </p>
+
+
+# Testing
+
+The proof is in the pudding—does it work?
+
+Testing is carried out in three main stages:
+
+1. Testing the basic functionality and chips
+2. Testing the complete set of custom ICs and I/O ports
+3. Testing the machine by running demos, games, etc., accessed via both floppy and datasette, to verify correct operation
+
+**NOTE:** The image quality is poor, but this is not due to problems with the machine—it is caused by a poor video monitor.
+
+## Basic functionality and chips
+
+The first test is performed using the Dead Test Cartridge. This test does not cover all the functionality of the Commodore 64, but it does verify the basic operation of the major chips, such as the CIA #1/2, CPU, VIC-II, PLA, RAM, and SID. As shown in the picture below, the test is passed.
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
