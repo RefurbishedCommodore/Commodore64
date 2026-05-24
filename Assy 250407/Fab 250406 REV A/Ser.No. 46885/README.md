@@ -198,31 +198,29 @@ Disassembling the Commodore 64 starts by removing the three Phillips screws from
     <img src="Images/Dis01.jpeg" alt="Description" width="800">
 </p>
 
-<!-- MARK START -->
+The machine is flipped back to the upright position, and the top cover is tilted/lifted about 30 degrees while gently wiggling it free from the bottom cover. It is important to do this carefully to avoid breaking the brittle plastic clips at the rear.
 
-The machine is flipped back to upright position, and the top cover is tilted/lifted about 30 degrees while wiggling it off from the bottom cover. It is important to do this carefully to avoid breaking the brittle plastic clips at the rear.
-
-With the top cover lifted away the interior is revealed. As can be seen from the picture below the mainboard is covered with a cardboard RF-shield. The RF-shield seems to be in very good condition. This shield does not have any real function anymore - quite the opposite - it will only accumulate heat. So this shield will be removed during refurbish. But to see that the RF-shield is not damaged by moist is a good sign. This machine has probably been stored in a dry place with quite stable temperature.
+With the top cover removed, the interior is revealed. As can be seen from the picture below, the mainboard is covered with a cardboard RF shield. The RF shield appears to be in very good condition. This shield does not really serve any useful purpose anymore — quite the opposite — it only traps additional heat. Therefore, the shield will be removed during the refurbishment. However, seeing that the RF shield has not been damaged by moisture is a good sign. This machine has probably been stored in a dry place with a fairly stable temperature.
 
 <p align="center">
     <img src="Images/Dis02.jpeg" alt="Description" width="800">
 </p>
 
-Oh my... this warms my heart! None of the brittle plastic clips are broken! That is something I don´t see often. That said, I will try my best to be very, VERY, careful, but it is likely that some of these clips will break during cleaning since they are so brittle.
+Oh my... this warms my heart! None of the brittle plastic clips are broken! That is something I do not see very often. That said, I will try my best to be very, VERY careful, but it is possible that some of these clips may break during cleaning since they are so brittle.
 
 <p align="center">
     <img src="Images/Dis03.jpeg" alt="Description" width="800">
 </p>
 
-Look at that! The RF-shield is lifted, and the mainboard is revealed in all its glory. And this looks very nice! There are some dust and grease, which is to be expected, but other than that is looks in great condition. The RF-modulator, VIC-II shield and the cartridge port shield show almost no sign of corrosion. There is something I notice though: the ROM ICs (U3, U4, U5) have some kind of coating on the top of chips.
+Look at that! The RF shield is lifted, and the mainboard is revealed in all its glory. And this looks very nice! There is some dust and grease, which is to be expected, but other than that it looks to be in great condition. The RF modulator, VIC-II shield, and cartridge port shield show almost no signs of corrosion. There is something I notice, though: the ROM ICs (U3, U4, U5) have some kind of coating on the tops of the chips.
 
-Another thing I see immediately is that all the customs ICs are socketed. This is something which is not common in the Commdore64, unless it is previously repaired which I highly doubt. I will find out later, but I think that the 250407 Rev A board was equipped with sockets when manufactured.
+Another thing I notice immediately is that all the custom ICs are socketed. This is not very common in the Commodore 64 unless it has previously been repaired, which I highly doubt. I will find out more later, but I think the 250407 Rev A board was equipped with sockets from the factory.
 
 <p align="center">
     <img src="Images/Dis04.jpeg" alt="Description" width="800">
 </p>
 
-The seven Phillips screws holding the mainboard PCB to the bottom cover are removed carefully[^2]. It is good practice to use a low torque screwdriver when removing these to reduce the risk of breaking the plastic stand-offs below. Now the mainboard is lifted away exposing the bottom cover. As can be seen from the picture below the bottom cover appears to be in fine condition (ignoring the dust and grease).
+The seven Phillips screws holding the mainboard PCB to the bottom cover are carefully removed[^2]. It is good practice to use a low-torque screwdriver when removing these to reduce the risk of breaking the plastic standoffs below. The mainboard is then lifted away, exposing the bottom cover. As can be seen from the picture below, the bottom cover appears to be in fine condition (ignoring the dust and grease)
 
 <p align="center">
     <img src="Images/Dis05.jpeg" alt="Description" width="800">
@@ -236,11 +234,11 @@ The mainboard is the Assy 250407/Fab 250406 Rev A. Also marked with "H.E.C. GEA 
 
 ## Visual inspection
 
-The mainboard appears to be in very good condition. I cannot see any signs of either damage or repair. There is of course the normal amount of dust laying around on the mainboard, but that is to be expected after so many years. On the backside of the mainboard there is very little flux residue, which is not so common. Commodore mainboards often contain quite some flux residue - likely a sign that Commodore were in a hurry when manufacturing and not had time to clean properly. 
+The mainboard appears to be in very good condition. I cannot see any signs of either damage or repair. There is, of course, the normal amount of dust lying around on the mainboard, but that is to be expected after so many years. On the backside of the mainboard, there is very little flux residue, which is somewhat uncommon. Commodore mainboards often contain quite a lot of flux residue — likely a sign that Commodore was in a hurry during manufacturing and did not have time to clean the boards properly.
 
-I cannot see any obvious signs of rework. I cannot see any obvious reason why the mainboard should be faulty. As mentioned earlier there is some kind of paint, or coating, on the ROM ICs. I do not see any reason why someone should need to paint these?
+I cannot see any obvious signs of rework, nor can I see any obvious reason why the mainboard should be faulty. As mentioned earlier, there is some kind of paint or coating on the ROM ICs. I do not see any obvious reason why someone would need to paint these.
 
-In the table below all the major custom IC found on the mainboard are listed. As can be seen from the table the custom MOS chips were produced during a time interval from week 09 in 1983 to week 17 in 1983. I think it is a fair guess that this Commodore 64 were manufactured sometime during spring 1983 - and that the workers prodcuing this were listening to Michael Jacksons "Billie Jean".
+The table below lists all the major custom ICs found on the mainboard. As can be seen from the table, the custom MOS chips were produced during the period from week 09 of 1983 to week 17 of 1983. I think it is a fair guess that this Commodore 64 was manufactured sometime during the spring of 1983 — and that the workers producing it were listening to Billie Jean by Michael Jackson.
 
 | Chip/Area | Manufactor | Version | Date code | Socket | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
@@ -255,6 +253,8 @@ In the table below all the major custom IC found on the mainboard are listed. As
 | ROM - Character | MOS | 901225-01 | W13 Y1983 | Yes | |
 | RAM | HITATCHI | HM4864P-3 | Unknown | No | |
 | Glue logic | No MOS glue logic<br> Fairchild, OKI, Texas Instruments, Hitatchi, Fujitsu, Motorola|  |  |  | |
+
+<!-- MARK START -->
 
 Below are some pictures of the mainboard before refurbish.
 
