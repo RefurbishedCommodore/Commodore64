@@ -254,9 +254,7 @@ The table below lists all the major custom ICs found on the mainboard. As can be
 | RAM | HITATCHI | HM4864P-3 | Unknown | No | |
 | Glue logic | No MOS glue logic<br> Fairchild, OKI, Texas Instruments, Hitatchi, Fujitsu, Motorola|  |  |  | |
 
-<!-- MARK START -->
-
-Below are some pictures of the mainboard before refurbish.
+Below are some pictures of the mainboard before refurbishment.
 
 <p align="center">
     <img src="Images/Main01.jpeg" alt="Description" width="1000">
@@ -264,7 +262,7 @@ Below are some pictures of the mainboard before refurbish.
     <img src="Images/Main04.jpeg" alt="Description" width="800">
 </p>
 
-The red paint/coating can be (partially) removed with some isopropanol. These ICs will be cleaned during the refurbish.
+The red paint/coating can be partially removed with some isopropanol. These ICs will be cleaned during the refurbishment.
 
 <p align="center">
     <img src="Images/Main03.jpeg" alt="Description" width="600">
@@ -272,9 +270,9 @@ The red paint/coating can be (partially) removed with some isopropanol. These IC
 
 ## Checking the voltages
 
-Voltages are measured before - and after - refurbishment. This is to make sure that all voltages are within acceptable levels. This table is updated after refurbishment is completed. All voltages are measured according to the article Checking C64 voltages [(HOWTO-Checking the Commodore 64 voltages)](https://refurbished-commodore.com/checking-c64-voltages).
+Voltages are measured both before and after refurbishment. This is done to ensure that all voltages are within acceptable levels. The table is updated after the refurbishment has been completed. All voltages are measured according to the article [(HOWTO-Checking the Commodore 64 voltages)](https://refurbished-commodore.com/checking-c64-voltages).
 
-As seen in the table below all voltages are within acceptable levels, but I think PSU (9V AC) is a bit on the low side. It is normal to see this voltage about 9.5 - 10 V AC. An AC voltage measuring 8.3 V does not directly mean that there is something wrong, but it could be an indicator. It will be interesting to see if this voltage will increase slightly after refurbishment.
+As seen in the table below, all voltages are within acceptable levels, although I think the PSU 9V AC voltage is slightly on the low side. It is normal to see this voltage around 9.5–10 VAC. An AC voltage measuring 8.3 VAC does not necessarily mean that something is wrong, but it could be an indicator. It will be interesting to see whether this voltage increases slightly after refurbishment.
 
 <div align="center">
   
@@ -293,17 +291,17 @@ As seen in the table below all voltages are within acceptable levels, but I thin
 
 ***What could cause this fault?***
 
-Based on the initial testing it is fair to assume:
+Based on the initial testing, it is fair to assume the following:
 
-- The CPU and RAM are working. Even if the DesTestMAX only show a garbled screen it does seem that the machine is running the RAM test. This should indicate that the CPU is executing code, and that the RAM is tested.
+- The CPU and RAM are working. Even though the DesTestMAX only shows a garbled screen, it does appear that the machine is running the RAM test. This indicates that the CPU is executing code and that the RAM is being tested.
 
-- The VIC-II is working. The border and background colors seems to be correct. This can only happen if the VIC-II is at least partly working. Also, the DeadTestMAX does show the "@" sign all over the screen - something only the VIC-II can achieve.
+- The VIC-II is working. The border and background colours appear to be correct. This can only happen if the VIC-II is at least partially functional. Also, the DeadTestMAX displays the "@" symbol all over the screen — something only the VIC-II can achieve.
 
-- Most of the glue logic is working. Since we can see that the DesTestMAX does seem to run, this can only happen if most of the glue logic is functional.
+- Most of the glue logic is working. Since the DesTestMAX appears to be running, this can only happen if most of the glue logic is functional.
 
 ***Removing socketed custom ICs***
 
-Having all the custom MOS ICs in sockets is of great help when troubleshooting. The following ICs can be removed and the DeadTest cartridge can still operate if the rest of the ICs are working:
+Having all the custom MOS ICs socketed is of great help when troubleshooting. The following ICs can be removed while still allowing the DeadTest cartridge to operate, assuming the remaining ICs are functioning correctly:
 
 - CIA #1 (MOS 6526) [U1]
 - CIA #2 (MOS 6526) [U2]
@@ -312,17 +310,19 @@ Having all the custom MOS ICs in sockets is of great help when troubleshooting. 
 - ROM: Character (MOS 901225-01) [U5]
 - SID (MOS 6581) [U18]
 
-These ICs are removed before the machine is powered back on again with the DeadTest cartridge installed.
+These ICs are removed before the machine is powered on again with the DeadTest cartridge installed.
 
 <p align="center">
     <img src="Images/Main05.jpeg" alt="Description" width="500">
 </p>
 
-The result is very promising, and strengthen the assumptions made during initial testing. Below is a picture of the screen with the Dead Test cartridige running without the custom ICs listed above.
+The result is very promising and strengthens the assumptions made during the initial testing. Below is a picture of the screen with the Dead Test cartridge running without the custom ICs listed above.
 
 <p align="center">
     <img src="Images/Main06.jpeg" alt="Description" width="600">
 </p>
+
+<!-- MARK START -->
 
 This result should mean that:
 
