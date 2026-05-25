@@ -322,15 +322,13 @@ The result is very promising and strengthens the assumptions made during the ini
     <img src="Images/Main06.jpeg" alt="Description" width="600">
 </p>
 
-<!-- MARK START -->
-
 This result should mean that:
 
-- The CPU, VIC-II, PLA, most glue logic and at least the first 4k of RAM are all OK
+The CPU, VIC-II, PLA, most of the glue logic, and at least the first 4 KB of RAM are all OK.
 
-There is (obviously) no sound since the SID chip is removed. And the both CIA #1 and CIA #2 are showing corrupt timings since they are also not installed yet.
+There is obviously no sound since the SID chip has been removed. Both CIA #1 and CIA #2 are also showing corrupted timing values since they have not yet been installed.
 
-To confirm that the first 4k of RAM actually are OK the DesTestMAX cartridge is installed. This cartridge will utilise the March B memory check which is way more powerful when it comes to identifying RAM faults. As can be seen from the picture below all of the 4k RAM is tested OK.
+To confirm that the first 4 KB of RAM is actually OK, the DesTestMAX cartridge is installed. This cartridge uses the March B memory test, which is far more powerful when it comes to identifying RAM faults. As can be seen from the picture below, all 4 KB of RAM tests OK.
 
 <p align="center">
     <img src="Images/Main07.jpeg" alt="Description" width="600">
@@ -338,40 +336,42 @@ To confirm that the first 4k of RAM actually are OK the DesTestMAX cartridge is 
 
 ***Re-inserting the custom ICs***
 
-The custom ICs previously removed are now re-inserted one-by-one. And there are two faults identified:
+The custom ICs previously removed are now reinserted one by one, and two faults are identified:
 
-- The **CIA #2 (MOS 6526) [U2]** is causing the machine to show the corrupt screen
-- The **SID (MOS 6581) [U18]** is not causing the machine to crash, but it produce a corrupt noise
+- The **CIA #2 (MOS 6526) [U2]** is causing the machine to display a corrupted screen.
+- The **SID (MOS 6581) [U18]** is not causing the machine to crash, but it produces corrupted noise.
 
-When the faulty CIA #2 is installed, this is the picture produced by the DeadTest cartridge.
+When the faulty CIA #2 is installed, this is the image produced by the DeadTest cartridge.
 
 <p align="center">
     <img src="Images/Main08.jpeg" alt="Description" width="600">
 </p>
 
-A video showing the cracking noise (or more loss of noise) when the SID is installed can be seen here: https://youtu.be/fPaUDTOdJpM
+A video showing the crackling noise (or rather the lack of proper sound) when the SID is installed can be seen here: [YouTube video demonstrating the faulty SID noise](https://youtu.be/fPaUDTOdJpM)
 
-When the machine is powered on without the Dead Test cartridge - and both CIA #2 and SID removed - a familiar screen appears:
+When the machine is powered on without the Dead Test cartridge — and with both CIA #2 and the SID removed — a familiar screen appears:
 
 <p align="center">
     <img src="Images/Main09.jpeg" alt="Description" width="600">
 </p>
 
-Even if this is very nice to see again, the machine is still not fully working. Without the CIA #2 no serial devices (such as floppy drive and printer) would work, and without the SID no audio obviously.
+Even though this is very nice to see again, the machine is still not fully working. Without the CIA #2, no serial devices (such as a floppy drive or printer) would function, and without the SID there is obviously no audio.
 
 ***Gå over bekken etter vann***
 
-"Gå over bekken etter vann" is a Norwegian proverb that means to do something unnecessarily complicated. It describes a situation where one looks far away for solutions that are right in front of you, or chooses a cumbersome procedure when a simple one is available.
+"Gå over bekken etter vann" is a Norwegian proverb that means doing something unnecessarily complicated. It describes a situation where someone looks far away for solutions that are right in front of them, or chooses a cumbersome procedure when a simpler one is available.
 
-When I checked The Pictorial C64 Fault Guide I found an image which is almost identical to what this machine produced at initial testing. And this image is pointing straight to a CIS #2 fault. So, in retrospect, I could have checked this website also for troubleshooting:-) Link to The Pictorial C64 Fault Guide page: https://www.pictorial64.com/fault.htm?id=u2_3
+When I checked The Pictorial C64 Fault Guide, I found an image that was almost identical to what this machine produced during the initial testing. The image pointed directly to a CIA #2 fault. So, in retrospect, I could simply have checked this [website](https://www.pictorial64.com/fault.htm?id=u2_3) earlier during the troubleshooting process.
 
 ***Replacing the CIA #2***
 
-A "new" MOS 6526A CIA chip with date code of week 20 / 1988 is installed.
+A "new" MOS 6526A CIA chip with a date code from week 20 of 1988 is installed.
 
 <p align="center">
     <img src="Images/Main14.jpeg" alt="Description" width="600">
 </p>
+
+<!-- MARK START -->
 
 At the same time a MOS 6581 SID chip is installed for testing purposes (this SID chip is marginal, but OK for testing). To test the functionality of the machine the Diagnostics Cartridge, together with the test harness, is used [(Tools)](https://refurbished-commodore.com/tools).
 
