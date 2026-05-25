@@ -371,13 +371,13 @@ A "new" MOS 6526A CIA chip with a date code from week 20 of 1988 is installed.
     <img src="Images/Main14.jpeg" alt="Description" width="600">
 </p>
 
-<!-- MARK START -->
-
-At the same time a MOS 6581 SID chip is installed for testing purposes (this SID chip is marginal, but OK for testing). To test the functionality of the machine the Diagnostics Cartridge, together with the test harness, is used [(Tools)](https://refurbished-commodore.com/tools).
+At the same time, a MOS 6581 SID chip is installed for testing purposes (this SID chip is marginal, but good enough for testing). To test the functionality of the machine, the Diagnostics Cartridge is used together with the test harness [(Tools)](https://refurbished-commodore.com/tools).
 
 <p align="center">
     <img src="Images/Main15.jpeg" alt="Description" width="1000">
 </p>
+
+<!-- MARK START -->
 
 When running the Diagnostic Cartridge all tests pass with flying colours.
 
