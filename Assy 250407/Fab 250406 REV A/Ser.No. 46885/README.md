@@ -40,7 +40,7 @@
           <a href="#troubleshooting-and-repair">Troubleshooting and repair</a>
         </li>
         <li>
-          <a href="#reviving-the-user--and-datasette-port">Reviving the user- and datasette port</a>
+          <a href="#reviving-the-user-and-datasette-port">Reviving the user and datasette port</a>
         </li>
         <li>
           <a href="#preventing-corrosion">Preventing corrosion</a>
@@ -377,19 +377,17 @@ At the same time, a MOS 6581 SID chip is installed for testing purposes (this SI
     <img src="Images/Main15.jpeg" alt="Description" width="1000">
 </p>
 
-<!-- MARK START -->
-
-When running the Diagnostic Cartridge all tests pass with flying colours.
+When running the Diagnostics Cartridge, all tests pass with flying colours.
 
 <p align="center">
     <img src="Images/Main16.jpeg" alt="Description" width="800">
 </p>
 
-## Reviving the user- and datasette port
+## Reviving the user and datasette port
 
-Something that is often overlooked is to clean, and revive, the user- and datasette port. These ports are often heavily used, especially in Norway the datasette port was used extensively when the Commodore 64 was in operation back in the day. Dirty, and worn, user- and datasette ports will easily result in "?LOAD ERROR" when loading tapes and floppy speeders using parallel data transfer will struggle.
+Something that is often overlooked is cleaning and reviving the user and datasette ports. These ports are often heavily used. In Norway especially, the datasette port was used extensively when the Commodore 64 was in regular operation back in the day. Dirty and worn user and datasette ports can easily result in "?LOAD ERROR" messages when loading tapes, and floppy speeders using parallel data transfer may struggle as well.
 
-Reviving the ports is not comlicated at all, but care must be taken to not damage the gold plating. Do **NOT** use abrasive tools such as glass fiber pen unless you have no other choice. The way to clean, and revive, these ports is to first clean them with isopropanol. When the ports are properly cleaned the gold plates are revived using an old school rubber ersaser. The process of cleaning and rubbing needs to be repeated several times.
+Reviving the ports is not complicated at all, but care must be taken not to damage the gold plating. Do **NOT** use abrasive tools such as a glass fibre pen unless you have no other choice. The recommended way to clean and revive these ports is to first clean them with isopropanol. Once the ports are properly cleaned, the gold-plated contacts are revived using an old-school rubber eraser. The process of cleaning and rubbing usually needs to be repeated several times.
 
 <p align="center" float="left">
     <img src="Images/Main11.jpeg" alt="Description" width="490">
@@ -403,10 +401,10 @@ Reviving the ports is not comlicated at all, but care must be taken to not damag
 
 ## Preventing corrosion
 
-It is very common that the metal encapsulating the RF-modulator, VIC-II area and cartridge port begin to corrode. In this Commodore 64 it is (luckily) very little corrosion, but as a preventive measure the metal parts are treated with some oil. This is done in the following way:
+It is very common for the metal shielding around the RF modulator, VIC-II area, and cartridge port to begin corroding. In this Commodore 64, there is luckily very little corrosion, but as a preventive measure the metal parts are treated with oil. This is done in the following way:
 
-1) A few drops of WD40 multispray oil on a q-tips is carefully smeared on the metal parts
-2) A few drops of thin sewing machine oil on a q-tips is carefully smeared on the metal parts
+1) A few drops of WD-40 Multi-Use Product on a Q-tip are carefully smeared onto the metal parts
+2) A few drops of thin sewing machine oil on a Q-tip are carefully smeared onto the metal parts
 3) All parts are wiped with a clean cotton pad
 
 <p align="center" float="left">
@@ -416,17 +414,23 @@ It is very common that the metal encapsulating the RF-modulator, VIC-II area and
 
 ## Installing ARMSID 
 
-ARMSID is by many seen as the best replacement for the 6851 and 8580 SID chip. The ARMSID is sourced from protovision.no.
+The ARMSID is considered by many to be one of the best replacements for the MOS 6581 and 8580 SID chips used in the Commodore 64. It is a true plug-and-play replacement that can simply be installed in the SID socket without requiring any modifications to the machine.
+
+One of the major advantages of the ARMSID is its very accurate sound reproduction combined with significantly lower noise levels and less power-supply interference compared to many original SID chips. It also supports automatic detection of 6581/8580 mode, has lower power consumption, and can be configured or firmware-updated directly from a Commodore 64 or 128.
+
+The ARMSID used in this refurbishment was sourced from Protovision.
 
 <p align="center">
     <img src="Images/Main19.jpeg" alt="Description" width="800">
 </p>
 
-Installing it is straightforward. This is a plug-and-play replacement, so the new ARMSID is simply placed in the original SID socket.
+Installing it is straightforward. The ARMSID is a plug-and-play replacement, so it is simply inserted into the original SID socket.
 
 <p align="center">
     <img src="Images/Main20.jpeg" alt="Description" width="600">
 </p>
+
+<!-- MARK START -->
 
 ***Firmware and configuration***
 
