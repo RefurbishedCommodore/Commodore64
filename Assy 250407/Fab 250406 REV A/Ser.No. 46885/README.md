@@ -477,9 +477,9 @@ To start refurbishing the keyboard, it is first disassembled from the front cove
     <img src="Images/Keyb01.jpeg" alt="Description" width="600">
 </p>
 
-<!-- MARK START -->
+The keyboard is in very good mechanical condition. Yes, there is quite a lot of dust and grease beneath the keycaps, but I would not expect anything else. All the printed symbols on the front of the keycaps also appear to show minimal wear and tear.
 
-The keyboard is in very good mechanical shape. Yes, there is quite some dust and grease beneath the keycaps, but I would not expect anything else. And all the printed symbols on the front of the keycaps appear to have minimal wear and tear. Speaking of printed symbols: even if the keycaps are somewhat yellowed I do not plan to retrobright the keycaps. The reason is that this process is quite hard, and embrasive, which can easily tear off these fine printings.
+Speaking of the printed symbols: even though the keycaps are somewhat yellowed, I do not plan to retrobright them. The reason is that this process can be quite harsh and abrasive, which can easily damage or wear away the delicate printed legends.
 
 <p align="center">
     <img src="Images/Keyb02.jpeg" alt="Description" width="1000">
@@ -487,24 +487,26 @@ The keyboard is in very good mechanical shape. Yes, there is quite some dust and
 
 ## Removing and cleaning the keycaps
 
-Holy moly! Removing the keycaps is hard! These keycaps are sitting "blegg fast" (Stavanger term) on the plugers. But with the keycap puller all the keycaps are removed [(Tools)](https://refurbished-commodore.com/tools). Note that there is a spring beneath all the keycaps (except for the SHIFT-LOCK), and that the spring beneath the spacebar is larger than the rest.
+Holy moly! Removing the keycaps is hard! These keycaps are sitting "blegg fast" (a Stavanger expression) on the plungers. But with the keycap puller, all the keycaps are successfully removed [(Tools)](https://refurbished-commodore.com/tools).
+
+Note that there is a spring beneath every keycap (except for the SHIFT LOCK key), and that the spring beneath the spacebar is larger than the others.
 
 <p align="center">
     <img src="Images/Keyb03.jpeg" alt="Description" width="800">
 </p>
 
-All the keycaps are placed in a plastic boc filled with cold water and mild soap for about 24 hours. This will remove most of the dust and grease from the keycaps. 
 
+All the keycaps are placed in a plastic box filled with cold water and mild soap for about 24 hours. This removes most of the dust and grease from the keycaps.
 
 ## Cleaning the keyboard PCB
 
-While the keycaps are taking a well deserved bath the keyboard PCB (Assy 326166-02 / Ser.No. 20830626) is removed from the plastic bracket. There are 23 small Phillips screws[^4] holding the PCB. Use a small low-torque screwdriver when removing the screws to avoid damage.
+While the keycaps are taking a well-deserved bath, the keyboard PCB (Assy 326166-02 / Ser.No. 20830626) is removed from the plastic bracket. There are 23 small Phillips screws[^4] holding the PCB in place. Use a small low-torque screwdriver when removing the screws to avoid damage.
 
 <p align="center">
     <img src="Images/Keyb04.jpeg" alt="Description" width="800">
 </p>
 
-Removing the SHIFT-LOCK key is straightforward. The two wires are desoldered, and the SHIFT-LOCK key is pushed from the backside of the keyboard towards the front. It will then pop out with minimal force.
+Removing the SHIFT LOCK key is straightforward. The two wires are desoldered, and the SHIFT LOCK key is pushed from the backside of the keyboard towards the front. It then pops out with minimal force.
 
 <p align="center" float="left">
     <img src="Images/Keyb05.jpeg" alt="Description" width="500">
@@ -513,18 +515,20 @@ Removing the SHIFT-LOCK key is straightforward. The two wires are desoldered, an
 
 ***Sometimes you find gold***
 
-Probably a less known feature of the Commodore 64 keyboard is that there are two versions of the keyboard PCB. One, which is the most common, that have carbon pads contacts and the other, less common, with gold plated contacts. Even if the carbon pads are usually quite ok, they are way more fragile than the gold plated.
+Probably a lesser-known feature of the Commodore 64 keyboard is that there are two versions of the keyboard PCB. One — which is the most common — has carbon-pad contacts, while the other, less common version uses gold-plated contacts. Even though the carbon pads are usually quite reliable, they are far more fragile than the gold-plated version.
 
-> Gold plated PCB: Mitsumi KSR-A66YF 56 4021**A**<br>
-> Carbon pads PCB: Mitsumi KSR-A66YF 56 4021**B**-01
+> Gold-plated PCB: Mitsumi KSR-A66YF 56 4021**A**<br>
+> Carbon-pad PCB: Mitsumi KSR-A66YF 56 4021**B**-01
 
-I think that older Commodore 64s have the **"A"** variant of the keyboard. It is fair to assume that the gold plated PCB was more expensive to produce, and that he **B** version with carbon pads came as a cost-cut initiative.
+I think that older Commodore 64s were equipped with the **"A"** variant of the keyboard. It is fair to assume that the gold-plated PCB was more expensive to produce, and that the **"B"** version with carbon pads was introduced as a cost-cutting measure.
 
-So, we are lucky! This is a Mitsumi KSR-A66YF 56 4021**A** with gold plated contacts! This PCB can be cleaned thoroughly with isopropanol (in stark contrast to the **B** version). Below is a picture of the PCB after cleaning. Look good as new!
+So, we are lucky! This is a Mitsumi KSR-A66YF 56 4021**A** with gold-plated contacts. This PCB can be cleaned thoroughly with isopropanol (in stark contrast to the **"B"** version). Below is a picture of the PCB after cleaning. It looks as good as new!
 
 <p align="center">
     <img src="Images/Keyb07.jpeg" alt="Description" width="1200">
 </p>
+
+<!-- MARK START -->
 
 ***Reviving the plungers***
 
