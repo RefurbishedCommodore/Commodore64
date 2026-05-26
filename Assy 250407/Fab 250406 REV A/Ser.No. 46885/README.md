@@ -430,11 +430,13 @@ Installing it is straightforward. The ARMSID is a plug-and-play replacement, so 
     <img src="Images/Main20.jpeg" alt="Description" width="600">
 </p>
 
-<!-- MARK START -->
-
 ***Firmware and configuration***
 
-The ARMSID can be updated and configured. The latest version of the firmware is 2.17. As can be seen from the pictures below, the ARMSID is updated with the latest firmware. I will leave the configuration as default (set as SID 6581), but these can be changed and adjusted by the owner any time. Latest firmware and configuration tool can be found [here](https://retrocomp.cz/produkt?id=2). 
+The ARMSID can be both updated and configured. At the time of writing, the latest firmware version is 2.17. As can be seen from the pictures below, the ARMSID has been updated to the latest firmware version.
+
+I will leave the configuration at its default setting (configured as a SID 6581), but these settings can be changed and adjusted by the owner at any time.
+
+The latest firmware and configuration tool can be found here: [ARMSID firmware and configuration tool](https://retrocomp.cz/produkt?id=2)
 
 <p align="center" float="left">
     <img src="Images/Main24.jpeg" alt="Description" width="225">
@@ -443,7 +445,7 @@ The ARMSID can be updated and configured. The latest version of the firmware is 
     <img src="Images/Main21.jpeg" alt="Description" width="225">
 </p>
 
-The repair is now complete now. Below are some pictures of the mainboard after the repair.
+The repair is now complete. Below are some pictures of the mainboard after the repair.
 
 <p align="center">
     <img src="Images/Main26.jpeg" alt="Description" width="1000">
@@ -455,9 +457,11 @@ The repair is now complete now. Below are some pictures of the mainboard after t
 
 ## Heatsinks
 
-To reduce the risk of failing custom ICs heatsinks are added. One of the heatsinks are already there: the large metal can surrounding the VIC-II IC is actually a perfect heatsink. But some the thermal paste was completely dried up, so some new thermal is added. Usually, heatsink is also added to the MOS 6581 SID chip, but since this is replaced with the new ARMSID this is not necessary. The ARMSID runs very cool.
+To reduce the risk of failing custom ICs, heatsinks are added. One of the heatsinks is already present: the large metal can surrounding the VIC-II IC actually works as an excellent heatsink. However, some of the thermal paste had completely dried out, so new thermal paste is applied.
 
-Some heatsinks are added to the MOS 6510 CPU IC.
+Usually, a heatsink is also added to the MOS 6581 SID chip, but since this has been replaced with a new ARMSID, this is not necessary. The ARMSID runs very cool.
+
+An additional heatsink is added to the MOS 6510 CPU IC.
 
 <p align="center">
     <img src="Images/Main25.jpeg" alt="Description" width="600">
@@ -467,11 +471,13 @@ Some heatsinks are added to the MOS 6510 CPU IC.
 
 # Keyboard
 
-To start refurbishing the keyboard it is disassembled from the front cover first. There are eight screws[^3] attaching the keyboard to the front cover. Note that care must be taken when removing these. The screws have been sitting there for 43 years and the standoffs can eaily crack.
+To start refurbishing the keyboard, it is first disassembled from the front cover. There are eight screws[^3] attaching the keyboard to the front cover. Note that care must be taken when removing these screws. They have been sitting there for 43 years, and the standoffs can easily crack.
 
 <p align="center">
     <img src="Images/Keyb01.jpeg" alt="Description" width="600">
 </p>
+
+<!-- MARK START -->
 
 The keyboard is in very good mechanical shape. Yes, there is quite some dust and grease beneath the keycaps, but I would not expect anything else. And all the printed symbols on the front of the keycaps appear to have minimal wear and tear. Speaking of printed symbols: even if the keycaps are somewhat yellowed I do not plan to retrobright the keycaps. The reason is that this process is quite hard, and embrasive, which can easily tear off these fine printings.
 
