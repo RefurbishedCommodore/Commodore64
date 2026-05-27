@@ -528,17 +528,15 @@ So, we are lucky! This is a Mitsumi KSR-A66YF 56 4021**A** with gold-plated cont
     <img src="Images/Keyb07.jpeg" alt="Description" width="1200">
 </p>
 
-<!-- MARK START -->
-
 ***Reviving the plungers***
 
-A gentle, but effective, way to revive the plungers[^5]: is to carefully drag them over a clean sheet of paper. This will remove most of the contamination on the conductive rubber.
+A gentle but effective way to revive the plungers[^5] is to carefully drag them across a clean sheet of paper. This removes most of the contamination from the conductive rubber.
 
 <p align="center">
     <img src="Images/Keyb08.jpeg" alt="Description" width="1200">
 </p>
 
-The plastic bracket is cleaned with some mild soap water and a clean paint brush. After cleaning the plastic bracket look good as new.
+The plastic bracket is cleaned with mild soapy water and a clean paintbrush. After cleaning, the plastic bracket looks as good as new.
 
 <p align="center">
     <img src="Images/Keyb09.jpeg" alt="Description" width="1200">
@@ -546,7 +544,7 @@ The plastic bracket is cleaned with some mild soap water and a clean paint brush
 
 ***Re-assembling the keyboard***
 
-Finally the keyboard is re-assembled. It is a bit yellowed on the top of the keycaps, but I think that is OK. It is quite a risk to retrobright the brown keycaps, so I will stop here. Below is a picture of the refurbished keyboard.
+Finally, the keyboard is reassembled. The tops of the keycaps are a bit yellowed, but I think that is perfectly acceptable. Retrobrighting the brown keycaps carries quite a bit of risk, so I will stop here. Below is a picture of the refurbished keyboard.
 
 <p align="center">
     <img src="Images/Keyb10.jpeg" alt="Description" width="1200">
@@ -556,11 +554,11 @@ Finally the keyboard is re-assembled. It is a bit yellowed on the top of the key
 
 # Casing
 
-Before the top- and bottom cover is cleaned properly the LED, metal badge and rubber feet are removed. 
+Before the top and bottom covers are cleaned properly, the LED, metal badge, and rubber feet are removed.
 
 ## Removing the power LED
 
-To remove the LED the inner plastic ring is removed first. Then the LED is pressed firmly from the outside (by pressing it towards a flat area) until it pops out. Finally, the last plastic clip is pried outwards.
+To remove the LED, the inner plastic ring is removed first. The LED is then pressed firmly from the outside (by pressing it against a flat surface) until it pops out. Finally, the last plastic clip is carefully pried outward.
 
 <p align="center" float="left">
     <img src="Images/Case02.jpeg" alt="Description" width="260">
@@ -570,11 +568,15 @@ To remove the LED the inner plastic ring is removed first. Then the LED is press
 
 ## Removing the metal badges
 
-The "POWER" metal badge is removed carefully by first applying some hot air from a hair dryer. This will make the glue slip. With a sharp scalpel the badge is carefully pried off the top cover. To remove the four rubber feet from the bottom cover a flat thin screwdriver is used to peel them off. Below is a picture of the parts removed from the covers before cleaning.
+The "POWER" metal badge is carefully removed by first applying some hot air from a hair dryer. This softens the glue. Using a sharp scalpel, the badge is then carefully pried off the top cover.
+
+To remove the four rubber feet from the bottom cover, a thin flat screwdriver is used to carefully peel them off. Below is a picture of the parts removed from the covers before cleaning.
 
 <p align="center">
     <img src="Images/Case04.jpeg" alt="Description" width="800">
 </p>
+
+<!-- MARK START -->
 
 ## Cleaning and retrobrighting the covers
 
