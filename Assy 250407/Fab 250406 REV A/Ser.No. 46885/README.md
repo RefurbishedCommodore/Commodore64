@@ -576,27 +576,27 @@ To remove the four rubber feet from the bottom cover, a thin flat screwdriver is
     <img src="Images/Case04.jpeg" alt="Description" width="800">
 </p>
 
-<!-- MARK START -->
-
 ## Cleaning and retrobrighting the covers
 
-Both the top- and bottom covers are soaked in mild soap water for about 24 hours. This will dissolve most of the surface dust and grease on the covers. After drying, the covers are then cleaned with some isopropanol and a Q-tip to remove the more stubborn marks.
+Both the top and bottom covers are soaked in mild soapy water for about 24 hours. This dissolves most of the surface dust and grease on the covers. After drying, the covers are cleaned with isopropanol and a Q-tip to remove the more stubborn marks.
 
-After cleaning the top- and bottom covers looks way better. They are still quite yellowed, but now they are free from old dust and spots.
+After cleaning, the top and bottom covers look much better. They are still quite yellowed, but they are now free from old dust and stains.
 
 <p align="center">
     <img src="Images/Case05.jpeg" alt="Description" width="800">
 </p>
 
-There are different opinions regarding retrobrigting. From my point of view it is a good thing: even if the retrobright can leave some streaks and stress the plastic, I still think that a retrobrighted cover looks better than the yellowed.
+There are different opinions regarding retrobrighting. From my point of view, it is a good thing: even though retrobrighting can leave some streaks and stress the plastic, I still think that a retrobrighted cover looks better than a heavily yellowed one.
 
-Both covers are retrobrighted for about 12 hours straight. During this period the covers are "painted" with 12 % hydrogen perioxide cream regularly. Also, the covers are wrapped in plastic film. The regular "painting" and wrapping in plastic film should prevent the covers from drying out during retrobright. The covers are placed in a plastic box covered with aluminuim foil and exposed to UV light. Note that the "N" sticker is now removed from the bottom cover. And the same goes for the rubber feet - these will be destroyed if not removed before retrobright).
+Both covers are retrobrighted for about 12 hours straight. During this period, the covers are regularly "painted" with 12% hydrogen peroxide cream. The covers are also wrapped in plastic film. The repeated application of the cream together with the plastic wrapping helps prevent the covers from drying out during the retrobrighting process.
+
+The covers are placed in a plastic box covered with aluminium foil and exposed to UV light. Note that the "N" sticker has now been removed from the bottom cover. The same applies to the rubber feet — these would be destroyed if they were not removed before retrobrighting.
 
 <p align="center">
     <img src="Images/Case06.jpeg" alt="Description" width="800">
 </p>
 
-After the 12 hours retrorbrighting the covers are cleaned thoroughly again. It is crucial to clean them after retrobrighting, otherwise the process will continue. I am quite happy with the result. It looks way better than before, and most of the yellowing is gone.
+After 12 hours of retrobrighting, the covers are cleaned thoroughly once again. It is crucial to clean them after retrobrighting; otherwise, the process will continue. I am quite happy with the result. The covers look much better than before, and most of the yellowing is gone.
 
 <p align="center">
     <img src="Images/Case07.jpeg" alt="Description" width="800">
@@ -604,7 +604,9 @@ After the 12 hours retrorbrighting the covers are cleaned thoroughly again. It i
 
 **A small bulge?**
 
-After cleaning and retrobrighting I notice somethat that I did not notice at the starting point. There are two bulging spots on the outside of the bottom cover (and one on the inside). These two bulges were present before refurbish (can be seen in the pictures in the [Starting Point](#starting-point) chapter). Below are some close-ups of the bulges (click to enlarge)
+After cleaning and retrobrighting, I noticed something that I had not seen at the starting point. There are two bulging spots on the outside of the bottom cover (and one on the inside). These bulges were already present before the refurbishment and can be seen in the pictures in the [Starting Point](#starting-point) chapter.
+
+Below are some close-ups of the bulges (click to enlarge).
 
 <p align="center" float="left">
     <img src="Images/Case08.jpeg" alt="Description" width="318">
@@ -615,9 +617,11 @@ What could have caused these bulges? I am not completely sure, but my guess is t
 
 **Installing the Commodore 64 badge**
 
-Yes, it is only a aesthetic detail, but without the "Commodore 64" metal badge something important is missing. Luckily, it turns out that the owner has the original old metal badge. When it is received, it is soaked in water and soap for about 24 hours. After this initial cleaning the old glue residue is removed mechanically by scraping most of the old glue off. Then another round of 12 hours long bath in water and soap. Finally the backside of metal badge is sanded with some fine sandpaper and cleaned with isopropanol.
+Yes, it is only an aesthetic detail, but without the "Commodore 64" metal badge, something important feels missing. Luckily, it turns out that the owner still has the original metal badge.
 
-Some double sided tape is added to the backside of the badge, and the metal badge is installed back on the top cover. Nice!
+Once received, the badge is soaked in soapy water for about 24 hours. After this initial cleaning, most of the old glue residue is removed mechanically by carefully scraping it off. The badge is then given another 12-hour bath in soapy water. Finally, the backside of the metal badge is sanded with fine sandpaper and cleaned with isopropanol.
+
+Some double-sided tape is applied to the backside of the badge, and the metal badge is reinstalled on the top cover. Nice!
 
 <p align="center">
     <img src="Images/Case10.jpeg" alt="Description" width="1000">
@@ -730,6 +734,7 @@ Below is a collection of pictures of the final result of the refurbishment of th
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+<!-- MARK START -->
 <!-- MARK END -->
 
 **Footnotes**
