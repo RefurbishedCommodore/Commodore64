@@ -704,7 +704,7 @@ Below is a gallery with pictures from the testing. **NOTE:** The colours in the 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
-## Final result
+# Final result
 
 <div align="center">
 
