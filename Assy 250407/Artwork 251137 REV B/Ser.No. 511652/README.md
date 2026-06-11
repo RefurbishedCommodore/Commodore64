@@ -619,7 +619,7 @@ Below is a gallery with pictures from the testing. **NOTE:** The colours in the 
     <img src="Images/Test20.jpeg" alt="Description" width="180">
 </p>
 
-## Final result
+# Final result
 
 <div align="center">
 
