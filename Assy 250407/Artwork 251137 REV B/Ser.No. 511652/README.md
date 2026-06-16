@@ -235,7 +235,7 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | CPU | MOS | 6510 | W49 Y1983 | Yes |  |
 | SID | MOS | 6581 | W03 Y1983 | Yes |  | 
-| VIC-II | MOS | 6569R3 | 30 Y1983 | Yes | Third revision. Ceramic. Gold plated pins. |
+| VIC-II | MOS | 6569R3 | W30 Y1983 | Yes | Third revision. Ceramic. Gold plated pins. |
 | PLA | COMMODORE | 251064-01 | W45 Y1983 | Yes | |
 | CIA #1 | MOS | 6526R4 | W32 Y1983 | Yes | |
 | CIA #2 | MOS | 6526R4 | W32 Y1983 | Yes | |
