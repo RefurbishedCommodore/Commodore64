@@ -93,6 +93,10 @@ There are no signs of corrosion, neither on the PCB itself nor on the metal part
 
 All seven Phillips screws[^2] are in place, holding the PCB to the bottom cover. They are removed with a low-torque screwdriver to free the PCB from the bottom cover.
 
+<p align="center">
+    <img src="Images/Dis_04.jpeg" alt="Description" width="800">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
