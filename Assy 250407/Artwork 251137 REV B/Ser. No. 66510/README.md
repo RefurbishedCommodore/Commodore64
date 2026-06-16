@@ -81,10 +81,9 @@ The machine is flipped over again, and the top cover is carefully lifted about 3
     <img src="Images/Dis_02.jpeg" alt="Description" width="800">
 </p>
 
-<!-- MARK STOP -->
-
-
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+<!-- MARK STOP -->
 
 **Footnotes**
 [^1]: Phillips pan head (5.6 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
