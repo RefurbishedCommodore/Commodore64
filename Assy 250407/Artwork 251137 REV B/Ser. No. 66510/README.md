@@ -104,6 +104,25 @@ With the PCB out of the way, the inside of the bottom cover is visible. It seems
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+
+<div align="center">
+    
+| Chip/Area | Manufactor | Version | Date code | Socket | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| CPU | MOS | 6510 | W17 Y1983 | Yes |  |
+| SID | MOS | 6581 | W03 Y1983 | Yes |  | 
+| VIC-II | MOS | 6569R1 | W24 Y1983 | Yes |  |
+| PLA | COMMODORE | 251064-01 | W22 Y1983 | Yes | |
+| CIA #1 | MOS | 6526 | W23 Y1983 | Yes | |
+| CIA #2 | MOS | 6526 | W23 Y1983 | Yes | |
+| ROM - BASIC | MOS | 901226-01 | Unknown | No | |
+| ROM - Kernal | MOS | 901227-02 | Unknown | Yes | 2nd revision |
+| ROM - Character | MOS | 901225-01 | Unknown | No | |
+| RAM | NEC | D4164C-2 | W18-20 Y1983 | No | No MT RAM |
+| Glue logic | Mitsubishi, OKI, Texas Instruments, Fairchild, Fujitsu, Hitachi |  |  |  | No MOS glue logic |
+
+</div>
+
 <!-- MARK STOP -->
 
 **Footnotes**
