@@ -81,6 +81,8 @@ The machine is flipped over again, and the top cover is carefully lifted about 3
     <img src="Images/Dis_02.jpeg" alt="Description" width="800">
 </p>
 
+The rear plastic clips are in good condition—none of them are broken or missing. This is not something you see every day, as these are VERY fragile and will easily break. Further on, this is also pointing in the direction that this Commodore 64 has not been opened frequently, or not opened at all since manufactuing. Other models of the Commodore 64 casing have the more thick / rugged versions of these rear clips.
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
