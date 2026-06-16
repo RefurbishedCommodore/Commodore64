@@ -87,10 +87,18 @@ The rear plastic clips are in good condition—none of them are broken or missin
     <img src="Images/Dis_03.jpeg" alt="Description" width="800">
 </p>
 
+The cardboard RF shield is lifted away, and the PCB is exposed in all its glory. Several of the ICs are in socket, and the PCB appears to be in good general condition. There are some dust and grease inside - and also some proper cobwebs!
+
+There are no signs of corrosion, neither on the PCB itself nor on the metal parts (VIC-II shield, cartridge connector, and RF modulator). This is another indication that this Commodore 64 has been stored in a dry, temperature-stable environment.  
+
+All seven Phillips screws[^2] are in place, holding the PCB to the bottom cover. They are removed with a low-torque screwdriver to free the PCB from the bottom cover.
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
 
 **Footnotes**
 [^1]: Phillips pan head (5.6 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
+[^2]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.6 mm
+
 
