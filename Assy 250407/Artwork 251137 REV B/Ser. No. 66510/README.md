@@ -69,7 +69,7 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 # Disassembly
 
-The first step in the disassembly is to remove the three Phillips screws[^1] on the underside. These are the most common type for the breadbin model. I notice a faint, but nice, "cracking" sound from two of the screws when removed (using a low-torque screwdriver). This is a good sign—it may indicate that this machine has not been opened before. It is not guaranteed, but that "cracking" sound is often an indication that the screws have been sitting in place for many years.
+The first step in the disassembly is to remove the three Phillips screws[^1] on the underside. These are considered to be the narrow type of screws for the breadbin model. I notice a faint, but nice, "cracking" sound from two of the screws when removed (using a low-torque screwdriver). This is a good sign—it may indicate that this machine has not been opened before. It is not guaranteed, but that "cracking" sound is often an indication that the screws have been sitting in place for many years.
 
 <!-- MARK STOP -->
 
@@ -77,5 +77,5 @@ The first step in the disassembly is to remove the three Phillips screws[^1] on 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
-[^1]: Phillips pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 10.0 mm
+[^1]: Phillips pan head (5.6 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
 
