@@ -75,6 +75,8 @@ The first step in the disassembly is to remove the three Phillips screws[^1] on 
     <img src="Images/Dis_01.jpeg" alt="Description" width="800">
 </p>
 
+The machine is flipped over again, and the top cover is carefully lifted about 30 degrees and wiggled off. Now the interior is exposed and it appears to be in good condition. As can be seen from the picture below the cardboard RF-shield is wrinkled. But I do not think this is caused by extensive moisture. I think it is fair to assume that this Commodore 64 has been stored in a dry environment with relatively stable temperatures.
+
 <!-- MARK STOP -->
 
 
