@@ -105,6 +105,8 @@ With the PCB out of the way, the inside of the bottom cover is visible. It seems
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
+The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week 03 of 1983 and week 23 of 1983, suggesting this Commodore 64 was likely manufactured during the summer of 1984.
+
 <div align="center">
     
 | Chip/Area | Manufactor | Version | Date code | Socket | Note |
