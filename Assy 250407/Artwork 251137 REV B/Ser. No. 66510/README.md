@@ -71,6 +71,10 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 The first step in the disassembly is to remove the three Phillips screws[^1] on the underside. These are considered to be the narrow type of screws for the breadbin model. I notice a faint, but nice, "cracking" sound from two of the screws when removed (using a low-torque screwdriver). This is a good sign—it may indicate that this machine has not been opened before. It is not guaranteed, but that "cracking" sound is often an indication that the screws have been sitting in place for many years.
 
+<p align="center">
+    <img src="Images/Dis_01.jpeg" alt="Description" width="800">
+</p>
+
 <!-- MARK STOP -->
 
 
