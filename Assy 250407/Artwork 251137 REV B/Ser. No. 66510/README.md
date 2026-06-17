@@ -104,6 +104,21 @@ With the PCB out of the way, the inside of the bottom cover is visible. It seems
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Mainboard
+
+The mainboard is Assy 250407 / Artwork 251137 Rev B, also marked "KU-14194 HB". This is one of the early revisions of the mainboard, characterized by having the full PLL clock circuitry and the VIC-II positioned vertically. It is not the earliest revision, though, so the A/V connector is a full eight-pin version with LUMA and CHROMA output.
+
+## Visual inspection
+
+The mainboard appears to be in very good condition. I cannot see any signs of rework from previous repairs. There is some dust and grease on the PCB close to the port openings, but this is to be expected.
+
+Below are some pictures of the mainboard before refurbishment.
+
+<p align="center">
+    <img src="Images/Main_01.jpeg" alt="Description" width="1000">
+    <img src="Images/Main_02.jpeg" alt="Description" width="1000">
+    <img src="Images/Main_03.jpeg" alt="Description" width="600">
+</p>
 
 The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week 03 of 1983 and week 23 of 1983, suggesting this Commodore 64 was likely manufactured during the summer of 1983. The same year as Michael Jackson released the magnificent *Billie Jean*.
 
