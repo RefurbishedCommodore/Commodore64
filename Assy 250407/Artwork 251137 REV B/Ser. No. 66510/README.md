@@ -106,11 +106,11 @@ With the PCB out of the way, the inside of the bottom cover is visible. It seems
 
 # Mainboard
 
-The mainboard is Assy 250407 / Artwork 251137 Rev B, also marked "KU-14194 HB". This is one of the early revisions of the mainboard, characterized by having the full PLL clock circuitry and the VIC-II positioned vertically. It is not the earliest revision, though, so the A/V connector is a full eight-pin version with LUMA and CHROMA output.
+The mainboard is Assy 250407 / Artwork 251137 Rev B, also marked Fab No. 250406 Rev A "KU-14194 HB". This is one of the early revisions of the mainboard, characterized by having the full PLL clock circuitry and the VIC-II positioned vertically. It is not the earliest revision, though, so the A/V connector is a full eight-pin version with LUMA and CHROMA output.
 
 ## Visual inspection
 
-The mainboard appears to be in very good condition. I cannot see any signs of rework from previous repairs. There is some dust and grease on the PCB close to the port openings, but this is to be expected.
+The mainboard appears to be in very good condition. I cannot see any signs of rework from previous repairs. There is some dust and grease on the PCB close to the port openings, but this is to be expected. Some of the ceramic capacitors have some surrounding residue. I see this from time to time on Commodore 64 machines, and I do not classify these as "leakage". This residue is easily cleaned from the PCB - and does not harm either the capacitor or the traces surronding the ceramic capacitors as far as I know (in stark contrast to electrolytic capacitors).
 
 Below are some pictures of the mainboard before refurbishment.
 
