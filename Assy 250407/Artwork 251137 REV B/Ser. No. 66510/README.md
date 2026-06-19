@@ -119,7 +119,6 @@ Below are some pictures of the mainboard before refurbishment.
 <p align="center">
     <img src="Images/Main_01.jpeg" alt="Description" width="1000">
     <img src="Images/Main_02.jpeg" alt="Description" width="1000">
-    <img src="Images/Main_03.jpeg" alt="Description" width="600">
 </p>
 
 The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week 03 of 1983 and week 23 of 1983, suggesting this Commodore 64 was likely manufactured during the summer of 1983. The same year as Michael Jackson released the magnificent *Billie Jean*.
@@ -143,6 +142,22 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 </div>
 
 After cleaning, and drying, the mainboard with mild soapy water I notice that there are several areas which have some liquid material residue. I still do not think that this is caused by electrolytic leaking capacitors as this looks different. Nevertheless, these areas are cleaned properly with isopropanol to make sure no corrosion will happen. Below are some pictures before/after the final cleaning. 
+
+<p align="center">
+    <img src="Images/Main_03.jpeg" alt="Description" width="500">
+    <img src="Images/Main_04.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center">
+    <img src="Images/Main_05.jpeg" alt="Description" width="500">
+    <img src="Images/Main_06.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center">
+    <img src="Images/Main_07.jpeg" alt="Description" width="500">
+    <img src="Images/Main_08.jpeg" alt="Description" width="500">
+</p>
+
 
 <!-- MARK STOP -->
 
