@@ -110,7 +110,7 @@ The mainboard is Assy 250407 / Artwork 251137 Rev B, also marked Fab No. 250406 
 
 ## Visual inspection
 
-The mainboard appears to be in good condition. I cannot see any signs of rework from previous repairs. There is a layer of dust and grease on the PCB. This is to be expected, but I will clean the PCB properly to prevent dust from accumulating moisture - which will evenutally lead to corrosion. A few of the ceramic capacitors have some surrounding residue. I see this from time to time on Commodore 64 machines, and I do not classify these as "leakage". This residue is easily cleaned from the PCB - and does not harm either the capacitor or the traces surronding the ceramic capacitors as far as I know (in stark contrast to electrolytic capacitors).
+The mainboard appears to be in good condition. I cannot see any signs of rework from previous repairs. There is a significant layer of dust and grease on the PCB. This is to be expected, but I will clean the PCB properly to prevent dust from accumulating moisture - which will evenutally lead to corrosion. A few of the ceramic capacitors have some surrounding residue. I see this from time to time on Commodore 64 machines, and I do not classify these as "leakage". This residue is easily cleaned from the PCB - and does not harm either the capacitor or the traces surronding the ceramic capacitors as far as I know (in stark contrast to electrolytic capacitors).
 
 Something to notice: there is a significant dent in the RF-modulator. At first glance, it is easy to think that this due to some external force, but I don´t think that is the case. My assumption is that this one has been under tension and has given way - almost imploded. The top lid of the RF-modulator is soldered to the inner parts. This create tension to the top lid. This does not affect the function, or performance, of the Commodore 64 in a any way.
 
@@ -141,6 +141,8 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 | Glue logic | Mitsubishi, OKI, Texas Instruments, Fairchild, Fujitsu, Hitachi |  |  |  | No MOS glue logic |
 
 </div>
+
+After cleaning, and drying, the mainboard with mild soapy water I notice that there are several areas which have some liquid material residue. I still do not think that this is caused by electrolytic leaking capacitors as this looks different. Nevertheless, these areas are cleaned properly with isopropanol to make sure no corrosion will happen. Below are some pictures before/after the final cleaning. 
 
 <!-- MARK STOP -->
 
