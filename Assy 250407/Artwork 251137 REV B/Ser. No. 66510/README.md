@@ -227,6 +227,8 @@ As seen in the table below, all voltages are within acceptable levels.
 
 </div>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 <!-- MARK STOP -->
 
 **Footnotes**
