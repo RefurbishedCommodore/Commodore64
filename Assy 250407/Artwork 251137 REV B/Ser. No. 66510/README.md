@@ -249,10 +249,10 @@ To start refurbishing the keyboard, it is first disassembled from the front cove
     <img src="Images/Keyb_01.jpeg" alt="Description" width="1000">
 </p>
 
-The keyboard seems to be in good condition. All the keycaps are free of any significant scratches or damage, and the springs beneath the keycaps also appear to be functioning. The SHIFT-LOCK key locks in position as expected. There is some dust, and the tops of the keycaps are slightly yellowed.
+The keyboard is very dirty, but it seems to be in good condition. All the keycaps are free of any significant scratches or damage, and the springs beneath the keycaps also appear to be functioning. The SHIFT-LOCK key locks in position as expected. The top of the keycaps are slightly yellowed.
 
 <p align="center">
-    <img src="Images/Keyb02.jpeg" alt="Description" width="1000">
+    <img src="Images/Keyb_02.jpeg" alt="Description" width="1000">
 </p>
 
 ## Removing and cleaning the keycaps
@@ -268,7 +268,7 @@ All 66 keycaps are removed using a keycap puller [(Tools).](https://refurbished-
 **Footnotes**
 [^1]: Phillips pan head (5.6 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
 [^2]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.6 mm
-[^3]: Pozidrive pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.5 mm
+[^3]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
 
 
 
