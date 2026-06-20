@@ -48,6 +48,7 @@
           <a href="#preventing-corrosion">Preventing corrosion</a>
         </li>
       </ul>
+    </li>
     <li>
       <a href="#keyboard">Keyboard</a>
       <ul>
