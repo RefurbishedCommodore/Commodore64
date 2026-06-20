@@ -26,6 +26,22 @@
     <li>
       <a href="#disassembly">Disassembly</a>
     </li>
+    <li>
+      <a href="#mainboard">Mainboard</a>
+    </li>
+      <ul>
+        <li>
+          <a href="#visual-inspection">Visual inspection</a>
+        </li>
+        <li>
+          <a href="#initial-testing">Initial testing</a>
+        </li>
+        <li>
+          <a href="#checking-the-voltages">Checking the voltages</a>
+        </li>
+      </ul>
+
+      
   </ul>
 </details>
 
@@ -158,7 +174,37 @@ After cleaning, and drying, the mainboard with mild soapy water I notice that th
     <img src="Images/Main_08.jpeg" alt="Description" width="500">
 </p>
 
+## Initial testing
 
+Some initial tests are performed to check the health of the machine, determining whether the basic functions work as they should and, if not, whether any useful information can be gathered from these diagnostic tools.
+
+When running the Diagnostic Cartridge, the full test harness is used.
+
+<p align="center">
+    <img src="Images/Main_09.jpeg" alt="Description" width="1000">
+</p>
+
+The results of the initial testing are shown in the table below (see screen thumbnails)—click to enlarge:
+
+<div align="center">
+  
+| Test ID | Test area | Test criteria | Result | Comment |
+|:---------:|:----------|:----------|:----------:|:----------|
+| #1 | Boot-up | Default blue screen showing 38911 BASIC Bytes Free | PASSED | Flashing cursor present |
+| #2| DeadTest | Passing all tests | PASSED |  |
+| #3| Diagostics Cartridge| Passing all tests | PASSED | |
+| #4| DesTestMAX | Passing all memory tests | PASSED | |
+| #5| DesTestFULL | Passing all memory tests | PASSED | |
+
+</div>
+
+<p align="center" float="left">
+    <img src="Images/InitTest_01.jpeg" alt="Description" width="170">
+    <img src="Images/InitTest_02.jpeg" alt="Description" width="170">
+    <img src="Images/InitTest_03.jpeg" alt="Description" width="170">
+    <img src="Images/InitTest_04.jpeg" alt="Description" width="170">
+    <img src="Images/InitTest_05.jpeg" alt="Description" width="170">    
+</p>
 <!-- MARK STOP -->
 
 **Footnotes**
