@@ -40,8 +40,20 @@
           <a href="#checking-the-voltages">Checking the voltages</a>
         </li>
       </ul>
-
-      
+    <li>
+      <a href="#keyboard">Keyboard</a>
+      <ul>
+        <li>
+          <a href="#removing-and-cleaning-the-keycaps">Removing and cleaning the keycaps</a>
+        </li>
+        <li>
+          <a href="#cleaning-the-keyboard-pcb">Cleaning the keyboard PCB</a>
+        </li>
+        <li>
+          <a href="#reviving-the-keyboard-plungers">Reviving the keyboard plungers</a>
+        </li>
+      </ul>
+    </li>      
   </ul>
 </details>
 
@@ -228,6 +240,28 @@ As seen in the table below, all voltages are within acceptable levels.
 </div>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Keyboard
+
+To start refurbishing the keyboard, it is first disassembled from the front cover. There are eight Pozidriv screws[^3] attaching the keyboard to the front cover. Note that care must be taken when removing these. The screws have been sitting in place for over 40 years, and the standoffs can easily crack.
+
+<p align="center">
+    <img src="Images/Keyb_01.jpeg" alt="Description" width="1000">
+</p>
+
+The keyboard seems to be in good condition. All the keycaps are free of any significant scratches or damage, and the springs beneath the keycaps also appear to be functioning. The SHIFT-LOCK key locks in position as expected. There is some dust, and the tops of the keycaps are slightly yellowed.
+
+<p align="center">
+    <img src="Images/Keyb02.jpeg" alt="Description" width="1000">
+</p>
+
+## Removing and cleaning the keycaps
+
+All 66 keycaps are removed using a keycap puller [(Tools).](https://refurbished-commodore.com/tools) Using a keycap puller reduces the risk of damaging the keycaps or breaking the plungers. When removing the keycaps, make sure to store the spring for the SPACEBAR separately, as this spring is slightly larger than the others.
+
+<p align="center">
+    <img src="Images/Keyb03.jpeg" alt="Description" width="1000">
+</p>
 
 <!-- MARK STOP -->
 
