@@ -205,6 +205,28 @@ The results of the initial testing are shown in the table below (see screen thum
     <img src="Images/InitTest_04.jpeg" alt="Description" width="170">
     <img src="Images/InitTest_05.jpeg" alt="Description" width="170">    
 </p>
+
+## Checking the voltages
+
+Voltages are measured before—and after—refurbishment. This is to ensure that all voltages are within acceptable levels. The table is updated after the refurbishment is completed. All voltages are measured according to the article Checking C64 Voltages [(HOWTO-Checking the Commodore 64 voltages)](https://refurbished-commodore.com/checking-c64-voltages).
+
+The Commodore 64 is powered using a Ray Carlsen PSU.
+
+As seen in the table below, all voltages are within acceptable levels.
+
+<div align="center">
+  
+| Measure point | Target voltage | Measured voltage<br>Before refurbish| Measured voltage<br>After refurbish | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| PSU (5V) | 5 V DC | 5.050 V | TBD V | User port |
+| PSU (9V) | 9 V AC | 8.641 V | TBD V | User port |
+| Vvid (+5 CAN)| 5 V DC | 4.916 V | TBD V | Pin #40 VIC-II |
+| Vc (+5 CAN) | 5 V DC | 4.914 V | TBD V | Pin #14 4044 |
+| Regulated (12V) | 12 V DC | 12.04 V | TBD V| Pin #28 SID |
+| Unregulated (9V) | 9 V DC | 9.277 V | TBD V | R2 |
+
+</div>
+
 <!-- MARK STOP -->
 
 **Footnotes**
