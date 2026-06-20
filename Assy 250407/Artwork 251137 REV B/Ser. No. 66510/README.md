@@ -260,7 +260,7 @@ The keyboard is very dirty, but it seems to be in good condition. All the keycap
 All 66 keycaps are removed using a keycap puller [(Tools).](https://refurbished-commodore.com/tools) Using a keycap puller reduces the risk of damaging the keycaps or breaking the plungers. When removing the keycaps, make sure to store the spring for the SPACEBAR separately, as this spring is slightly larger than the others.
 
 <p align="center">
-    <img src="Images/Keyb03.jpeg" alt="Description" width="1000">
+    <img src="Images/Keyb_03.jpeg" alt="Description" width="1000">
 </p>
 
 <!-- MARK STOP -->
