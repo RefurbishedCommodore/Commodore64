@@ -269,12 +269,27 @@ The keycaps are placed in a container filled with mild soapy water for 24 hours.
     <img src="Images/Keyb_04.jpeg" alt="Description" width="500">
 </p>
 
+## Cleaning the keyboard PCB
+
+To prepare the keyboard PCB (Assy 326166-02 / Ser. No. 20830801) for cleaning, the 23 small Phillips screws[^4] are removed.
+
+<p align="center">
+    <img src="Images/Keyb05.jpeg" alt="Description" width="800">
+</p>
+
+The SHIFT-LOCK needs to be desoldered before it can be removed from the keyboard. Once the two uninsulated wires are desoldered, the SHIFT-LOCK key can be easily removed by pushing it forward from the rear side.
+
+<p align="center">
+    <img src="Images/Keyb08.jpeg" alt="Description" width="500">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
 [^1]: Phillips pan head (5.6 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
 [^2]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.6 mm
 [^3]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
+[^4]: Phillips pan head (3.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 5.5 mm
 
 
 
