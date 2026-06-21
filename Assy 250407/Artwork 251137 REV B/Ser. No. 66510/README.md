@@ -283,6 +283,12 @@ The SHIFT-LOCK needs to be desoldered before it can be removed from the keyboard
     <img src="Images/Keyb_06.jpeg" alt="Description" width="500">
 </p>
 
+The SHIFT-LOCK is cleaned using isopropanol.
+
+<p align="center">
+    <img src="Images/Keyb_07.jpeg" alt="Description" width="500">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
