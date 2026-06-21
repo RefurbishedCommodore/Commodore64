@@ -274,13 +274,13 @@ The keycaps are placed in a container filled with mild soapy water for 24 hours.
 To prepare the keyboard PCB (Assy 326166-02 / Ser. No. 20830801) for cleaning, the 23 small Phillips screws[^4] are removed.
 
 <p align="center">
-    <img src="Images/Keyb05.jpeg" alt="Description" width="800">
+    <img src="Images/Keyb_05.jpeg" alt="Description" width="800">
 </p>
 
 The SHIFT-LOCK needs to be desoldered before it can be removed from the keyboard. Once the two uninsulated wires are desoldered, the SHIFT-LOCK key can be easily removed by pushing it forward from the rear side.
 
 <p align="center">
-    <img src="Images/Keyb08.jpeg" alt="Description" width="500">
+    <img src="Images/Keyb_06.jpeg" alt="Description" width="500">
 </p>
 
 <!-- MARK STOP -->
