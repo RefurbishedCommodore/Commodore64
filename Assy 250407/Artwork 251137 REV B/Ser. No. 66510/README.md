@@ -263,6 +263,12 @@ All 66 keycaps are removed using a keycap puller [(Tools).](https://refurbished-
     <img src="Images/Keyb_03.jpeg" alt="Description" width="1000">
 </p>
 
+The keycaps are placed in a container filled with mild soapy water for 24 hours. This helps dissolve any grease and dirt on the keycaps.
+
+<p align="center">
+    <img src="Images/Keyb_04.jpeg" alt="Description" width="500">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
