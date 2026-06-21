@@ -289,6 +289,12 @@ The SHIFT-LOCK is cleaned using isopropanol.
     <img src="Images/Keyb_07.jpeg" alt="Description" width="500">
 </p>
 
+It is very nice to see that this is the KSR-A66YF 56 4021**A** keyboard PCB from Mitsumi. These keyboard PCBs are special, as all 66 contact pads are **GOLD** plated. Later models (such as the **B** variant) have carbon pads. Since the pads are gold-plated, the entire PCB is thoroughly cleaned with isopropanol. It looks as good as new!
+
+<p align="center">
+    <img src="Images/Keyb_08.jpeg" alt="Description" width="1000">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
