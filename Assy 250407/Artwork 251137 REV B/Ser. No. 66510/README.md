@@ -333,6 +333,69 @@ Finally, the keyboard is reassembled. The tops of the keycaps are a bit yellowed
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
+# Casing
+
+The plan is to clean and retrobright the casing. However, before the top and bottom covers are cleaned, the LED, metal badge, and rubber feet are removed. 
+
+## Removing the power LED
+
+To remove the LED, the inner plastic ring is removed first. Then, the LED is pressed firmly from the outside (towards a flat surface) until it pops out. Finally, the last plastic clip is pried outward.
+
+<p align="center" float="left">
+    <img src="Images/Case_01.jpeg" alt="Description" width="300">
+    <img src="Images/Case_02.jpeg" alt="Description" width="300">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Case_03.jpeg" alt="Description" width="300">  
+    <img src="Images/Case_04.jpeg" alt="Description" width="300">  
+</p>
+
+<p align="center">
+    <img src="Images/Case05.jpeg" alt="Description" width="600">
+</p>
+
+**NOTE:** It can be hard to remove the plastic clip (step #3) without any tool. A nice tool to use is a 5.5 mm hex-nut remover. By pushing this hex-nut remover on the plastic clip, the four plastic "arms" bend inwards, and the clip is easily pushed out.
+
+## Removing the metal badges
+
+The metal badges embossed with "C= commodore 64" and "POWER" are iconic features of this nostalgic machine. Removing them is straightforward, but it requires some patience to avoid damage. Using hot air from a hair dryer, the badges are carefully pried off the top cover.
+
+To ensure that the old glue is fully removed, the badges are placed in a container of mild soapy water for about 24 hours. Then, the first layer of glue is removed with a flat spudger. The second layer is removed in the same way: another 24 hours in water followed by careful scraping with a flat spudger.
+
+<p align="center">
+    <img src="Images/Case06.jpeg" alt="Description" width="800">
+</p>
+
+## Cleaning and retrobrighting the covers
+
+Both the top and bottom covers are quite dirty, so they need to be cleaned properly. The way to do this is to leave them in mild soapy water for a few days. This will remove dust and dissolve grease.
+
+The four rubber feet are also removed before cleaning, as they can become "sticky" if exposed to retrobrighting chemicals.
+
+After cleaning, the top and bottom covers look much better. There are some cable burn marks (and marks in general) on the covers. I will leave these as they are, as they do not significantly affect the aesthetics.
+
+Below are some pictures of the covers after cleaning—but before retrobrighting.
+
+<p align="center">
+    <img src="Images/Case07.jpeg" alt="Description" width="800">
+</p>
+
+The covers are retrobrighted for about 12 hours continuously. During this period, 12% hydrogen peroxide cream is applied to the covers regularly. The covers are also wrapped in plastic film and exposed to UV light.
+
+<p align="center">
+    <img src="Images/Case08.jpeg" alt="Description" width="800">
+</p>
+
+After retrobrighting, the covers are cleaned again. The metal badges, LED, serial number sticker, and rubber feet are reinstalled. There are still some marks and scratches on the covers, but they look much better. The scratches are also not very visible under normal lighting.
+
+<p align="center">
+    <img src="Images/Case09.jpeg" alt="Description" width="800">
+</p>
+
+
 <!-- MARK STOP -->
 
 **Footnotes**
