@@ -366,7 +366,7 @@ The metal badges embossed with "C= commodore 64" and "POWER" are iconic features
 To ensure that the old glue is fully removed, the badges are placed in a container of mild soapy water for about 24 hours. Then, the first layer of glue is removed with a flat spudger. The second layer is removed in the same way: another 24 hours in water followed by careful scraping with a flat spudger.
 
 <p align="center">
-    <img src="Images/Case06.jpeg" alt="Description" width="800">
+    <img src="Images/Case_06.jpeg" alt="Description" width="800">
 </p>
 
 ## Cleaning and retrobrighting the covers
@@ -380,20 +380,10 @@ After cleaning, the top and bottom covers look much better. There are some cable
 Below are some pictures of the covers after cleaning—but before retrobrighting.
 
 <p align="center">
-    <img src="Images/Case07.jpeg" alt="Description" width="800">
+    <img src="Images/Case_07.jpeg" alt="Description" width="800">
 </p>
 
-The covers are retrobrighted for about 12 hours continuously. During this period, 12% hydrogen peroxide cream is applied to the covers regularly. The covers are also wrapped in plastic film and exposed to UV light.
 
-<p align="center">
-    <img src="Images/Case08.jpeg" alt="Description" width="800">
-</p>
-
-After retrobrighting, the covers are cleaned again. The metal badges, LED, serial number sticker, and rubber feet are reinstalled. There are still some marks and scratches on the covers, but they look much better. The scratches are also not very visible under normal lighting.
-
-<p align="center">
-    <img src="Images/Case09.jpeg" alt="Description" width="800">
-</p>
 
 
 <!-- MARK STOP -->
