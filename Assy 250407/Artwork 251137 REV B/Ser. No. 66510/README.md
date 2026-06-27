@@ -53,7 +53,20 @@
           <a href="#reviving-the-keyboard-plungers">Reviving the keyboard plungers</a>
         </li>
       </ul>
-    </li>      
+    </li>
+      <a href="#casing">Casing</a>
+      <ul>
+        <li>
+          <a href="#removing-the-power-led">Removing the power LED</a>
+        </li>
+        <li>
+          <a href="#removing-the-metal-badges">Removing the metal badges</a>
+        </li>
+        <li>
+          <a href="#cleaning-and-retrobrighting-the-covers">Cleaning and retrobrighting the covers</a>
+        </li>     
+      </ul>
+    </li>
   </ul>
 </details>
 
@@ -301,6 +314,25 @@ At the same time, the plastic bracket holding the PCB is cleaned with mild soapy
     <img src="Images/Keyb_09.jpeg" alt="Description" width="1000">
 </p>
 
+## Reviving the keyboard plungers
+
+A very common issue with the Commodore 64 is that the keys stop working—or, to put it another way, they work only intermittently, requiring you to press REALLY hard to get any response. Fortunately, fixing this issue is straightforward.
+
+All plungers have a piece of conductive rubber at the end of a small plastic rod. This conductive rubber can easily become contaminated with dust and grease, preventing the plunger from working as it should.
+
+By **carefully** rubbing the conductive rubber on a clean sheet of paper, the plungers can be revived.
+
+<p align="center">
+    <img src="Images/Keyb_10.jpeg" alt="Description" width="600">
+</p>
+
+Finally, the keyboard is reassembled. The tops of the keycaps are a bit yellowed, but the risk of damage when retrobrighting brown keycaps is too high, in my opinion. The keyboard is now in very good condition.
+
+<p align="center">
+    <img src="Images/Keyb_11.jpeg" alt="Description" width="1000">
+</p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 <!-- MARK STOP -->
 
 **Footnotes**
