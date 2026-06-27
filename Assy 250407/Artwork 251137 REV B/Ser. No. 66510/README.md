@@ -354,7 +354,7 @@ To remove the LED, the inner plastic ring is removed first. Then, the LED is pre
 </p>
 
 <p align="center">
-    <img src="Images/Case05.jpeg" alt="Description" width="600">
+    <img src="Images/Case_05.jpeg" alt="Description" width="600">
 </p>
 
 **NOTE:** It can be hard to remove the plastic clip (step #3) without any tool. A nice tool to use is a 5.5 mm hex-nut remover. By pushing this hex-nut remover on the plastic clip, the four plastic "arms" bend inwards, and the clip is easily pushed out.
