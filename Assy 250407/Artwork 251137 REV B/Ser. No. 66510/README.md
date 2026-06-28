@@ -274,13 +274,15 @@ Heat can cause ICs to fail faster. A simple but effective measure to reduce the 
 - CPU MOS 6510
 - SID MOS 6581
 
+<p align="center">
+    <img src="Images/Main_12.jpeg" alt="Description" width="600">
+</p>
+
 The VIC-II MOS 6569 is also fitted with a heatsink. However, this is done using the existing metal can, which functions as both an RF shield and a heatsink. New thermal paste is applied to the VIC-II before the metal lid is placed on top of the can.
 
 NOTE: The RF cardboard shield has been removed and will not be reinstalled. This RF shield does not serve much purpose in a modern setting and only contributes to additional heat inside the Commodore 64.
 
-<p align="center">
-    <img src="Images/Main_12.jpeg" alt="Description" width="600">
-</p>
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
