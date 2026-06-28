@@ -257,6 +257,12 @@ As seen in the table below, all voltages are within acceptable levels.
 
 ## Cleaning the user and datasette port
 
+For the datasette, and any peripheral connected to the user port, to work flawlessy, the ports needs to be clean. Cleaning the datasette- and user port is done by rubbing them with an old-school rubber eraser. The rubber eraser will remove the grease and oxidation without damaging the the gold plated contacts. Finally, the ports are cleaned with isopropanol.
+
+<p align="center" float="left">
+    <img src="Images/Main_10.jpeg" alt="Description" width="400">
+    <img src="Images/Main_11.jpeg" alt="Description" width="400">
+</p>
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
