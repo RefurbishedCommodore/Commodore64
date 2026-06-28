@@ -285,6 +285,14 @@ The VIC-II MOS 6569 is also fitted with a heatsink. However, this is done using 
     <img src="Images/Main_13.jpeg" alt="Description" width="500">
 </p>
 
+During the refurbishment I notice that the thermal paste under the 7805 voltage regulator has dried out completely. The 7805 is loosened from the screw, cleaned, and some new thermal paste applied.
+
+<p align="center" float="left">
+    <img src="Images/Main_15.jpeg" alt="Description" width="500">
+    <img src="Images/Main_16.jpeg" alt="Description" width="500">
+</p>
+
+
 NOTE: The RF cardboard shield has been removed and will not be reinstalled. This RF shield does not serve much purpose in a modern setting and only contributes to additional heat inside the Commodore 64.
 
 
