@@ -42,6 +42,9 @@
         <li>
           <a href="#cleaning-the-user-and-datasette-port">Cleaning the user and datasette port</a>
         </li>
+        <li>
+          <a href="#adding-heatsinks">Adding heatsinks</a>
+        </li>
       </ul>
     <li>
       <a href="#keyboard">Keyboard</a>
@@ -264,6 +267,20 @@ For the datasette, and any peripheral connected to the user port, to work flawle
     <img src="Images/Main_11.jpeg" alt="Description" width="500">
 </p>
 
+## Adding heatsinks
+
+Heat can cause ICs to fail faster. A simple but effective measure to reduce the risk of IC failure is to add heatsinks to the warmest ICs. The following ICs are fitted with heatsinks:
+
+- CPU MOS 6510
+- SID MOS 6581
+
+The VIC-II MOS 6569 is also fitted with a heatsink. However, this is done using the existing metal can, which functions as both an RF shield and a heatsink. New thermal paste is applied to the VIC-II before the metal lid is placed on top of the can.
+
+NOTE: The RF cardboard shield has been removed and will not be reinstalled. This RF shield does not serve much purpose in a modern setting and only contributes to additional heat inside the Commodore 64.
+
+<p align="center">
+    <img src="Images/Main_12.jpeg" alt="Description" width="600">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
