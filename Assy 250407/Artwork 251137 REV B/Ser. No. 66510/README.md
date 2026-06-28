@@ -39,6 +39,9 @@
         <li>
           <a href="#checking-the-voltages">Checking the voltages</a>
         </li>
+        <li>
+          <a href="#cleaning-the-user-and-datasette-port">Cleaning the user and datasette port</a>
+        </li>
       </ul>
     <li>
       <a href="#keyboard">Keyboard</a>
@@ -243,14 +246,18 @@ As seen in the table below, all voltages are within acceptable levels.
   
 | Measure point | Target voltage | Measured voltage<br>Before refurbish| Measured voltage<br>After refurbish | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| PSU (5V) | 5 V DC | 5.050 V | TBD V | User port |
-| PSU (9V) | 9 V AC | 8.641 V | TBD V | User port |
-| Vvid (+5 CAN)| 5 V DC | 4.916 V | TBD V | Pin #40 VIC-II |
-| Vc (+5 CAN) | 5 V DC | 4.914 V | TBD V | Pin #14 4044 |
-| Regulated (12V) | 12 V DC | 12.04 V | TBD V| Pin #28 SID |
-| Unregulated (9V) | 9 V DC | 9.277 V | TBD V | R2 |
+| PSU (5V) | 5 V DC | 5.050 V | 5.040  V | User port |
+| PSU (9V) | 9 V AC | 8.641 V | 8.643 V | User port |
+| Vvid (+5 CAN)| 5 V DC | 4.916 V | 4.916 V | Pin #40 VIC-II |
+| Vc (+5 CAN) | 5 V DC | 4.914 V | 4.917 V | Pin #14 4044 |
+| Regulated (12V) | 12 V DC | 12.04 V | 12.05 V| Pin #28 SID |
+| Unregulated (9V) | 9 V DC | 9.277 V | 9.286 V | R2 |
 
 </div>
+
+## Cleaning the user and datasette port
+
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
