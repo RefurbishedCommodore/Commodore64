@@ -423,9 +423,9 @@ Both the top and bottom covers are quite dirty, so they need to be cleaned prope
 
 The four rubber feet are also removed before cleaning, as they can become "sticky" if exposed to retrobrighting chemicals.
 
-After cleaning, the top and bottom covers look much better. There are some cable burn marks (and marks in general) on the covers. I will leave these as they are, as they do not significantly affect the aesthetics.
+After cleaning, the top and bottom covers look much better. There are several cable burn marks (and marks in general) on the covers. I will leave these as they are, as they do not significantly affect the aesthetics. Removing some of the marks was quite hard, and had to be handled with isopropanol. 
 
-Below are some pictures of the covers after cleaning—but before retrobrighting.
+Below are some picture of the covers after cleaning—but before retrobrighting. As can be seen from the picture, the covers have yellowed in many places.
 
 <p align="center">
     <img src="Images/Case_07.jpeg" alt="Description" width="800">
