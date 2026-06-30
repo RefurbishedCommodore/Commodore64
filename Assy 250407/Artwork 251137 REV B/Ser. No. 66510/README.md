@@ -103,8 +103,8 @@ Below are some pictures of the breadbin Commodore 64 before refurbishment.
 
 The planned refurbishment activites for this Commodore 64 (Order may vary. Several of them in parallel):
 
-- [ ] Refurbish mainboard
-- [ ] Refurbish the keyboard
+- [x] Refurbish mainboard
+- [x] Refurbish the keyboard
 - [ ] Refurbish the casing
 - [ ] Testing and validation
 
