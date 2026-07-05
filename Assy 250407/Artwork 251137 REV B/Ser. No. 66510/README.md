@@ -431,7 +431,11 @@ Below are some picture of the covers after cleaning—but before retrobrighting.
     <img src="Images/Case_07.jpeg" alt="Description" width="800">
 </p>
 
+The covers are retrobrighted for about 12 hours continuously. During this period, 12% hydrogen peroxide cream is applied to the covers regularly. The covers are also wrapped in plastic film and exposed to UV light.
 
+<p align="center">
+    <img src="Images/Case_08.jpeg" alt="Description" width="800">
+</p>
 
 
 <!-- MARK STOP -->
