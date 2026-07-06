@@ -445,6 +445,10 @@ Below are some pictures of the covers after the first round of retrobright.
     <img src="Images/Case_09.jpeg" alt="Description" width="800">
 </p>
 
+<p align="center">
+    <img src="Images/Case_10.jpeg" alt="Description" width="800">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
