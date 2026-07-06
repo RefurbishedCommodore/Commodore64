@@ -437,6 +437,13 @@ The covers are retrobrighted for about 12 hours continuously. During this period
     <img src="Images/Case_08.jpeg" alt="Description" width="800">
 </p>
 
+After retrobrighting the covers are cleaned properly again. The result is quite good, but I am not completely satisfied yet. As can be seen from the pictures below the top side of both the top- and bottom cover have restored most of the original colour. But on the bottom cover, front side, there are still some yellowing left. I will try to retrobright the bottom cover one more time (the top cover is ok, and will not be retrobrighted more.
+
+Below are some pictures of the covers after the first round of retrobright.
+
+<p align="center">
+    <img src="Images/Case_09.jpeg" alt="Description" width="800">
+</p>
 
 <!-- MARK STOP -->
 
