@@ -413,6 +413,8 @@ The metal badges embossed with "C= commodore 64" and "POWER" are iconic features
 
 To ensure that the old glue is fully removed, the badges are placed in a container of mild soapy water for about 24 hours. Then, the first layer of glue is removed with a flat spudger. The second layer is removed in the same way: another 24 hours in water followed by careful scraping with a flat spudger.
 
+The old glue is a bit stubborn when trying to be removed. With some good old Norwegian "White Spirit" the final glue residue is removed. A new piece of double sided tape is attached on both the "Commodore 64" and "POWER" badge.
+
 <p align="center">
     <img src="Images/Case_06.jpeg" alt="Description" width="800">
 </p>
