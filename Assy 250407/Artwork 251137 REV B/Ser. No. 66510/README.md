@@ -451,6 +451,12 @@ Below are some pictures of the covers after the first round of retrobright.
     <img src="Images/Case_10.jpeg" alt="Description" width="800">
 </p>
 
+Another round of retrobrighting, with only the bottom cover, is done for about 8 hours. I try to limit the time in the second pass (<< 12 hours) to avoid the bottom cover getting too light.
+
+<p align="center">
+    <img src="Images/Case_11.jpeg" alt="Description" width="800">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
