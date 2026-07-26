@@ -46,6 +46,7 @@
           <a href="#adding-heatsinks">Adding heatsinks</a>
         </li>
       </ul>
+    </li>
     <li>
       <a href="#keyboard">Keyboard</a>
       <ul>
@@ -60,6 +61,7 @@
         </li>
       </ul>
     </li>
+    <li>
       <a href="#casing">Casing</a>
       <ul>
         <li>
@@ -72,6 +74,9 @@
           <a href="#cleaning-and-retrobrighting-the-covers">Cleaning and retrobrighting the covers</a>
         </li>     
       </ul>
+    </li>
+    <li>
+      <a href="#testing">Testing</a>
     </li>
   </ul>
 </details>
@@ -105,7 +110,7 @@ The planned refurbishment activites for this Commodore 64 (Order may vary. Sever
 
 - [x] Refurbish mainboard
 - [x] Refurbish the keyboard
-- [ ] Refurbish the casing
+- [x] Refurbish the casing
 - [ ] Testing and validation
 
 The plan can be updated during the refurbishment process. Sometimes I discover areas that needs special attention.
@@ -467,6 +472,17 @@ After the second round of retrobrighting the bottom cover I much more pleased wi
     <img src="Images/Case_12.jpeg" alt="Description" width="800">
 </p>
 
+# Testing
+
+The proof is in the pudding—does it work?
+
+Testing is carried out in three main stages:
+
+1. Testing the basic functionality and chips
+2. Testing the complete set of custom ICs and I/O ports
+3. Testing the machine by running demos, games, etc., accessed via both floppy and datasette, to verify correct operation
+
+**NOTE:** The image quality is poor, but this is not due to problems with the machine—it is caused by a poor video monitor.
 <!-- MARK STOP -->
 
 **Footnotes**
