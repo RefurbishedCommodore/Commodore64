@@ -457,7 +457,11 @@ Another round of retrobrighting, with only the bottom cover, is done for about 8
     <img src="Images/Case_11.jpeg" alt="Description" width="800">
 </p>
 
-After the second round of retrobrighting the bottom cover I much more pleased with the result. It is still a bit yellow (and difference between the covers), but this is much better I think.
+After the second round of retrobrighting the bottom cover I much more pleased with the result. It is still a bit yellow (and difference between the covers), but this is much better I think. **NOTE:** The metal badges was not exposed to the retrobrighting. These were installed afterwards.
+
+<p align="center">
+    <img src="Images/Case_13.jpeg" alt="Description" width="800">
+</p>
 
 <p align="center">
     <img src="Images/Case_12.jpeg" alt="Description" width="800">
