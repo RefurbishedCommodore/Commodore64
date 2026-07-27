@@ -483,6 +483,15 @@ Testing is carried out in three main stages:
 3. Testing the machine by running demos, games, etc., accessed via both floppy and datasette, to verify correct operation
 
 **NOTE:** The image quality is poor, but this is not due to problems with the machine—it is caused by a poor video monitor.
+
+## Basic functionality and chips
+
+The first test is performed using the Dead Test Cartridge. This test does not cover all the functionality of the Commodore 64, but it does verify the basic operation of the major chips, such as the CIA #1/2, CPU, VIC-II, PLA, RAM, and SID. As shown in the picture below, the test is passed.
+
+<p align="center">
+    <img src="Images/Test01.jpeg" alt="Description" width="600">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
