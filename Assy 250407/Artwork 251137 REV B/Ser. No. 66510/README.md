@@ -522,6 +522,14 @@ The basic functions of the VIC-II, SID, and RAM are tested using the 64 Doctor, 
     <img src="Images/Test_07.jpeg" alt="Description" width="220">
 </p>
 
+## Diagnostics test with harness
+
+To test all the custom ICs and I/O ports, the Diagnostics cartridge is used. The Diagnostics cartridge is very valuable when the complete test harness is installed, as virtually everything is tested thoroughly. As can be seen from the picture below, no issues are identified.
+
+<p align="center">
+    <img src="Images/Test_08.jpeg" alt="Description" width="600">
+</p>
+
 <!-- MARK STOP -->
 
 **Footnotes**
