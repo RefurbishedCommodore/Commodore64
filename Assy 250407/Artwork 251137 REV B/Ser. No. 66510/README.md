@@ -91,7 +91,10 @@
           <a href="#extended-testing">Extended testing</a>
         </li>
       </ul>
-    </li> 
+    </li>
+    <li>
+      <a href="#final-result">Final result</a>
+    </li>
   </ul>
 </details>
 
@@ -538,6 +541,39 @@ To ensure that all 64k of RAM is functioning correctly, the DesTestFull cartridg
     <img src="Images/Test_09.jpeg" alt="Description" width="600">
 </p>
 
+## Extended testing
+
+Knowing that the basic functionality of the machine works, I continue testing by using the Commodore 64 for normal operation: playing games, watching demos, loading from datasette and floppy, and using cartridges. I cannot find any issues with this machine. I also pay special attention to the video to ensure that there are no glitches in the graphics—I cannot see any abnormalities.
+
+Below is a gallery with pictures from the testing. **NOTE:** The colours in the pictures are completely off, and the image quality is poor. However, this is due to my TV and not the machine.
+
+# Final result
+
+<div align="center">
+
+*"A picture is worth a thousand words"*
+
+Below is a collection of pictures of the final result of the refurbishment of this C64. Hope you like it! Click to enlarge!
+
+</div>
+
+<p align="center">
+    <img src="Images/FInal01.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/FInal04.jpeg" alt="Description" width="400">
+    <img src="Images/FInal03.jpeg" alt="Description" width="400">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/FInal02.jpeg" alt="Description" width="400">
+    <img src="Images/FInal05.jpeg" alt="Description" width="400">
+</p>
+
+<p align="center">
+    <img src="Images/FInal06.jpeg" alt="Description" width="800">
+</p>
 
 <!-- MARK STOP -->
 
