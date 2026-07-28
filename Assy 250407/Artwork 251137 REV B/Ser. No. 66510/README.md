@@ -547,6 +547,22 @@ Knowing that the basic functionality of the machine works, I continue testing by
 
 Below is a gallery with pictures from the testing. **NOTE:** The colours in the pictures are completely off, and the image quality is poor. However, this is due to my TV and not the machine.
 
+<p align="center" float="left">
+    <img src="Images/Test_11.jpeg" alt="Description" width="180">
+    <img src="Images/Test_12.jpeg" alt="Description" width="180">
+    <img src="Images/Test_13.jpeg" alt="Description" width="180">
+    <img src="Images/Test_14.jpeg" alt="Description" width="180">
+    <img src="Images/Test_15.jpeg" alt="Description" width="180">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Test_16.jpeg" alt="Description" width="180">
+    <img src="Images/Test_17.jpeg" alt="Description" width="180">
+    <img src="Images/Test_18.jpeg" alt="Description" width="180">
+    <img src="Images/Test_19.jpeg" alt="Description" width="180">
+    <img src="Images/Test_20.jpeg" alt="Description" width="180">
+</p>
+
 # Final result
 
 <div align="center">
