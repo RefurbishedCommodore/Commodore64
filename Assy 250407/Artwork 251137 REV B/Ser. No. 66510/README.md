@@ -320,8 +320,6 @@ During the refurbishment I notice that the thermal paste under the 7805 voltage 
 
 NOTE: The RF cardboard shield has been removed and will not be reinstalled. This RF shield does not serve much purpose in a modern setting and only contributes to additional heat inside the Commodore 64.
 
-
-
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Keyboard
@@ -403,7 +401,6 @@ Finally, the keyboard is reassembled. The tops of the keycaps are a bit yellowed
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
-
 
 # Casing
 
@@ -489,6 +486,8 @@ After the second round of retrobrighting the bottom cover I much more pleased wi
     <img src="Images/Case_12.jpeg" alt="Description" width="800">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 # Testing
 
 The proof is in the pudding—does it work?
@@ -563,6 +562,8 @@ Below is a gallery with pictures from the testing. **NOTE:** The colours in the 
     <img src="Images/Test_20.jpeg" alt="Description" width="180">
 </p>
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 # Final result
 
 <div align="center">
@@ -590,6 +591,8 @@ Below is a collection of pictures of the final result of the refurbishment of th
 <p align="center">
     <img src="Images/Final_06.jpeg" alt="Description" width="800">
 </p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 <!-- MARK STOP -->
 
