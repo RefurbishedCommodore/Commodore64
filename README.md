@@ -24,10 +24,14 @@ The No-Fault Ratio indicates the likelihood that a randomly selected Commodore 6
 
 A faulty IC is defined as a chip that is either completely or partially non-functional.
 
+<div align="center">
+    
 | Chip description | Chip version | Chip Location | Number of registered defective | Comment |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | CIA #2 | MOS 6526  | U2 | 1 | |
 | SID | MOS 6581  | U18 | 1 | |
+
+</div>
 
 # Loading - in progress
 
