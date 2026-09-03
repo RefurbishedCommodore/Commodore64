@@ -6,6 +6,8 @@
 
 # Statistics
 
+The statistics below are based on newly refurbished Commodore 64 computers that are both documented in this GitHub repository and linked from refurbished-commodore.com. Older refurbished Commodore 64 computers that are only documented on the main website, refurbished-commodore.com, are not included in these statistics.
+
 ***No-Fault-Ratios***
 
 The No-Fault Ratio indicates the likelihood that a randomly selected Commodore 64 is a working machine before refurbishment starts. A “working machine” is defined as a Commodore 64 that passes all initial tests.
