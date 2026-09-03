@@ -8,6 +8,7 @@
 
 ***Faulty ICs***
 
+A faulty IC is defined as a chip that is either completely or partially non-functional.
 
 | Chip description | Chip version | Chip Location | Number of registered defective | Comment |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
