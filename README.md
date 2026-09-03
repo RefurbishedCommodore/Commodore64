@@ -12,9 +12,13 @@ The statistics below are based on newly refurbished Commodore 64 computers that 
 
 The No-Fault Ratio indicates the likelihood that a randomly selected Commodore 64 has a working mainboard before refurbishment starts. A “working mainboard” is defined as a mainboard that passes all initial tests. Note that broken mechanical parts (e.g. keycaps or plungers) are not registered as faults..
 
+<div align="center">
+    
 | Total refurbished devices | Total failed initial test | NFR |
 |:----------:|:----------:|:----------:|
 | 3 | 1  | 67 % |
+
+</div>
 
 ***Faulty ICs***
 
