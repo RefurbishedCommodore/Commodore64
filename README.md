@@ -12,6 +12,10 @@ The statistics below are based on newly refurbished Commodore 64 computers that 
 
 The No-Fault Ratio indicates the likelihood that a randomly selected Commodore 64 is a working machine before refurbishment starts. A “working machine” is defined as a Commodore 64 that passes all initial tests.
 
+| Total refurbished devices | Total failed initial test | NFR |
+|:----------:|:----------:|:----------:|
+| 3 | 1  | 67 % |
+
 ***Faulty ICs***
 
 A faulty IC is defined as a chip that is either completely or partially non-functional.
