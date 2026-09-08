@@ -39,7 +39,7 @@ Sorry - none at the moment...
 
 # List - archived
 
-Click the serial link to access the documentation.
+Click the serial number to access the documentation.
 
 [![Name](https://img.shields.io/badge/Serial_No.-511652-white?style=plastic)](https://github.com/RefurbishedCommodore/Commodore64/tree/main/Assy%20250407/Artwork%20251137%20REV%20B/Ser.No.%20511652#readme)
 <br>
