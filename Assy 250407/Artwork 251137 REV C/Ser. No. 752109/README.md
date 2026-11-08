@@ -135,7 +135,14 @@ The first step in the disassembly is to remove the two Pozidrive screws, and the
     <img src="Images/Dis_01.jpeg" alt="Description" width="800">
 </p>
 
-The machine is flipped over again, and the top cover is carefully lifted about 30 degrees and wiggled off. Now the interior is exposed and it appears to be in good condition. There are some dust (and small dead insects) close to the joystick port area. As can be seen from the picture below the cardboard RF-shield is wrinkled. But I do not think this is caused by extensive moisture. I think it is fair to assume that this Commodore 64 has been stored in a dry environment with relatively stable temperatures.
+The machine is flipped over again, and the top cover is carefully lifted about 30 degrees and wiggled off. Now the interior is exposed, and I can see immediately that this machine has been stored in a good place. There is hardly any sign of moisture on the RF-shield cardboard. Usually, these RF-shields show sign of moist due to been stored in humid environments. Also, I notice that several of the rear clips, which are used to mount the backside of the top cover to the bottom cover, are broken. This is very normal. These clips are very brittle and break easily.
+
+
+
+
+
+
+it appears to be in good condition. There are some dust (and small dead insects) close to the joystick port area. As can be seen from the picture below the cardboard RF-shield is wrinkled. But I do not think this is caused by extensive moisture. I think it is fair to assume that this Commodore 64 has been stored in a dry environment with relatively stable temperatures.
 
 <p align="center">
     <img src="Images/Dis_02.jpeg" alt="Description" width="800">
