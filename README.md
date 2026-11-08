@@ -35,7 +35,12 @@ A faulty IC is defined as a chip that is either completely or partially non-func
 
 # Loading - in progress
 
-Sorry - none at the moment...
+[![Name](https://img.shields.io/badge/Serial_No.-752109-white?style=plastic)](https://github.com/RefurbishedCommodore/Commodore64/blob/main/Assy%20250407/Artwork%20251137%20REV%20C/Ser.%20No.%20752109/README.md)
+<br>
+![Name](https://img.shields.io/badge/Assy-250407-white?style=plastic)
+![Name](https://img.shields.io/badge/Artwork-251137-white?style=plastic)
+![Name](https://img.shields.io/badge/Revision-C-white?style=plastic)
+![Name](https://img.shields.io/badge/Video_format-PAL-white?style=plastic)
 
 # List - archived
 
