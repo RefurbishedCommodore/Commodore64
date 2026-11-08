@@ -186,7 +186,7 @@ There are also two more things I notice:
 - There is a MOS 7707 chip. These MOS logic chip are notorious for failing and should be replaced.
 - Both the USER-PORT and the DATASETTE-PORT are a bit worn
 
-The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week TBD of TBD and week TBD of TBD, suggesting this Commodore 64 was likely manufactured during the TBD. The same year as TBD.
+The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week 11 of 1984 and week 20 of 1984, suggesting this Commodore 64 was likely manufactured during the summer of 1984. The same summer that the movie Ghostbuster was released!
 
 <div align="center">
     
