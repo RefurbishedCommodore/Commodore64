@@ -127,3 +127,47 @@ The plan can be updated during the refurbishment process. Sometimes I discover a
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Disassembly
+
+The first step in the disassembly is to remove the two Pozidrive screws, and the single Phillips screw[^1][^2] on the underside. The Phillips screw is the middle screw, and the two Pozidrive screws are to the right and left.
+
+<p align="center">
+    <img src="Images/Dis_01.jpeg" alt="Description" width="800">
+</p>
+
+The machine is flipped over again, and the top cover is carefully lifted about 30 degrees and wiggled off. Now the interior is exposed and it appears to be in good condition. There are some dust (and small dead insects) close to the joystick port area. As can be seen from the picture below the cardboard RF-shield is wrinkled. But I do not think this is caused by extensive moisture. I think it is fair to assume that this Commodore 64 has been stored in a dry environment with relatively stable temperatures.
+
+<p align="center">
+    <img src="Images/Dis_02.jpeg" alt="Description" width="800">
+</p>
+
+The rear plastic clips are in good condition—none of them are broken or missing. This is not something you see every day, as these are VERY fragile and will easily break. Further on, this is also pointing in the direction that this Commodore 64 has not been opened frequently, or not opened at all since manufactuing. Other models of the Commodore 64 casing have the more thick / rugged versions of these rear clips.
+
+<p align="center">
+    <img src="Images/Dis_03.jpeg" alt="Description" width="800">
+</p>
+
+The cardboard RF shield is lifted away, and the PCB is exposed in all its glory. Several of the ICs are in socket, and the PCB appears to be in good general condition. There are some dust and grease inside - and also some proper cobwebs!
+
+There are no signs of corrosion, neither on the PCB itself nor on the metal parts (VIC-II shield, cartridge connector, and RF modulator). This is another indication that this Commodore 64 has been stored in a dry, temperature-stable environment.  
+
+All seven Phillips screws[^2] are in place, holding the PCB to the bottom cover. They are removed with a low-torque screwdriver to free the PCB from the bottom cover.
+
+<p align="center">
+    <img src="Images/Dis_04.jpeg" alt="Description" width="800">
+</p>
+
+With the PCB out of the way, the inside of the bottom cover is visible. It seems to be in fine condition. 
+<p align="center">
+    <img src="Images/Dis_05.jpeg" alt="Description" width="1000">
+</p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
+
+**Footnotes**
+[^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
+[^2]: Pozidrive pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.0 mm
+[^3]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
+[^4]: Phillips pan head (3.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 5.5 mm
