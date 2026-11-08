@@ -165,6 +165,44 @@ All seven Phillips screws[^3] are in place, holding the PCB to the bottom cover 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Mainboard
+
+The mainboard is Assy 250407 / Artwork 251137 Rev C. This is one of the early revisions of the mainboard, characterized by having the full PLL clock circuitry and the VIC-II positioned vertically. It is not the earliest revision, though, so the A/V connector is a full eight-pin version with LUMA and CHROMA output.
+
+## Visual inspection
+
+TBD
+
+The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week TBD of TBD and week TBD of TBD, suggesting this Commodore 64 was likely manufactured during the TBD. The same year as TBD.
+
+<div align="center">
+    
+| Chip/Area | Manufactor | Version | Date code | Socket | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| CPU | MOS | 6510 | W17 Y1984 | No |  |
+| SID | MOS | 6581 | W20 Y1984 | Yes |  | 
+| VIC-II | MOS | 6569R3 | W13 Y1984 | Yes |  |
+| PLA | N/A | PLAnkton | Unknown | Yes | |
+| CIA #1 | MOS | 6526 | W14 Y1984 | No | |
+| CIA #2 | MOS | 6526 | W14 Y1984 | No | |
+| ROM - BASIC | MOS | 901226-01 | W11 Y1987 | No | Replaced in 1987? |
+| ROM - Kernal | MOS | 901227-03 | W17 Y1984 | No | 3rd revision |
+| ROM - Character | MOS | 901225-01 | W17 Y1984 | No | |
+| RAM | NEC | D4164C-2 | W11 Y1984 | No | No MT RAM |
+| Glue logic | MOS, EXAR, Signetics, Texas Instruments, Motorola, National Semiconductor, Fairchild and RCA |  |  |  | MOS glue logic(!) |
+
+</div>
+
+
+
+Below are some pictures of the mainboard before refurbishment.
+
+<p align="center">
+    <img src="Images/Main_01.jpeg" alt="Description" width="1000">
+    <img src="Images/Main_02.jpeg" alt="Description" width="1000">
+</p>
+
+
 **Footnotes**
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
 [^2]: Pozidrive pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.0 mm
