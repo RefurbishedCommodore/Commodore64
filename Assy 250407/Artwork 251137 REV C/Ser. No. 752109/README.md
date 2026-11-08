@@ -157,16 +157,10 @@ The cardboard RF shield is lifted away, and the PCB is exposed in all its glory.
     <img src="Images/Dis_05.jpeg" alt="Description" width="800">
 </p>
 
-All seven Phillips screws[^3] are in place, holding the PCB to the bottom cover (see arrows in picture above). They are removed with a low-torque screwdriver to free the PCB from the bottom cover.
+All seven Phillips screws[^3] are in place, holding the PCB to the bottom cover (see arrows in picture above). They are removed with a low-torque screwdriver to free the PCB from the bottom cover. With the PCB out of the way, the inside of the bottom cover is visible. It seems to be in fine condition. 
 
 <p align="center">
     <img src="Images/Dis_06.jpeg" alt="Description" width="800">
-</p>
-
-With the PCB out of the way, the inside of the bottom cover is visible. It seems to be in fine condition. 
-
-<p align="center">
-    <img src="Images/Dis_05.jpeg" alt="Description" width="1000">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
