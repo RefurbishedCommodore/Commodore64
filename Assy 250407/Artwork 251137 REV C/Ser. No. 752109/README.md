@@ -135,16 +135,21 @@ The first step in the disassembly is to remove the two Pozidrive screws, and the
     <img src="Images/Dis_01.jpeg" alt="Description" width="800">
 </p>
 
-The machine is flipped over again, and the top cover is carefully lifted about 30 degrees and wiggled off. Now the interior is exposed, and I can see immediately that this machine has been stored in a good place. There is hardly any sign of moisture on the RF-shield cardboard. Usually, these RF-shields show sign of moist due to been stored in humid environments. Also, I notice that three out of the six the rear clips, which are used to mount the backside of the top cover to the bottom cover, are broken. This is very normal. These clips are very brittle and break easily.
+The machine is flipped over again, and the top cover is carefully lifted about 30 degrees and wiggled off. Now the interior is exposed, and I can see immediately that this machine has been stored in a good place. There is hardly any sign of moisture on the RF-shield cardboard. Usually, these RF-shields show sign of moist due to been stored in humid environments. 
 
 <p align="center">
     <img src="Images/Dis_02.jpeg" alt="Description" width="800">
 </p>
 
+Also, I notice that three out of the six the rear clips, which are used to mount the backside of the top cover to the bottom cover, are broken. This is very normal. These clips are very brittle and break easily.
+
 <p align="center">
     <img src="Images/Dis_03.jpeg" alt="Description" width="800">
 </p>
 
+<p align="center">
+    <img src="Images/Dis_04.jpeg" alt="Description" width="400">
+</p>
 
 The cardboard RF shield is lifted away, and the PCB is exposed in all its glory. Several of the ICs are in socket, and the PCB appears to be in good general condition. There are some dust and grease inside - and also some proper cobwebs!
 
