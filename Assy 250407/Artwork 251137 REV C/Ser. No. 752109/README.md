@@ -165,10 +165,7 @@ All seven Phillips screws[^3] are in place, holding the PCB to the bottom cover 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-
-
 **Footnotes**
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
 [^2]: Pozidrive pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.0 mm
-[^3]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 10.0 mm
-[^4]: Phillips pan head (3.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 2.0 mm, Fastener length: 5.5 mm
+[^3]: Phillips pan head (5.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.0 mm
