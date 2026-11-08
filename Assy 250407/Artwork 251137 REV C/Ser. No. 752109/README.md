@@ -171,7 +171,20 @@ The mainboard is Assy 250407 / Artwork 251137 Rev C. This is one of the early re
 
 ## Visual inspection
 
-TBD
+The mainboard appears to be in good condition. This board has been repaired repaired before, and the sticker with "retroservice.no" is not the only sign of repair. There are three areas which points to previous repair(s):
+
+- PIN #1 - #8 on the keyboard connector (CN1) have been re-soldered. Unsure why this is done.
+- The BASIC ROM in position U3 is replaced. Significant flux residue.
+- The PLA in position U17 is replaced. Significant flux residue.
+
+And in addition I notice that there is quite some flux residue, and something that looks like re-work, around PIN #5 - #8 on the RF-modulator. Further on, one of the anchor point is not soldered, and one of the metal tabs are not bent in position.  I don´t actually think this is re-work, but a result of a busy day at the factory in 1984.
+
+None of the capacitors show sign of bulging or leakage.
+
+There are also two more things I notice:
+
+- There is a MOS 7707 chip. These MOS logic chip are notorious for failing and should be replaced.
+- Both the USER-PORT and the DATASETTE-PORT are a bit worn
 
 The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week TBD of TBD and week TBD of TBD, suggesting this Commodore 64 was likely manufactured during the TBD. The same year as TBD.
 
@@ -182,10 +195,10 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 | CPU | MOS | 6510 | W17 Y1984 | No |  |
 | SID | MOS | 6581 | W20 Y1984 | Yes |  | 
 | VIC-II | MOS | 6569R3 | W13 Y1984 | Yes |  |
-| PLA | N/A | PLAnkton | Unknown | Yes | |
+| PLA | PLAnkton | V1.08 | Unknown | Yes | From a previous repair|
 | CIA #1 | MOS | 6526 | W14 Y1984 | No | |
 | CIA #2 | MOS | 6526 | W14 Y1984 | No | |
-| ROM - BASIC | MOS | 901226-01 | W11 Y1987 | No | Replaced in 1987? |
+| ROM - BASIC | MOS | 901226-01 | W11 Y1987 | No | From a previous repair |
 | ROM - Kernal | MOS | 901227-03 | W17 Y1984 | No | 3rd revision |
 | ROM - Character | MOS | 901225-01 | W17 Y1984 | No | |
 | RAM | NEC | D4164C-2 | W11 Y1984 | No | No MT RAM |
