@@ -220,6 +220,21 @@ Close-up of the VIC-II can area.
     <img src="Images/Main_03.jpeg" alt="Description" width="600">
 </p>
 
+Below are some pictures taken with a microscope of the mainboard before refurbishment.
+
+<p align="center" float="left">
+    <img src="Images/Main_04.jpeg" alt="Description" width="300">
+    <img src="Images/Main_07.jpeg" alt="Description" width="300">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Main_08.jpeg" alt="Description" width="300">
+    <img src="Images/Main_06.jpeg" alt="Description" width="300">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Main_05.jpeg" alt="Description" width="300">
+</p>
 
 **Footnotes**
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
