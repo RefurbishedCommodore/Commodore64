@@ -181,10 +181,11 @@ And in addition I notice that there is quite some flux residue, and something th
 
 None of the capacitors show sign of bulging or leakage.
 
-There are also two more things I notice:
+There are also some more things I notice:
 
 - There is a MOS 7707 chip. These MOS logic chip are notorious for failing and should be replaced.
 - Both the USER-PORT and the DATASETTE-PORT are a bit worn
+- The thermal paste on the VIC-II is dried out
 
 The table below lists all major custom ICs found on the mainboard. As shown, the MOS chips were produced between week 11 of 1984 and week 20 of 1984, suggesting this Commodore 64 was likely manufactured during the summer of 1984. The same summer that the movie Ghostbuster was released!
 
@@ -206,13 +207,17 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 
 </div>
 
-
-
 Below are some pictures of the mainboard before refurbishment.
 
 <p align="center">
     <img src="Images/Main_01.jpeg" alt="Description" width="1000">
     <img src="Images/Main_02.jpeg" alt="Description" width="1000">
+</p>
+
+Close-up of the VIC-II can area.
+
+<p align="center">
+    <img src="Images/Main_03.jpeg" alt="Description" width="600">
 </p>
 
 
