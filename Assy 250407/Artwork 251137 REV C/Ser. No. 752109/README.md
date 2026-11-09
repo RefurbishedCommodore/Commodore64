@@ -241,6 +241,60 @@ Below are some pictures taken with a microscope of the mainboard before refurbis
     <img src="Images/Main_05.jpeg" alt="Description" width="300">
 </p>
 
+
+## Initial testing
+
+Some initial tests are performed to check the health of the machine, determining whether the basic functions work as they should and, if not, whether any useful information can be gathered from these diagnostic tools.
+
+When running the Diagnostic Cartridge, the full test harness is used.
+
+<p align="center">
+    <img src="Images/Main_09.jpeg" alt="Description" width="1000">
+</p>
+
+The results of the initial testing are shown in the table below (see screen thumbnails)—click to enlarge:
+
+<div align="center">
+  
+| Test ID | Test area | Test criteria | Result | Comment |
+|:---------:|:----------|:----------|:----------:|:----------|
+| #1 | Boot-up | Default blue screen showing 38911 BASIC Bytes Free | PASSED | Flashing cursor present |
+| #2| DeadTest | Passing all tests | PASSED |  |
+| #3| Diagostics Cartridge| Passing all tests | PASSED | |
+| #4| DesTestMAX | Passing all memory tests | PASSED | |
+| #5| DesTestFULL | Passing all memory tests | PASSED | |
+
+</div>
+
+<p align="center" float="left">
+    <img src="Images/InitTest_01.jpeg" alt="Description" width="170">
+    <img src="Images/InitTest_02.jpeg" alt="Description" width="170">
+    <img src="Images/InitTest_03.jpeg" alt="Description" width="170">
+    <img src="Images/InitTest_04.jpeg" alt="Description" width="170">
+    <img src="Images/InitTest_05.jpeg" alt="Description" width="170">    
+</p>
+
+## Checking the voltages
+
+Voltages are measured before—and after—refurbishment. This is to ensure that all voltages are within acceptable levels. The table is updated after the refurbishment is completed. All voltages are measured according to the article Checking C64 Voltages [(HOWTO-Checking the Commodore 64 voltages)](https://refurbished-commodore.com/checking-c64-voltages).
+
+The Commodore 64 is powered using a Ray Carlsen PSU.
+
+As seen in the table below, all voltages are within acceptable levels.
+
+<div align="center">
+  
+| Measure point | Target voltage | Measured voltage<br>Before refurbish| Measured voltage<br>After refurbish | Note |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| PSU (5V) | 5 V DC | TBD V | TBD  V | User port |
+| PSU (9V) | 9 V AC | TBD V | TBD V | User port |
+| Vvid (+5 CAN)| 5 V DC | TBD V | TBD V | Pin #40 VIC-II |
+| Vc (+5 CAN) | 5 V DC | TBD V | TBD V | Pin #14 4044 |
+| Regulated (12V) | 12 V DC | TBD V | TBD V| Pin #28 SID |
+| Unregulated (9V) | 9 V DC | TBD V | TBD V | R2 |
+
+</div>
+
 **Footnotes**
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
 [^2]: Pozidrive pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.0 mm
