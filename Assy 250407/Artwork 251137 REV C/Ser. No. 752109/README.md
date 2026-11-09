@@ -274,6 +274,8 @@ The results of the initial testing are shown in the table below (see screen thum
     <img src="Images/InitTest_05.png" alt="Description" width="170">    
 </p>
 
+**NOTE:** The 6581 SID chip works as it should both with the Dead Test cartridge and Diagnostics cartridge. But, this does not mean that the SID fully works. Later investigation will check that.  
+
 ## Checking the voltages
 
 Voltages are measured before—and after—refurbishment. This is to ensure that all voltages are within acceptable levels. The table is updated after the refurbishment is completed. All voltages are measured according to the article Checking C64 Voltages [(HOWTO-Checking the Commodore 64 voltages)](https://refurbished-commodore.com/checking-c64-voltages).
