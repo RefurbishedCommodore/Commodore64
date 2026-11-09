@@ -135,6 +135,11 @@ The first step in the disassembly is to remove the two Pozidrive screws, and the
     <img src="Images/Dis_01.jpeg" alt="Description" width="800">
 </p>
 
+<p align="center" float="left">
+    <img src="Images/Dis_07.jpeg" alt="Description" width="300">
+    <img src="Images/Dis_08.jpeg" alt="Description" width="300">
+</p>
+
 The machine is flipped over again, and the top cover is carefully lifted about 30 degrees and wiggled off. Now the interior is exposed, and I can see immediately that this machine has been stored in a good place. There is hardly any sign of moisture on the RF-shield cardboard. Usually, these RF-shields show sign of moist due to been stored in humid environments. 
 
 <p align="center">
