@@ -267,11 +267,11 @@ The results of the initial testing are shown in the table below (see screen thum
 </div>
 
 <p align="center" float="left">
-    <img src="Images/InitTest_01.jpeg" alt="Description" width="170">
-    <img src="Images/InitTest_02.jpeg" alt="Description" width="170">
-    <img src="Images/InitTest_03.jpeg" alt="Description" width="170">
-    <img src="Images/InitTest_04.jpeg" alt="Description" width="170">
-    <img src="Images/InitTest_05.jpeg" alt="Description" width="170">    
+    <img src="Images/InitTest_01.png" alt="Description" width="170">
+    <img src="Images/InitTest_02.png" alt="Description" width="170">
+    <img src="Images/InitTest_03.png" alt="Description" width="170">
+    <img src="Images/InitTest_04.png" alt="Description" width="170">
+    <img src="Images/InitTest_05.png" alt="Description" width="170">    
 </p>
 
 ## Checking the voltages
