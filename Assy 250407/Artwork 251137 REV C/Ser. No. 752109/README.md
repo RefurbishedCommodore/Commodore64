@@ -297,7 +297,95 @@ As seen in the table below, all voltages are within acceptable levels. The 9 V, 
 
 </div>
 
+# Keyboard
+
+To start refurbishing the keyboard, it is first disassembled from the front cover. There are eight Pozidriv screws[^4] attaching the keyboard to the front cover. Note that care must be taken when removing these. The screws have been sitting in place for over 40 years, and the standoffs can easily crack.
+
+<p align="center">
+    <img src="Images/Keyb_01.jpeg" alt="Description" width="1000">
+</p>
+
+The keyboard is very dirty, but it seems to be in good condition. All the keycaps are free of any significant scratches or damage, and the springs beneath the keycaps also appear to be functioning. The SHIFT-LOCK key locks in position as expected. The top of the keycaps are slightly yellowed.
+
+<p align="center">
+    <img src="Images/Keyb_02.jpeg" alt="Description" width="1000">
+</p>
+
+## Removing and cleaning the keycaps
+
+All 66 keycaps are removed using a keycap puller [(Tools).](https://refurbished-commodore.com/tools) Using a keycap puller reduces the risk of damaging the keycaps or breaking the plungers. When removing the keycaps, make sure to store the spring for the SPACEBAR separately, as this spring is slightly larger than the others.
+
+<p align="center">
+    <img src="Images/Keyb_03.jpeg" alt="Description" width="1000">
+</p>
+
+The keycaps are placed in a container filled with mild soapy water for 24 hours. This helps dissolve any grease and dirt on the keycaps.
+
+<p align="center">
+    <img src="Images/Keyb_04.jpeg" alt="Description" width="500">
+</p>
+
+## Cleaning the keyboard PCB
+
+To prepare the keyboard PCB (Assy 326166-02 / Ser. No. 20830801) for cleaning, the 23 small Phillips screws[^5] are removed.
+
+<p align="center">
+    <img src="Images/Keyb_05.jpeg" alt="Description" width="800">
+</p>
+
+The SHIFT-LOCK needs to be desoldered before it can be removed from the keyboard. Once the two uninsulated wires are desoldered, the SHIFT-LOCK key can be easily removed by pushing it forward from the rear side.
+
+<p align="center">
+    <img src="Images/Keyb_06.jpeg" alt="Description" width="500">
+</p>
+
+The SHIFT-LOCK is cleaned using isopropanol.
+
+<p align="center">
+    <img src="Images/Keyb_07.jpeg" alt="Description" width="500">
+</p>
+
+It is very nice to see that this is the KSR-A66YF 56 4021**A** keyboard PCB from Mitsumi. These keyboard PCBs are special, as all 66 contact pads are **GOLD** plated. Later models (such as the **B** variant) have carbon pads. Since the pads are gold-plated, the entire PCB is thoroughly cleaned with isopropanol. It looks as good as new!
+
+<p align="center">
+    <img src="Images/Keyb_08.jpeg" alt="Description" width="1000">
+</p>
+
+At the same time, the plastic bracket holding the PCB is cleaned with mild soapy water.
+
+<p align="center">
+    <img src="Images/Keyb_09.jpeg" alt="Description" width="1000">
+</p>
+
+## Reviving the keyboard plungers
+
+A very common issue with the Commodore 64 is that the keys stop working—or, to put it another way, they work only intermittently, requiring you to press REALLY hard to get any response. Fortunately, fixing this issue is straightforward.
+
+All plungers have a piece of conductive rubber at the end of a small plastic rod. This conductive rubber can easily become contaminated with dust and grease, preventing the plunger from working as it should.
+
+By **carefully** rubbing the conductive rubber on a clean sheet of paper, the plungers can be revived.
+
+<p align="center">
+    <img src="Images/Keyb_10.jpeg" alt="Description" width="600">
+</p>
+
+Finally, the keyboard is reassembled. The tops of the keycaps are a bit yellowed, but the risk of damage when retrobrighting brown keycaps is too high, in my opinion. The keyboard is now in very good condition.
+
+<p align="center">
+    <img src="Images/Keyb_11.jpeg" alt="Description" width="1000">
+</p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
 **Footnotes**
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
 [^2]: Pozidrive pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.0 mm
 [^3]: Phillips pan head (5.3 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 6.0 mm
+[^4]: Pozidrive pan head (6.6 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.5 mm
+[^4]: Phillips pan head (3.2 mm), Sheet metal screw, Partially threaded, Thread diameter: 2.0 mm, Fastener length: 6.0 mm
+
+
+
+
+
