@@ -339,14 +339,14 @@ To prepare the keyboard PCB (Mitsumi Assy 326166-02 / Ser. No. 21840309) for cle
     <img src="Images/Keyb_06.jpeg" alt="Description" width="1000">
 </p>
 
-The SHIFT-LOCK needs to be desoldered before it can be removed from the keyboard. Once the two uninsulated wires are desoldered, the SHIFT-LOCK key can be easily removed by pushing it forward from the rear side.
+The SHIFT-LOCK needs to be desoldered before it can be removed from the keyboard. Once the two uninsulated wires are desoldered, the SHIFT-LOCK key can be easily removed by pushing it forward from the rear side. Notice that there are sign of corrosion on the solder.
 
 <p align="center" float="left">
-    <img src="Images/Keyb_07.jpeg" alt="Description" width="300">
-    <img src="Images/Keyb_08.jpeg" alt="Description" width="300">
+    <img src="Images/Keyb_07.jpeg" alt="Description" width="400">
+    <img src="Images/Keyb_08.jpeg" alt="Description" width="400">
 </p>
 
-The SHIFT-LOCK is cleaned using isopropanol.
+The SHIFT-LOCK is cleaned using isopropanol. And now I notice something: there is a small gap on one of the sides of the switch. It does not seem to impact the function though.
 
 <p align="center">
     <img src="Images/Keyb_07.jpeg" alt="Description" width="500">
