@@ -305,7 +305,7 @@ To start refurbishing the keyboard, it is first disassembled from the front cove
     <img src="Images/Keyb_01.jpeg" alt="Description" width="1000">
 </p>
 
-The keyboard is very dirty, but it seems to be in good condition. All the keycaps are free of any significant scratches or damage, and the springs beneath the keycaps also appear to be functioning. The SHIFT-LOCK key locks in position as expected. The top of the keycaps are slightly yellowed.
+The keyboard is not very dirty, and it seems to be in very good condition. All the keycaps are free of any significant scratches or damage, and the springs beneath the keycaps also appear to be functioning. The SHIFT-LOCK key locks in position as expected. The top of the keycaps are almost not yellowed at all.
 
 <p align="center">
     <img src="Images/Keyb_02.jpeg" alt="Description" width="1000">
