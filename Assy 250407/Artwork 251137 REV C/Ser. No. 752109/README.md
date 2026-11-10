@@ -313,7 +313,9 @@ The keyboard is not very dirty, and it seems to be in very good condition. All t
 
 One thing I notice is that there is quite some moist (and dust and grime) under the transparent tape covering the SHIFT-LOCK key. This is something that needs to be taken care of, and the tape will be removed. Such moist can easily lead to corrosion inside the SHIFT-LOCK key.
 
-
+<p align="center">
+    <img src="Images/Keyb_03.jpeg" alt="Description" width="500">
+</p>
 
 ## Removing and cleaning the keycaps
 
