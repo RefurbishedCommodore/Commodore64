@@ -311,6 +311,10 @@ The keyboard is not very dirty, and it seems to be in very good condition. All t
     <img src="Images/Keyb_02.jpeg" alt="Description" width="1000">
 </p>
 
+One thing I notice is that there is quite some moist (and dust and grime) under the transparent tape covering the SHIFT-LOCK key. This is something that needs to be taken care of, and the tape will be removed. Such moist can easily lead to corrosion inside the SHIFT-LOCK key.
+
+
+
 ## Removing and cleaning the keycaps
 
 All 66 keycaps are removed using a keycap puller [(Tools).](https://refurbished-commodore.com/tools) Using a keycap puller reduces the risk of damaging the keycaps or breaking the plungers. When removing the keycaps, make sure to store the spring for the SPACEBAR separately, as this spring is slightly larger than the others.
