@@ -322,7 +322,7 @@ One thing I notice is that there is quite some moist (and dust and grime) under 
 All 66 keycaps are removed using a keycap puller [(Tools).](https://refurbished-commodore.com/tools) Using a keycap puller reduces the risk of damaging the keycaps or breaking the plungers. When removing the keycaps, make sure to store the spring for the SPACEBAR separately, as this spring is slightly larger than the others.
 
 <p align="center">
-    <img src="Images/Keyb_03.jpeg" alt="Description" width="1000">
+    <img src="Images/Keyb_04.jpeg" alt="Description" width="1000">
 </p>
 
 The keycaps are placed in a container filled with mild soapy water for 24 hours. This helps dissolve any grease and dirt on the keycaps.
