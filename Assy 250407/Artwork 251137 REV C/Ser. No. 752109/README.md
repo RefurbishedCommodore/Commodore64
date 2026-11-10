@@ -327,7 +327,7 @@ The keycaps are placed in a container filled with mild soapy water for 24 hours.
 
 ## Cleaning the keyboard PCB
 
-To prepare the keyboard PCB (Assy 326166-02 / Ser. No. 20830801) for cleaning, the 23 small Phillips screws[^5] are removed.
+To prepare the keyboard PCB (Mitsumi Assy 326166-02 / Ser. No. 21840309) for cleaning, the 23 small Phillips screws[^5] are removed.
 
 <p align="center">
     <img src="Images/Keyb_05.jpeg" alt="Description" width="800">
