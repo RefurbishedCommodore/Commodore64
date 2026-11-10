@@ -341,8 +341,9 @@ To prepare the keyboard PCB (Mitsumi Assy 326166-02 / Ser. No. 21840309) for cle
 
 The SHIFT-LOCK needs to be desoldered before it can be removed from the keyboard. Once the two uninsulated wires are desoldered, the SHIFT-LOCK key can be easily removed by pushing it forward from the rear side.
 
-<p align="center">
-    <img src="Images/Keyb_06.jpeg" alt="Description" width="500">
+<p align="center" float="left">
+    <img src="Images/Keyb_07.jpeg" alt="Description" width="300">
+    <img src="Images/Keyb_08.jpeg" alt="Description" width="300">
 </p>
 
 The SHIFT-LOCK is cleaned using isopropanol.
