@@ -282,7 +282,7 @@ Voltages are measured before—and after—refurbishment. This is to ensure that
 
 The Commodore 64 is powered using a Ray Carlsen PSU.
 
-As seen in the table below, all voltages are within acceptable levels.
+As seen in the table below, all voltages are within acceptable levels. The 9 V, both AC and DC, is slightly low, but is probably caused by an oxidised power connector.
 
 <div align="center">
   
