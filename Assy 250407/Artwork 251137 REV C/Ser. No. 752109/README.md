@@ -348,14 +348,22 @@ The SHIFT-LOCK needs to be desoldered before it can be removed from the keyboard
 
 The SHIFT-LOCK is cleaned using isopropanol. And now I notice something: there is a small gap on one of the sides of the switch. It does not seem to impact the function though.
 
-<p align="center">
-    <img src="Images/Keyb_07.jpeg" alt="Description" width="500">
+<p align="center" float="left">
+    <img src="Images/Keyb_10.jpeg" alt="Description" width="400">
+    <img src="Images/Keyb_09.jpeg" alt="Description" width="400">
+</p>
+
+To investigate what is causing this gap, the SHIFT-LOCK key is disassembled. There are two areas which protrude: a small square plastic area and some PCB material. The small plastic area is cut, which reduce the gap slightly, but the small PCB can´t be reduced. Nevertheless, the SHIFT-LOCK key works as it should.
+
+<p align="center" float="left">
+    <img src="Images/Keyb_11.jpeg" alt="Description" width="400">
+    <img src="Images/Keyb_12.jpeg" alt="Description" width="400">
 </p>
 
 It is very nice to see that this is the KSR-A66YF 56 4021**A** keyboard PCB from Mitsumi. These keyboard PCBs are special, as all 66 contact pads are **GOLD** plated. Later models (such as the **B** variant) have carbon pads. Since the pads are gold-plated, the entire PCB is thoroughly cleaned with isopropanol. It looks as good as new!
 
 <p align="center">
-    <img src="Images/Keyb_08.jpeg" alt="Description" width="1000">
+    <img src="Images/Keyb_13.jpeg" alt="Description" width="1000">
 </p>
 
 At the same time, the plastic bracket holding the PCB is cleaned with mild soapy water.
