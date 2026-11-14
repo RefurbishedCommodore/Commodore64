@@ -314,6 +314,8 @@ In the video below you can hear how the "Donkey Kong" SID tune sound on this mar
 
 [Donkey Kong tune - Marginal SID Voice #3](https://youtu.be/lZJbZ3RNU7Y)
 
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 # Keyboard
 
 To start refurbishing the keyboard, it is first disassembled from the front cover. There are eight Pozidriv screws[^4] attaching the keyboard to the front cover. Note that care must be taken when removing these. The screws have been sitting in place for over 40 years, and the standoffs can easily crack.
