@@ -40,6 +40,9 @@
           <a href="#checking-the-voltages">Checking the voltages</a>
         </li>
         <li>
+          <a href="#investigating-and-troubleshooting-audio-issues">Investigating and troubleshooting audio issues</a>
+        </li>
+        <li>
           <a href="#cleaning-the-user-and-datasette-port">Cleaning the user and datasette port</a>
         </li>
         <li>
@@ -296,6 +299,20 @@ As seen in the table below, all voltages are within acceptable levels. The 9 V, 
 | Unregulated (9V) | 9 V DC | 8.785 V | TBD V | R2 |
 
 </div>
+
+## Investigating and troubleshooting audio issues
+
+This machine is expected to have audio issues. Even if the initial testings pass with flying colours, it does not mean that there still could be problems.
+
+A very good software tool for testing the 6581 SID chip is the [Commodore SID Tester.](https://refurbished-commodore.com/tools) And with this tool something interesting is noticed: there are problems with the PULSE signal on the SIDs voice #3. 
+
+In the video below you can hear the issue. Sometimes the PULSE signal on voice #3 is completely silent, other times it is hardly audible or corrupted.
+
+[Commodore SID Tester - Marginal SID Voice #3](https://youtu.be/UkZKyLgVE6U)
+
+In the video below you can hear how the "Donkey Kong" SID tune sound on this marginal SID. Comparing this SID tune with the proper working version of the Donkey Kong tune it is obvious that this SID chip is marginal.
+
+[Donkey Kong tune - Marginal SID Voice #3](https://youtu.be/lZJbZ3RNU7Y)
 
 # Keyboard
 
