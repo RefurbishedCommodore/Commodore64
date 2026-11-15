@@ -320,7 +320,6 @@ All of the three voices are output on PIN #27. That implies that this is in fact
     <img src="Images/Main_10.png" alt="Description" width="600">
 </p>
 
-
 A new MOS 6581 SID chip is sourced and installed (from another Commodore 64 from the same owner). This SID chip is also from 1984, but a little later in that year: week 33.
 
 <p align="center">
@@ -328,6 +327,10 @@ A new MOS 6581 SID chip is sourced and installed (from another Commodore 64 from
 </p>
 
 With the "new" SID chip in place the SID tester and Donkey Kong tune is played again. This time there are no audible fault. **SUCCESS!**
+
+[Commodore SID Tester - Working SID Voice #3](https://youtu.be/HZm4tRnIPTs)
+
+
 
 
 
