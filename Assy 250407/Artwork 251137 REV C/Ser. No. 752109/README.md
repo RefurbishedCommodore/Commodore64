@@ -337,8 +337,13 @@ With the "new" SID chip in place the SID tester and Donkey Kong tune is played a
 For the datasette, and any peripheral connected to the user port, to work flawlessy, the ports needs to be clean. Cleaning the datasette- and user port is done by rubbing them with an old-school rubber eraser. The rubber eraser will remove the grease and oxidation without damaging the the gold plated contacts. Finally, the ports are cleaned with isopropanol.
 
 <p align="center" float="left">
-    <img src="Images/Main_11.jpeg" alt="Description" width="500">
     <img src="Images/Main_12.jpeg" alt="Description" width="500">
+    <img src="Images/Main_11.jpeg" alt="Description" width="500">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Main_13.jpeg" alt="Description" width="500">
+    <img src="Images/Main_14.jpeg" alt="Description" width="500">
 </p>
 
 ## Adding heatsinks
