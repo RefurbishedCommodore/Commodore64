@@ -360,27 +360,17 @@ Heat can cause ICs to fail faster. A simple but effective measure to reduce the 
 The VIC-II MOS 6569 is also fitted with a heatsink. However, this is done using the existing metal can, which functions as both an RF shield and a heatsink. New thermal paste is applied to the VIC-II before the metal lid is placed on top of the can. Note that the old, crusty, thermal paste is removed first. And only a small drop of thermal paste is required.
 
 <p align="center">
-    <img src="Images/Main_14.jpeg" alt="Description" width="600">
+    <img src="Images/Main_16.jpeg" alt="Description" width="600">
 </p>
 
 <p align="center">
-    <img src="Images/Main_13.jpeg" alt="Description" width="600">
+    <img src="Images/Main_17.jpeg" alt="Description" width="600">
 </p>
-
-During the refurbishment I notice that the thermal paste under the 7805 voltage regulator has dried out completely. The 7805 is loosened from the screw, cleaned, and some new thermal paste applied.
-
-<p align="center" float="left">
-    <img src="Images/Main_15.jpeg" alt="Description" width="500">
-    <img src="Images/Main_16.jpeg" alt="Description" width="500">
-</p>
-
 
 NOTE: The RF cardboard shield has been removed and will not be reinstalled. This RF shield does not serve much purpose in a modern setting and only contributes to additional heat inside the Commodore 64.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
-
-[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Keyboard
 
