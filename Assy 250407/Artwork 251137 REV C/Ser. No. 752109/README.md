@@ -202,7 +202,7 @@ The table below lists all major custom ICs found on the mainboard. As shown, the
 | Chip/Area | Manufactor | Version | Date code | Socket | Note |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | CPU | MOS | 6510 | W17 Y1984 | No |  |
-| SID | MOS | 6581 | W20 Y1984 | Yes |  | 
+| SID | MOS | 6581 | W20 Y1984 | Yes | Replaced with: MOS 6581 W33 Y1984 | 
 | VIC-II | MOS | 6569R3 | W13 Y1984 | Yes |  |
 | PLA | PLAnkton | V1.08 | Unknown | Yes | From a previous repair|
 | CIA #1 | MOS | 6526 | W14 Y1984 | No | |
@@ -326,6 +326,9 @@ A new MOS 6581 SID chip is sourced and installed (from another Commodore 64 from
 <p align="center">
     <img src="Images/Main_10.jpeg" alt="Description" width="400">
 </p>
+
+With the "new" SID chip in place the SID tester and Donkey Kong tune is played again. This time there are no audible fault. **SUCCESS!**
+
 
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
