@@ -324,7 +324,7 @@ All of the three voices are output on PIN #27. That implies that this is in fact
 A new MOS 6581 SID chip is sourced and installed (from another Commodore 64 from the same owner). This SID chip is also from 1984, but a little later in that year: week 33.
 
 <p align="center">
-    <img src="Images/Main_11.jpeg" alt="Description" width="600">
+    <img src="Images/Main_10.jpeg" alt="Description" width="400">
 </p>
 
 
