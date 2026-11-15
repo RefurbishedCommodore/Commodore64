@@ -330,9 +330,7 @@ With the "new" SID chip in place the SID tester and Donkey Kong tune is played a
 
 [Commodore SID Tester - Working SID Voice #3](https://youtu.be/HZm4tRnIPTs)
 
-
-
-
+[Donkey Kong tune - Working SID Voice #3](https://youtu.be/2_kNRrfyz3k)
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
