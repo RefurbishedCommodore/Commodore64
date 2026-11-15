@@ -382,7 +382,9 @@ The MOS 7707 [U8] is desoldered without any damage to traces or pads. And a sock
     <img src="Images/Main_18.jpeg" alt="Description" width="800">
 </p>
 
-
+<p align="center">
+    <img src="Images/Main_19.jpeg" alt="Description" width="800">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
