@@ -332,6 +332,49 @@ With the "new" SID chip in place the SID tester and Donkey Kong tune is played a
 
 [Donkey Kong tune - Working SID Voice #3](https://youtu.be/2_kNRrfyz3k)
 
+## Cleaning the user and datasette port
+
+For the datasette, and any peripheral connected to the user port, to work flawlessy, the ports needs to be clean. Cleaning the datasette- and user port is done by rubbing them with an old-school rubber eraser. The rubber eraser will remove the grease and oxidation without damaging the the gold plated contacts. Finally, the ports are cleaned with isopropanol.
+
+<p align="center" float="left">
+    <img src="Images/Main_11.jpeg" alt="Description" width="500">
+    <img src="Images/Main_12.jpeg" alt="Description" width="500">
+</p>
+
+## Adding heatsinks
+
+Heat can cause ICs to fail faster. A simple but effective measure to reduce the risk of IC failure is to add heatsinks to the warmest ICs. The following ICs are fitted with heatsinks:
+
+- CPU MOS 6510
+- SID MOS 6581
+
+<p align="center">
+    <img src="Images/Main_12.jpeg" alt="Description" width="600">
+</p>
+
+The VIC-II MOS 6569 is also fitted with a heatsink. However, this is done using the existing metal can, which functions as both an RF shield and a heatsink. New thermal paste is applied to the VIC-II before the metal lid is placed on top of the can. Note that the old, crusty, thermal paste is removed first. And only a small drop of thermal paste is required.
+
+<p align="center">
+    <img src="Images/Main_14.jpeg" alt="Description" width="600">
+</p>
+
+<p align="center">
+    <img src="Images/Main_13.jpeg" alt="Description" width="600">
+</p>
+
+During the refurbishment I notice that the thermal paste under the 7805 voltage regulator has dried out completely. The 7805 is loosened from the screw, cleaned, and some new thermal paste applied.
+
+<p align="center" float="left">
+    <img src="Images/Main_15.jpeg" alt="Description" width="500">
+    <img src="Images/Main_16.jpeg" alt="Description" width="500">
+</p>
+
+
+NOTE: The RF cardboard shield has been removed and will not be reinstalled. This RF shield does not serve much purpose in a modern setting and only contributes to additional heat inside the Commodore 64.
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Keyboard
