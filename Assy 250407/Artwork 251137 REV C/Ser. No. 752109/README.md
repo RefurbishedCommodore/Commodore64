@@ -48,6 +48,9 @@
         <li>
           <a href="#adding-heatsinks">Adding heatsinks</a>
         </li>
+        <li>
+          <a href="#replacing-mos-glue-logic">Replacing MOS glue logic</a>
+        </li>
       </ul>
     </li>
     <li>
@@ -368,6 +371,18 @@ The VIC-II MOS 6569 is also fitted with a heatsink. However, this is done using 
 </p>
 
 NOTE: The RF cardboard shield has been removed and will not be reinstalled. This RF shield does not serve much purpose in a modern setting and only contributes to additional heat inside the Commodore 64.
+
+## Replacing MOS glue logic
+
+Although the MOS 7707 chip in position U8 is working fine, the MOS glue logic is notorious for failing. So, it is good practice to replace these with modern equivalents. The MOS 7707 is a hex inverter (6x) which can be replaced with a normal 7406 TTL chip.
+
+The MOS 7707 [U8] is desoldered without any damage to traces or pads. And a socket is installed for easy service later.
+
+<p align="center">
+    <img src="Images/Main_18.jpeg" alt="Description" width="600">
+</p>
+
+
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
