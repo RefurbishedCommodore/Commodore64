@@ -314,6 +314,20 @@ In the video below you can hear how the "Donkey Kong" SID tune sound on this mar
 
 [Donkey Kong tune - Marginal SID Voice #3](https://youtu.be/lZJbZ3RNU7Y)
 
+All of the three voices are output on PIN #27. That implies that this is in fact a fault with the SID chip itself, and not the surrounding amplification and/or filtering. See schematics below.
+
+<p align="center">
+    <img src="Images/Main_10.png" alt="Description" width="600">
+</p>
+
+
+A new MOS 6581 SID chip is sourced and installed (from another Commodore 64 from the same owner). This SID chip is also from 1984, but a little later in that year: week 33.
+
+<p align="center">
+    <img src="Images/Main_11.jpeg" alt="Description" width="600">
+</p>
+
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 # Keyboard
