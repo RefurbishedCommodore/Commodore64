@@ -379,7 +379,7 @@ Although the MOS 7707 chip in position U8 is working fine, the MOS glue logic is
 The MOS 7707 [U8] is desoldered without any damage to traces or pads. And a socket is installed for easy service later.
 
 <p align="center">
-    <img src="Images/Main_18.jpeg" alt="Description" width="600">
+    <img src="Images/Main_18.jpeg" alt="Description" width="800">
 </p>
 
 
