@@ -71,9 +71,6 @@
       <a href="#casing">Casing</a>
       <ul>
         <li>
-          <a href="#removing-the-power-led">Removing the power LED</a>
-        </li>
-        <li>
           <a href="#cleaning-the-covers">Cleaning the covers</a>
         </li>     
       </ul>
@@ -480,6 +477,16 @@ Finally, the keyboard is reassembled. The tops of the keycaps are a bit yellowed
 
 <p align="center">
     <img src="Images/Keyb_16.jpeg" alt="Description" width="1000">
+</p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+# Casing
+
+The covers are in very good condition already, but it is need of some cleaning. Both top and bottom cover are cleaned with some mild soapy water. Below is a picture of the covers after cleaning.
+
+<p align="center">
+    <img src="Images/Case_01.jpeg" alt="Description" width="1000">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
