@@ -489,6 +489,10 @@ The covers are in very good condition already, but it is need of some cleaning. 
     <img src="Images/Case_01.jpeg" alt="Description" width="1000">
 </p>
 
+<p align="center">
+    <img src="Images/Case_02.jpeg" alt="Description" width="1000">
+</p>
+
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 
