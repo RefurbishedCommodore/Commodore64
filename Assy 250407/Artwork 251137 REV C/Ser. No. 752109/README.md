@@ -497,7 +497,9 @@ The covers are in very good condition already, but it is need of some cleaning. 
 
 As with many other Commodore 64 the rear clips are partly broken. These clips are incredible fragile, and will snap by the smallest force. One pair of these clips are intact, but the other two clips are broken. To repair this, two new 3D printed clips are glued to the case.
 
-
+<p align="center">
+    <img src="Images/Case_03.jpeg" alt="Description" width="1000">
+</p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
