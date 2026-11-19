@@ -71,7 +71,7 @@
       <a href="#casing">Casing</a>
       <ul>
         <li>
-          <a href="#cleaning-the-covers">Cleaning the covers</a>
+          <a href="#replacing-the-rear-clips">Replacing the rear clips</a>
         </li>     
       </ul>
     </li>
