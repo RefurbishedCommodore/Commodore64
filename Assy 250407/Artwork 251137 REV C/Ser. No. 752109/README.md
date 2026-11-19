@@ -503,6 +503,81 @@ As with many other Commodore 64 the rear clips are partly broken. These clips ar
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Testing
+
+The proof is in the pudding—does it work?
+
+Testing is carried out in three main stages:
+
+1. Testing the basic functionality and chips
+2. Testing the complete set of custom ICs and I/O ports
+3. Testing the machine by running demos, games, etc., accessed via both floppy and datasette, to verify correct operation
+
+**NOTE:** The image quality is poor, but this is not due to problems with the machine—it is caused by a poor video monitor.
+
+## Basic functionality and chips
+
+The first test is performed using the Dead Test Cartridge. This test does not cover all the functionality of the Commodore 64, but it does verify the basic operation of the major chips, such as the CIA #1/2, CPU, VIC-II, PLA, RAM, and SID. As shown in the picture below, the test is passed.
+
+<p align="center">
+    <img src="Images/Test_01.jpeg" alt="Description" width="600">
+</p>
+
+The next test is to power up the Commodore 64 to the blue startup screen and check the keyboard to ensure all keys work as they should. The test is passed; all keys work, and 38911 BASIC Bytes Free is displayed.
+
+<p align="center" float="left">
+    <img src="Images/Test_02.jpeg" alt="Description" width="400">
+    <img src="Images/Test_03.jpeg" alt="Description" width="400">
+</p>
+
+The basic functions of the VIC-II, SID, and RAM are tested using the 64 Doctor, Commodore 64 SID Tester, and DesTest cartridges. Note that this should be considered basic functionality—more advanced features such as sprite handling, collision detection, and advanced audio will be tested later.
+
+<p align="center" float="left">
+    <img src="Images/Test_04.jpeg" alt="Description" width="220">
+    <img src="Images/Test_05.jpeg" alt="Description" width="220">
+    <img src="Images/Test_06.jpeg" alt="Description" width="220">
+    <img src="Images/Test_07.jpeg" alt="Description" width="220">
+</p>
+
+## Diagnostics test with harness
+
+To test all the custom ICs and I/O ports, the Diagnostics cartridge is used. The Diagnostics cartridge is very valuable when the complete test harness is installed, as virtually everything is tested thoroughly. As can be seen from the picture below, no issues are identified.
+
+<p align="center">
+    <img src="Images/Test_08.jpeg" alt="Description" width="600">
+</p>
+
+## Testing the full 64k of RAM
+
+To ensure that all 64k of RAM is functioning correctly, the DesTestFull cartridge is used. This software uses the March-B algorithm to test the RAM extensively. No issues are identified.
+
+<p align="center">
+    <img src="Images/Test_09.jpeg" alt="Description" width="600">
+</p>
+
+## Extended testing
+
+Knowing that the basic functionality of the machine works, I continue testing by using the Commodore 64 for normal operation: playing games, watching demos, loading from datasette and floppy, and using cartridges. I cannot find any issues with this machine. I also pay special attention to the video to ensure that there are no glitches in the graphics—I cannot see any abnormalities.
+
+Below is a gallery with pictures from the testing. **NOTE:** The colours in the pictures are completely off, and the image quality is poor. However, this is due to my TV and not the machine.
+
+<p align="center" float="left">
+    <img src="Images/Test_11.jpeg" alt="Description" width="180">
+    <img src="Images/Test_12.jpeg" alt="Description" width="180">
+    <img src="Images/Test_13.jpeg" alt="Description" width="180">
+    <img src="Images/Test_14.jpeg" alt="Description" width="180">
+    <img src="Images/Test_15.jpeg" alt="Description" width="180">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Test_16.jpeg" alt="Description" width="180">
+    <img src="Images/Test_17.jpeg" alt="Description" width="180">
+    <img src="Images/Test_18.jpeg" alt="Description" width="180">
+    <img src="Images/Test_19.jpeg" alt="Description" width="180">
+    <img src="Images/Test_20.jpeg" alt="Description" width="180">
+</p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
 **Footnotes**
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
