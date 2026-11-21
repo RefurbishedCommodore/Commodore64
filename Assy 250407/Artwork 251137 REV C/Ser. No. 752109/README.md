@@ -588,6 +588,36 @@ Below is a gallery with pictures from the testing.
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
 
+# Final result
+
+<div align="center">
+
+*"A picture is worth a thousand words"*
+
+Below is a collection of pictures of the final result of the refurbishment of this C64. Hope you like it! Click to enlarge!
+
+</div>
+
+<p align="center">
+    <img src="Images/Final_01.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Final_02.jpeg" alt="Description" width="400">
+    <img src="Images/Final_03.jpeg" alt="Description" width="400">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Final_04.jpeg" alt="Description" width="400">
+    <img src="Images/Final_05.jpeg" alt="Description" width="400">
+</p>
+
+<p align="center">
+    <img src="Images/Final_06.jpeg" alt="Description" width="800">
+</p>
+
+[![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
 **Footnotes**
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
 [^2]: Pozidrive pan head (6.8 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.5 mm, Fastener length: 9.0 mm
