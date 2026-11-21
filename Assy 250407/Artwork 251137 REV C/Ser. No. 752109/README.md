@@ -568,14 +568,14 @@ To ensure that all 64k of RAM is functioning correctly, the DesTestFull cartridg
 
 Knowing that the basic functionality of the machine works, I continue testing by using the Commodore 64 for normal operation: playing games, watching demos, loading from datasette and floppy, and using cartridges. I cannot find any issues with this machine. I also pay special attention to the video to ensure that there are no glitches in the graphics—I cannot see any abnormalities.
 
-Below is a gallery with pictures from the testing. **NOTE:** The colours in the pictures are completely off, and the image quality is poor. However, this is due to my TV and not the machine.
+Below is a gallery with pictures from the testing.
 
 <p align="center" float="left">
-    <img src="Images/Test_11.jpeg" alt="Description" width="180">
-    <img src="Images/Test_12.jpeg" alt="Description" width="180">
-    <img src="Images/Test_13.jpeg" alt="Description" width="180">
-    <img src="Images/Test_14.jpeg" alt="Description" width="180">
-    <img src="Images/Test_15.jpeg" alt="Description" width="180">
+    <img src="Images/Test_14.png" alt="Description" width="180">
+    <img src="Images/Test_15.png" alt="Description" width="180">
+    <img src="Images/Test_16.png" alt="Description" width="180">
+    <img src="Images/Test_17.png" alt="Description" width="180">
+    <img src="Images/Test_18.png" alt="Description" width="180">
 </p>
 
 <p align="center" float="left">
