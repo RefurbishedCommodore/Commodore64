@@ -579,11 +579,11 @@ Below is a gallery with pictures from the testing.
 </p>
 
 <p align="center" float="left">
-    <img src="Images/Test_16.jpeg" alt="Description" width="180">
-    <img src="Images/Test_17.jpeg" alt="Description" width="180">
-    <img src="Images/Test_18.jpeg" alt="Description" width="180">
-    <img src="Images/Test_19.jpeg" alt="Description" width="180">
-    <img src="Images/Test_20.jpeg" alt="Description" width="180">
+    <img src="Images/Test_19.png" alt="Description" width="180">
+    <img src="Images/Test_20.png" alt="Description" width="180">
+    <img src="Images/Test_21.png" alt="Description" width="180">
+    <img src="Images/Test_22.png" alt="Description" width="180">
+    <img src="Images/Test_23.png" alt="Description" width="180">
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
