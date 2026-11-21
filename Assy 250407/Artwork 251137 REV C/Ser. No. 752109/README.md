@@ -505,6 +505,8 @@ As with many other Commodore 64 the rear clips are partly broken. These clips ar
 
 # Testing
 
+<!-- IMAGE SIZE: 590x450 -->
+
 The proof is in the pudding—does it work?
 
 Testing is carried out in three main stages:
