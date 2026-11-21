@@ -603,13 +603,19 @@ Below is a collection of pictures of the final result of the refurbishment of th
 </p>
 
 <p align="center" float="left">
-    <img src="Images/Final_02.jpeg" alt="Description" width="400">
-    <img src="Images/Final_03.jpeg" alt="Description" width="400">
+    <img src="Images/Final_02.jpeg" alt="Description" width="800">
 </p>
 
 <p align="center" float="left">
-    <img src="Images/Final_04.jpeg" alt="Description" width="400">
-    <img src="Images/Final_05.jpeg" alt="Description" width="400">
+    <img src="Images/Final_03.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Final_04.jpeg" alt="Description" width="800">
+</p>
+
+<p align="center" float="left">
+    <img src="Images/Final_05.jpeg" alt="Description" width="800">
 </p>
 
 <p align="center">
@@ -617,6 +623,8 @@ Below is a collection of pictures of the final result of the refurbishment of th
 </p>
 
 [![Back to TOC](https://img.shields.io/badge/TOC-grey?style=plastic)](#table-of-contents)
+
+
 
 **Footnotes**
 [^1]: Phillips pan head (5.5 mm), Sheet metal screw, Fully threaded, Thread diameter: 3.0 mm, Fastener length: 9.0 mm
