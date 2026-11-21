@@ -553,7 +553,7 @@ The basic functions of the VIC-II, SID, and RAM are tested using the 64 Doctor, 
 To test all the custom ICs and I/O ports, the Diagnostics cartridge is used. The Diagnostics cartridge is very valuable when the complete test harness is installed, as virtually everything is tested thoroughly. As can be seen from the picture below, no issues are identified.
 
 <p align="center">
-    <img src="Images/Test_08.jpeg" alt="Description" width="600">
+    <img src="Images/Test_12.png" alt="Description" width="600">
 </p>
 
 ## Testing the full 64k of RAM
@@ -561,7 +561,7 @@ To test all the custom ICs and I/O ports, the Diagnostics cartridge is used. The
 To ensure that all 64k of RAM is functioning correctly, the DesTestFull cartridge is used. This software uses the March-B algorithm to test the RAM extensively. No issues are identified.
 
 <p align="center">
-    <img src="Images/Test_09.jpeg" alt="Description" width="600">
+    <img src="Images/Test_13.png" alt="Description" width="600">
 </p>
 
 ## Extended testing
